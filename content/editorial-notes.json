@@ -1,0 +1,19 @@
+{
+  "contentApproach": "Concise editorial introductions to the existing archive, with original-source links for full reflections, transcripts, photographs, and context. External articles remain clearly attributed.",
+  "eventDates": "Do not interpret month/day notices as upcoming confirmed events. Existing announcements omit years. The Paula Huston notice says Sunday, October 18, without an explicit year.",
+  "sourcePages": ["https://mrcslo.com/reflections", "https://mrcslo.com/announcements"],
+  "volunteering": {
+    "title": "Share your gifts with the community",
+    "roles": ["Event planning and coordination", "Community outreach and engagement", "Spiritual retreat support", "Groundskeeping and maintenance"],
+    "contactEmail": "media@symposio.io",
+    "sourceUrl": "https://mrcslo.com/announcements"
+  },
+  "editorialChecks": [
+    "Confirm the date and current status of all scheduled gatherings before publication.",
+    "Confirm the current chapel fundraising need; announcements describes renovation as completed while Support describes remodeling as beginning.",
+    "The source gives the anniversary of St. Romuald’s death as 1027; avoid introducing a publication year for that reflection.",
+    "The source does not identify the speaker of Apocalypse or Renewal; use the monastery credit until confirmed.",
+    "For the recorded Dreamwork seminar and Prior General’s pastoral letter, the original announcements archive supplies the verified link; direct destination URLs were not recovered.",
+    "The Dilexit Nos PDF URL is the actual linked destination, but the web fetch did not confirm document availability."
+  ]
+}

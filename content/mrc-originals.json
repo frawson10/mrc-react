@@ -1,0 +1,1476 @@
+{
+  "romuald-hope": {
+    "nickname": "Anniversary",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "1,000th Anniversary of St. Romuald Reflection"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>Transitus&nbsp;of&nbsp;St.Romuald&nbsp;1,000&nbsp;years&nbsp;1027&nbsp;A.D.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Today&nbsp;we&nbsp;recall&nbsp;1,000&nbsp;years&nbsp;of&nbsp;the&nbsp;manifestation&nbsp;of&nbsp;Hope,&nbsp;incarnated&nbsp;in&nbsp;the&nbsp;men&nbsp;and&nbsp;woman&nbsp;of&nbsp;the&nbsp;over&nbsp;the&nbsp;course&nbsp;of&nbsp;our&nbsp;monastic&nbsp;heritage.&nbsp;The&nbsp;central&nbsp;experience&nbsp;of&nbsp;Hope&nbsp;within&nbsp;their&nbsp;hearts&nbsp;was&nbsp;stimulated&nbsp;and&nbsp;sustained&nbsp;by&nbsp;the&nbsp;Holy&nbsp;Spirit.&nbsp;The&nbsp;Jewish&nbsp;mystic&nbsp;Etty&nbsp;Hillesum&nbsp;who&nbsp;died&nbsp;in&nbsp;Auschwitz&nbsp;wrote:&nbsp;“A&nbsp;desire&nbsp;to&nbsp;kneel&nbsp;down&nbsp;sometimes&nbsp;pulses&nbsp;through&nbsp;my&nbsp;body,&nbsp;or&nbsp;rather&nbsp;it&nbsp;is&nbsp;as&nbsp;if&nbsp;my&nbsp;body&nbsp;has&nbsp;been&nbsp;meant&nbsp;and&nbsp;made.&nbsp;for&nbsp;the&nbsp;act&nbsp;of&nbsp;kneeling.&nbsp;Sometimes&nbsp;in&nbsp;moments&nbsp;of&nbsp;deep&nbsp;gratitude,&nbsp;kneeling&nbsp;down&nbsp;becomes&nbsp;an&nbsp;overwhelming&nbsp;urge,&nbsp;head&nbsp;deeply&nbsp;bowed,&nbsp;hands&nbsp;before&nbsp;my&nbsp;face.&nbsp;It&nbsp;has&nbsp;become&nbsp;a&nbsp;gesture&nbsp;embedded&nbsp;in&nbsp;my&nbsp;body.”</p><p>Perhaps&nbsp;this&nbsp;self-observation&nbsp;is&nbsp;in&nbsp;part&nbsp;an&nbsp;explanation&nbsp;of&nbsp;what&nbsp;Saint&nbsp;Romuald&nbsp;and&nbsp;all&nbsp;who&nbsp;have&nbsp;embraced&nbsp;the&nbsp;Camaldolese’&nbsp;charism&nbsp;continues&nbsp;to&nbsp;reveal&nbsp;to&nbsp;the&nbsp;world&nbsp;and&nbsp;the&nbsp;church?&nbsp;In&nbsp;life’s&nbsp;sojourn&nbsp;there&nbsp;is&nbsp;the&nbsp;embodiment&nbsp;of&nbsp;posture&nbsp;we&nbsp;take&nbsp;towards&nbsp;others,&nbsp;indeed&nbsp;creation.&nbsp;We&nbsp;create&nbsp;structures,&nbsp;such&nbsp;as&nbsp;hermitages,&nbsp;churches,&nbsp;altars,&nbsp;chairs,&nbsp;psalters,&nbsp;clothing&nbsp;that&nbsp;are&nbsp;adaptations&nbsp;that&nbsp;relate&nbsp;our&nbsp;stance&nbsp;or&nbsp;purpose&nbsp;in&nbsp;life&nbsp;and&nbsp;in&nbsp;death.&nbsp;We&nbsp;give&nbsp;bequests&nbsp;of&nbsp;our&nbsp;embodied&nbsp;values&nbsp;within&nbsp;these&nbsp;heirlooms&nbsp;of&nbsp;our&nbsp;personal&nbsp;and&nbsp;collective&nbsp;histories&nbsp;to&nbsp;other&nbsp;generations,&nbsp;so&nbsp;that&nbsp;they&nbsp;like&nbsp;us&nbsp;may&nbsp;be&nbsp;encouraged&nbsp;in&nbsp;their&nbsp;reverence&nbsp;for&nbsp;the&nbsp;images&nbsp;of&nbsp;God&nbsp;within&nbsp;them&nbsp;as&nbsp;Jesus&nbsp;the&nbsp;Word&nbsp;had&nbsp;created&nbsp;and&nbsp;recreated&nbsp;us.&nbsp;Having&nbsp;the&nbsp;Hope&nbsp;that&nbsp;it&nbsp;will&nbsp;be&nbsp;weave&nbsp;the&nbsp;new&nbsp;creation&nbsp;our&nbsp;spiritual&nbsp;ancestors&nbsp;like&nbsp;Saint&nbsp;Romuald&nbsp;has&nbsp;taught&nbsp;us.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Mysterium&nbsp;Vita&nbsp;et&nbsp;Mysterium&nbsp;Mortis,&nbsp;the&nbsp;two&nbsp;great&nbsp;human&nbsp;mysteries&nbsp;we&nbsp;are&nbsp;by&nbsp;design&nbsp;birthed&nbsp;into&nbsp;are&nbsp;at&nbsp;the&nbsp;root&nbsp;of&nbsp;Camaldolese&nbsp;mysticism&nbsp;of&nbsp;Saint&nbsp;Romuald.&nbsp;Like&nbsp;&nbsp;sacraments&nbsp;that&nbsp;not&nbsp;only&nbsp;render&nbsp;presence&nbsp;of&nbsp;God,&nbsp;but&nbsp;can&nbsp;suggest&nbsp;how&nbsp;much&nbsp;more&nbsp;is&nbsp;rendered&nbsp;in&nbsp;surplus&nbsp;behind&nbsp;the&nbsp;sign&nbsp;or&nbsp;form.&nbsp;Sacraments&nbsp;and&nbsp;sacramentals&nbsp;suggested&nbsp;by&nbsp;the&nbsp;poet&nbsp;Gerard&nbsp;Manley&nbsp;Hopkins&nbsp;:&nbsp;“the&nbsp;world&nbsp;is&nbsp;charged&nbsp;with&nbsp;the&nbsp;grandeur&nbsp;of&nbsp;God!”.&nbsp;.&nbsp;.&nbsp;&nbsp;as&nbsp;is&nbsp;observed&nbsp;by&nbsp;Christopher&nbsp;Nugent&nbsp;in&nbsp;his&nbsp;book&nbsp;Mysticism,Death&nbsp;&amp;&nbsp;Dying.&nbsp;It&nbsp;is&nbsp;to&nbsp;this&nbsp;grandeur&nbsp;which&nbsp;engaged&nbsp;the&nbsp;spiritual&nbsp;imagination&nbsp;of&nbsp;Saint&nbsp;Romuald&nbsp;I&nbsp;believe&nbsp;inspired&nbsp;him&nbsp;to&nbsp;write&nbsp;with&nbsp;great&nbsp;Hope&nbsp;in&nbsp;his&nbsp;Rule,&nbsp;“Sit&nbsp;in&nbsp;your&nbsp;cell&nbsp;as&nbsp;in&nbsp;Paradise.&nbsp;.&nbsp;.&nbsp;the&nbsp;path&nbsp;you&nbsp;must&nbsp;follow&nbsp;is&nbsp;the&nbsp;Psalms,&nbsp;never&nbsp;leave&nbsp;it.&nbsp;.&nbsp;.&nbsp;content&nbsp;with&nbsp;the&nbsp;grace&nbsp;of&nbsp;God,&nbsp;like&nbsp;a&nbsp;chick&nbsp;who&nbsp;tastes&nbsp;nothing&nbsp;and&nbsp;eats&nbsp;nothing&nbsp;but&nbsp;what&nbsp;his&nbsp;mother&nbsp;brings&nbsp;him.”&nbsp;This&nbsp;an&nbsp;experience&nbsp;of&nbsp;engagement&nbsp;not&nbsp;that&nbsp;of&nbsp;delusion&nbsp;or&nbsp;escapism.&nbsp;For&nbsp;as&nbsp;Thomas&nbsp;Merton&nbsp;the&nbsp;Trappist&nbsp;monk&nbsp;observed&nbsp;in&nbsp;his&nbsp;book,&nbsp;Contemplation&nbsp;In&nbsp;A&nbsp;World&nbsp;Of&nbsp;Action,&nbsp;the&nbsp;hermit/monastic&nbsp;is&nbsp;not&nbsp;one&nbsp;who&nbsp;goes&nbsp;into&nbsp;solitude&nbsp;to&nbsp;escape&nbsp;but&nbsp;rather&nbsp;to&nbsp;engage&nbsp;the&nbsp;heart&nbsp;of&nbsp;longing,&nbsp;desire&nbsp;and&nbsp;incompleteness&nbsp;every&nbsp;human&nbsp;being&nbsp;wrestles&nbsp;with&nbsp;in&nbsp;this&nbsp;life.&nbsp;This&nbsp;on&nbsp;the&nbsp;part&nbsp;of&nbsp;the&nbsp;monk&nbsp;or&nbsp;nun,&nbsp;or&nbsp;anyone&nbsp;is&nbsp;borne&nbsp;in&nbsp;their&nbsp;spiritual&nbsp;imagination&nbsp;a&nbsp;desires&nbsp;to&nbsp;connect&nbsp;with&nbsp;all&nbsp;others&nbsp;in&nbsp;God.&nbsp;Thus&nbsp;a&nbsp;flame&nbsp;of&nbsp;divine&nbsp;origins&nbsp;sacramentalize&nbsp;within&nbsp;consciousness&nbsp;an&nbsp;active&nbsp;participation&nbsp;amid&nbsp;the&nbsp;lives&nbsp;of&nbsp;others&nbsp;and&nbsp;indeed&nbsp;all&nbsp;living&nbsp;things&nbsp;great&nbsp;or&nbsp;small.&nbsp;Hope&nbsp;embraced&nbsp;by&nbsp;their&nbsp;faith&nbsp;gives&nbsp;purpose&nbsp;to&nbsp;the&nbsp;action&nbsp;of&nbsp;Self-donation&nbsp;to&nbsp;others&nbsp;in&nbsp;what&nbsp;as&nbsp;we&nbsp;Camaldolese&nbsp;have&nbsp;come&nbsp;to&nbsp;experience&nbsp;as&nbsp;the&nbsp;3-fold&nbsp;Good,&nbsp;life&nbsp;in&nbsp;community,&nbsp;solitude&nbsp;and&nbsp;evangelization.</p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "advent-justice-peace": {
+    "nickname": "Reflection",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Advent Reflection from Prior Fr. Daniel"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>As&nbsp;the&nbsp;Advent&nbsp;Season&nbsp;of&nbsp;waiting&nbsp;and&nbsp;watchful&nbsp;prayer&nbsp;of&nbsp;our&nbsp;monastic&nbsp;community&nbsp;enters&nbsp;with&nbsp;the&nbsp;whole&nbsp;of&nbsp;the&nbsp;Christian&nbsp;people,&nbsp;good&nbsp;will&nbsp;and&nbsp;peace&nbsp;as&nbsp;was&nbsp;announced&nbsp;by&nbsp;the&nbsp;angelic&nbsp;choirs&nbsp;to&nbsp;the&nbsp;poor&nbsp;shepherds&nbsp;is&nbsp;ever&nbsp;more&nbsp;paramount&nbsp;in&nbsp;our&nbsp;intercessions.&nbsp;The&nbsp;diocese&nbsp;of&nbsp;Monterey&nbsp;is&nbsp;asking&nbsp;for&nbsp;all&nbsp;parishes&nbsp;to&nbsp;take&nbsp;time&nbsp;on&nbsp;the&nbsp;feast&nbsp;of&nbsp;Saint&nbsp;Juan&nbsp;Diego&nbsp;December&nbsp;9th&nbsp;to&nbsp;keep&nbsp;a&nbsp;holy&nbsp;hour&nbsp;of&nbsp;prayer&nbsp;for&nbsp;our&nbsp;brothers&nbsp;and&nbsp;sisters&nbsp;who&nbsp;are&nbsp;immigrants.&nbsp;The&nbsp;monks&nbsp;here&nbsp;every&nbsp;evening&nbsp;at&nbsp;5:30&nbsp;PM&nbsp;till&nbsp;6:00PM&nbsp;keep&nbsp;a&nbsp;half&nbsp;hour&nbsp;of&nbsp;adoration&nbsp;prayer&nbsp;and&nbsp;all&nbsp;are&nbsp;welcome.&nbsp;As&nbsp;you&nbsp;may&nbsp;know&nbsp;the&nbsp;USCCB&nbsp;has&nbsp;published&nbsp;a&nbsp;pastoral&nbsp;letter&nbsp;to&nbsp;the&nbsp;president&nbsp;and&nbsp;our&nbsp;congress&nbsp;urging&nbsp;a&nbsp;reform&nbsp;of&nbsp;their&nbsp;policy&nbsp;in&nbsp;the&nbsp;treatment&nbsp;of&nbsp;immigrants&nbsp;and&nbsp;to&nbsp;allow&nbsp;for&nbsp;pastoral&nbsp;care&nbsp;ministers&nbsp;to&nbsp;be&nbsp;allowed&nbsp;in&nbsp;the&nbsp;detention&nbsp;centers&nbsp;of&nbsp;ICE,&nbsp;which&nbsp;up&nbsp;till&nbsp;now&nbsp;has&nbsp;not&nbsp;been&nbsp;a&nbsp;realized.&nbsp;Pope&nbsp;Leo&nbsp;has&nbsp;also&nbsp;supported&nbsp;our&nbsp;bishops&nbsp;on&nbsp;this&nbsp;pastoral&nbsp;and&nbsp;spoken&nbsp;on&nbsp;not&nbsp;a&nbsp;few&nbsp;occasions&nbsp;about&nbsp;our&nbsp;responsibilities&nbsp;as&nbsp;followers&nbsp;of&nbsp;Christ.&nbsp;Prayer&nbsp;in&nbsp;a&nbsp;primal&nbsp;support&nbsp;in&nbsp;aiding&nbsp;conversion&nbsp;to&nbsp;the&nbsp;practice&nbsp;of&nbsp;justice&nbsp;and&nbsp;peace.&nbsp;Saint&nbsp;Pope&nbsp;Paul&nbsp;VI,&nbsp;wrote;&nbsp;“If&nbsp;you&nbsp;want&nbsp;peace,&nbsp;then&nbsp;work&nbsp;for&nbsp;justice.”&nbsp;He&nbsp;observed&nbsp;that&nbsp;the&nbsp;two&nbsp;issues&nbsp;are&nbsp;linked&nbsp;in&nbsp;how&nbsp;God&nbsp;graces&nbsp;us&nbsp;to&nbsp;be&nbsp;emissaries&nbsp;and&nbsp;practitioners&nbsp;of&nbsp;these&nbsp;Christian&nbsp;virtues.&nbsp;God&nbsp;is&nbsp;the&nbsp;author&nbsp;of&nbsp;the&nbsp;inspirations&nbsp;that&nbsp;call&nbsp;to&nbsp;our&nbsp;hearts&nbsp;to&nbsp;take&nbsp;action&nbsp;and&nbsp;make&nbsp;real&nbsp;these&nbsp;virtues&nbsp;in&nbsp;all&nbsp;aspects&nbsp;of&nbsp;our&nbsp;relationships.&nbsp;Justice&nbsp;and&nbsp;peace&nbsp;are&nbsp;virtues&nbsp;of&nbsp;participation&nbsp;in&nbsp;Christ’s&nbsp;victory&nbsp;over&nbsp;sin&nbsp;and&nbsp;the&nbsp;causes&nbsp;of&nbsp;death&nbsp;that&nbsp;afflict&nbsp;our&nbsp;spirits&nbsp;and&nbsp;our&nbsp;bodies&nbsp;and&nbsp;minds&nbsp;by&nbsp;the&nbsp;indifference&nbsp;and&nbsp;lack&nbsp;of&nbsp;compassionate&nbsp;practices&nbsp;in&nbsp;society.&nbsp;History&nbsp;is&nbsp;filled&nbsp;with&nbsp;examples,&nbsp;even&nbsp;in&nbsp;the&nbsp;time&nbsp;that&nbsp;Jesus&nbsp;was&nbsp;birthed&nbsp;in&nbsp;Bethlehem.&nbsp;However,&nbsp;we&nbsp;can&nbsp;ponder&nbsp;that&nbsp;this&nbsp;was&nbsp;called&nbsp;the&nbsp;“fullness&nbsp;of&nbsp;time”&nbsp;by&nbsp;Saint&nbsp;John.&nbsp;God,&nbsp;irrespective&nbsp;of&nbsp;the&nbsp;suffering,&nbsp;inhumanity&nbsp;of&nbsp;the&nbsp;Roman&nbsp;empire’s&nbsp;subjugations,&nbsp;could&nbsp;not&nbsp;put&nbsp;off,&nbsp;for&nbsp;God’s&nbsp;will&nbsp;to&nbsp;come&nbsp;among&nbsp;us&nbsp;and&nbsp;immersed&nbsp;himself&nbsp;into&nbsp;humanity’s&nbsp;plight&nbsp;willingly&nbsp;through&nbsp;his&nbsp;embracing&nbsp;of&nbsp;our&nbsp;poverty&nbsp;of&nbsp;body,&nbsp;mind&nbsp;and&nbsp;spirit.&nbsp;What&nbsp;has&nbsp;been&nbsp;set&nbsp;into&nbsp;motion&nbsp;in&nbsp;our&nbsp;universe&nbsp;therefore,&nbsp;our&nbsp;world&nbsp;history&nbsp;is&nbsp;a&nbsp;sacred&nbsp;covenant&nbsp;that&nbsp;relentlessly&nbsp;in&nbsp;the&nbsp;mediation&nbsp;of&nbsp;martyrs,&nbsp;and&nbsp;saints&nbsp;and&nbsp;of&nbsp;Christ&nbsp;himself&nbsp;a&nbsp;thirst&nbsp;for&nbsp;justice&nbsp;and&nbsp;peace&nbsp;the&nbsp;mend&nbsp;and&nbsp;heal.&nbsp;These&nbsp;are&nbsp;the&nbsp;signs&nbsp;that&nbsp;accompany&nbsp;the&nbsp;disciples&nbsp;of&nbsp;Jesus&nbsp;the&nbsp;Christ,&nbsp;the&nbsp;Messiah.&nbsp;Let&nbsp;us&nbsp;rally&nbsp;one&nbsp;another,&nbsp;inspire&nbsp;by&nbsp;simple&nbsp;prayers&nbsp;and&nbsp;actions&nbsp;in&nbsp;our&nbsp;relationships&nbsp;this&nbsp;season&nbsp;to&nbsp;honor&nbsp;the&nbsp;image&nbsp;and&nbsp;likeness&nbsp;within&nbsp;all&nbsp;people&nbsp;we&nbsp;meet&nbsp;strangers,&nbsp;immigrants,&nbsp;family&nbsp;members&nbsp;and&nbsp;even&nbsp;those&nbsp;opposed&nbsp;to&nbsp;us&nbsp;and&nbsp;our&nbsp;faith&nbsp;traditions&nbsp;with&nbsp;a&nbsp;prayer&nbsp;of&nbsp;peace&nbsp;that&nbsp;justice&nbsp;prevail&nbsp;and&nbsp;enlighten&nbsp;all&nbsp;of&nbsp;us&nbsp;to&nbsp;the&nbsp;love&nbsp;of&nbsp;God&nbsp;without&nbsp;discrimination.</p><p></p><p>Blessings&nbsp;and&nbsp;peace,</p><p></p><p>Prior&nbsp;Daniel&nbsp;Manger,O.S.B.,Cam.</p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "thanksgiving": {
+    "nickname": "Thanksgiving",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "A Thanksgiving Reflection by Prior Daniel Manger"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">A&nbsp;number&nbsp;of&nbsp;years&nbsp;ago&nbsp;the&nbsp;author&nbsp;Aldous&nbsp;Huxley&nbsp;wrote:&nbsp;“Experience&nbsp;is&nbsp;not&nbsp;what&nbsp;happens&nbsp;to&nbsp;a&nbsp;person.&nbsp;It&nbsp;is&nbsp;what&nbsp;a&nbsp;person&nbsp;does&nbsp;with&nbsp;what&nbsp;happens&nbsp;to&nbsp;them.”</span></p><p><span style=\"color: rgb(55, 53, 47);\">Meditating&nbsp;on&nbsp;the&nbsp;meaning&nbsp;of&nbsp;Thanksgiving&nbsp;Day&nbsp;certainly&nbsp;will&nbsp;conjure&nbsp;many&nbsp;memories&nbsp;in&nbsp;one’s&nbsp;life&nbsp;in&nbsp;America&nbsp;of&nbsp;the&nbsp;experiences&nbsp;that&nbsp;marked&nbsp;one’s&nbsp;life.&nbsp;For&nbsp;a&nbsp;Catholic&nbsp;the&nbsp;word&nbsp;thanksgiving&nbsp;is&nbsp;associated&nbsp;with&nbsp;the&nbsp;word&nbsp;Eucharist.&nbsp;Gratitude&nbsp;is&nbsp;a&nbsp;central&nbsp;meaning&nbsp;of&nbsp;many&nbsp;experiences&nbsp;that&nbsp;happen&nbsp;to&nbsp;one&nbsp;as&nbsp;the&nbsp;result&nbsp;the&nbsp;encounter&nbsp;of&nbsp;Eucharist&nbsp;from&nbsp;one’s&nbsp;first&nbsp;communion&nbsp;onwards&nbsp;in&nbsp;life.&nbsp;A&nbsp;life&nbsp;of&nbsp;humble&nbsp;gratitude&nbsp;is&nbsp;the&nbsp;result&nbsp;of&nbsp;the&nbsp;pervading&nbsp;real&nbsp;presence&nbsp;of&nbsp;Christ’s&nbsp;Eucharistic&nbsp;presence&nbsp;intimately&nbsp;woven&nbsp;in&nbsp;a&nbsp;person’s&nbsp;experience&nbsp;and&nbsp;indeed&nbsp;calls&nbsp;one&nbsp;to&nbsp;pay&nbsp;it&nbsp;forward&nbsp;in&nbsp;our&nbsp;relationships&nbsp;to&nbsp;others&nbsp;and&nbsp;indeed&nbsp;all&nbsp;of&nbsp;creation.&nbsp;Isaac&nbsp;of&nbsp;Nineveth&nbsp;in&nbsp;his&nbsp;Ascetic&nbsp;Treatises&nbsp;writes:&nbsp;“When&nbsp;God&nbsp;sees&nbsp;that&nbsp;in&nbsp;all&nbsp;purity&nbsp;of&nbsp;heart&nbsp;you&nbsp;are&nbsp;trusting&nbsp;in&nbsp;him&nbsp;more&nbsp;than&nbsp;in&nbsp;yourself.&nbsp;.&nbsp;.then&nbsp;a&nbsp;strength&nbsp;unknown&nbsp;to&nbsp;you&nbsp;will&nbsp;come&nbsp;and&nbsp;make&nbsp;its&nbsp;dwelling&nbsp;in&nbsp;you.&nbsp;And&nbsp;you&nbsp;will&nbsp;feel&nbsp;in&nbsp;all&nbsp;your&nbsp;senses&nbsp;the&nbsp;power&nbsp;of&nbsp;him&nbsp;who&nbsp;is&nbsp;with&nbsp;you.”&nbsp;Eucharist&nbsp;is&nbsp;the&nbsp;gift&nbsp;that&nbsp;has&nbsp;been&nbsp;given&nbsp;to&nbsp;bring&nbsp;this&nbsp;about&nbsp;within&nbsp;us&nbsp;and&nbsp;all&nbsp;of&nbsp;creation.&nbsp;The&nbsp;attitude&nbsp;of&nbsp;thanksgiving&nbsp;is&nbsp;to&nbsp;shape&nbsp;constantly&nbsp;an&nbsp;environment&nbsp;where&nbsp;compassion,&nbsp;justice&nbsp;render&nbsp;peace&nbsp;and&nbsp;joy&nbsp;in&nbsp;humble&nbsp;collaboration&nbsp;to&nbsp;keep&nbsp;callousness&nbsp;and&nbsp;cynicism&nbsp;from&nbsp;over&nbsp;coming&nbsp;us.&nbsp;Eucharist&nbsp;is&nbsp;a&nbsp;creative&nbsp;activity&nbsp;rendering&nbsp;one&nbsp;as&nbsp;a&nbsp;new&nbsp;creation&nbsp;in&nbsp;God’s&nbsp;future&nbsp;becoming&nbsp;our&nbsp;today.&nbsp;Thanksgiving&nbsp;Day&nbsp;can&nbsp;be&nbsp;yet&nbsp;another&nbsp;opportunity&nbsp;to&nbsp;begin&nbsp;anew&nbsp;with&nbsp;what&nbsp;happens&nbsp;to&nbsp;us&nbsp;as&nbsp;we&nbsp;enter&nbsp;in&nbsp;to&nbsp;it&nbsp;this&nbsp;year&nbsp;of&nbsp;2024.&nbsp;“&nbsp;The&nbsp;visible&nbsp;is&nbsp;the&nbsp;invisible&nbsp;written&nbsp;down.&nbsp;The&nbsp;Word,&nbsp;which&nbsp;produces,&nbsp;develops&nbsp;and&nbsp;attracts&nbsp;to&nbsp;itself&nbsp;every&nbsp;creature,&nbsp;is&nbsp;both&nbsp;silent&nbsp;and&nbsp;self-revelatory&nbsp;in&nbsp;it.&nbsp;It&nbsp;is&nbsp;silent&nbsp;in&nbsp;the&nbsp;negligence&nbsp;and&nbsp;greed&nbsp;of&nbsp;humanity.&nbsp;It&nbsp;is&nbsp;revelatory&nbsp;when&nbsp;humanity&nbsp;‘names’&nbsp;living&nbsp;things,&nbsp;like&nbsp;a&nbsp;poet&nbsp;on&nbsp;fire&nbsp;with&nbsp;love.”&nbsp;(&nbsp;Olivier&nbsp;Clement,&nbsp;Roots&nbsp;of&nbsp;Christian&nbsp;Mysticism)</span></p><p><span style=\"color: rgb(55, 53, 47);\">On&nbsp;behalf&nbsp;of&nbsp;our&nbsp;Camaldolese&nbsp;Monastic&nbsp;community&nbsp;and&nbsp;Oblates&nbsp;here&nbsp;at&nbsp;Monastery&nbsp;of&nbsp;the&nbsp;Risen&nbsp;Christ&nbsp;we&nbsp;pray&nbsp;you&nbsp;have&nbsp;Thanksgiving&nbsp;Day&nbsp;that&nbsp;renews&nbsp;your&nbsp;family&nbsp;and&nbsp;friends&nbsp;in&nbsp;hope.</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "labyrinth-peace-walk": {
+    "nickname": "Labyrinth",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "A Reflection on the Community Labyrinth Peace Walk by Prior Daniel Manger"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513209023_labyrinth.jpg?alt=media&token=b9934e3f-ba82-4aca-b685-cf84cef5d0c3"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">&quot;The&nbsp;great&nbsp;Architect&nbsp;of&nbsp;the&nbsp;universe&nbsp;conceived&nbsp;and&nbsp;produced&nbsp;a&nbsp;being&nbsp;endowed&nbsp;with&nbsp;both&nbsp;natures,&nbsp;the&nbsp;visible&nbsp;and&nbsp;the&nbsp;invisible;&nbsp;God&nbsp;created&nbsp;the&nbsp;human&nbsp;being,&nbsp;bringing&nbsp;its&nbsp;body&nbsp;forth&nbsp;from&nbsp;the&nbsp;pre-existing&nbsp;matter&nbsp;which&nbsp;he&nbsp;animated&nbsp;with&nbsp;his&nbsp;own&nbsp;Spirit...thus&nbsp;is&nbsp;some&nbsp;way&nbsp;a&nbsp;new&nbsp;universe&nbsp;was&nbsp;born,&nbsp;small&nbsp;and&nbsp;great&nbsp;at&nbsp;the&nbsp;same&nbsp;time.&quot;(Gregory&nbsp;Nazianzen)&nbsp;While&nbsp;walking&nbsp;in&nbsp;meditation&nbsp;on&nbsp;the&nbsp;Labyrinth,&nbsp;under&nbsp;the&nbsp;shining&nbsp;Sun,&nbsp;with&nbsp;fellow&nbsp;woman&nbsp;and&nbsp;men,&nbsp;the&nbsp;sacred&nbsp;of&nbsp;each&nbsp;is&nbsp;a&nbsp;sign&nbsp;of&nbsp;the&nbsp;gift&nbsp;of&nbsp;peace.&nbsp;A&nbsp;peace&nbsp;dwelling&nbsp;within&nbsp;one&nbsp;another&#39;s&nbsp;heart&nbsp;where&nbsp;the&nbsp;Spirit&nbsp;of&nbsp;peace&nbsp;indwells&nbsp;yet&nbsp;moves&nbsp;our&nbsp;whole&nbsp;body&nbsp;to&nbsp;touch&nbsp;the&nbsp;earth&nbsp;that&nbsp;is&nbsp;our&nbsp;common&nbsp;home&nbsp;with&nbsp;every&nbsp;creature,&nbsp;in&nbsp;need&nbsp;of&nbsp;its&nbsp;blessings.&nbsp;Peace&nbsp;heals,&nbsp;unites&nbsp;and&nbsp;is&nbsp;the&nbsp;blessing&nbsp;of&nbsp;justice&nbsp;lived&nbsp;in&nbsp;compassionate&nbsp;empathy&nbsp;for&nbsp;one&nbsp;another.&nbsp;&quot;Peace&nbsp;on&nbsp;earth&nbsp;and&nbsp;good&nbsp;will&nbsp;to&nbsp;all.&quot;</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": [
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513227797_labyrinth1.jpg?alt=media&token=5e6c590c-e00b-4225-83d0-b25a10592ada"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513227798_labyrinth2.jpg?alt=media&token=fd27a57b-e7f4-4463-999a-0dde03529d11"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513227798_labyrinth3.jpg?alt=media&token=c8a1756e-431b-495f-bceb-1f042859371c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "apocalypse-or-renewal": {
+    "nickname": "Apocalypse or Renewal",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "APOCALYPSE OR RENEWAL? Insights from a Camaldolese Monk"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><a href=\"https://youtu.be/qIJUtLfP73o\" rel=\"noopener noreferrer\" target=\"_blank\">YOUTUBE&nbsp;VIDEO</a></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;other&nbsp;day&nbsp;on&nbsp;the&nbsp;internet,&nbsp;I&nbsp;saw&nbsp;this&nbsp;cartoon.&nbsp;A&nbsp;patron&nbsp;was&nbsp;going&nbsp;into&nbsp;a&nbsp;library&nbsp;and&nbsp;he&nbsp;couldn&#39;t&nbsp;find&nbsp;the&nbsp;book&nbsp;that&nbsp;he&nbsp;was&nbsp;looking&nbsp;for.&nbsp;So&nbsp;he&nbsp;went&nbsp;to&nbsp;complain&nbsp;to&nbsp;the&nbsp;librarian.&nbsp;And&nbsp;the&nbsp;librarian&nbsp;says,&nbsp;&quot;Oh,&nbsp;the&nbsp;apocalyptic&nbsp;section&nbsp;has&nbsp;been&nbsp;moved&nbsp;to&nbsp;current&nbsp;events.&quot;&nbsp;In&nbsp;one&nbsp;sense,&nbsp;we&nbsp;can&nbsp;laugh&nbsp;at&nbsp;that.&nbsp;But&nbsp;in&nbsp;another&nbsp;sense,&nbsp;there&#39;s&nbsp;a&nbsp;grain&nbsp;of&nbsp;truth&nbsp;there.&nbsp;Or&nbsp;as&nbsp;my&nbsp;friend&nbsp;Renee&nbsp;would&nbsp;say,&nbsp;&quot;It&#39;s&nbsp;true,&nbsp;but&nbsp;not&nbsp;that&nbsp;true.&quot;&nbsp;So&nbsp;let&#39;s&nbsp;look&nbsp;during&nbsp;this&nbsp;homily&nbsp;at&nbsp;what&nbsp;might&nbsp;be&nbsp;a&nbsp;truer&nbsp;portrait.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Apocalyptic&nbsp;writing&nbsp;flourished&nbsp;in&nbsp;the&nbsp;two&nbsp;centuries&nbsp;before&nbsp;Jesus&#39;s&nbsp;birth.&nbsp;Under&nbsp;Alexander&nbsp;the&nbsp;Great,&nbsp;the&nbsp;Greeks&nbsp;conquered&nbsp;the&nbsp;then&nbsp;known&nbsp;world.&nbsp;Previous&nbsp;conquerors&nbsp;allowed&nbsp;the&nbsp;Jews&nbsp;to&nbsp;worship&nbsp;their&nbsp;own&nbsp;God,&nbsp;but&nbsp;the&nbsp;Greeks&nbsp;wanted&nbsp;their&nbsp;culture&nbsp;established&nbsp;throughout&nbsp;the&nbsp;whole&nbsp;Middle&nbsp;Eastern&nbsp;world.&nbsp;So&nbsp;the&nbsp;Seleucid&nbsp;king&nbsp;Antiochus&nbsp;Epiphanes&nbsp;openly&nbsp;persecuted&nbsp;Jews&nbsp;faithful&nbsp;to&nbsp;laws&nbsp;such&nbsp;as&nbsp;not&nbsp;eating&nbsp;pork&nbsp;in&nbsp;the&nbsp;second&nbsp;century&nbsp;before&nbsp;Christ.&nbsp;His&nbsp;proclamation&nbsp;is&nbsp;in&nbsp;the&nbsp;first&nbsp;chapter&nbsp;of&nbsp;the&nbsp;book&nbsp;of&nbsp;Maccabees.&nbsp;And&nbsp;when&nbsp;he&nbsp;desecrated&nbsp;the&nbsp;temple&nbsp;with&nbsp;the&nbsp;statue&nbsp;of&nbsp;Zeus,&nbsp;the&nbsp;Maccabean&nbsp;revolt&nbsp;broke&nbsp;out.&nbsp;An&nbsp;anonymous&nbsp;author&nbsp;wrote&nbsp;the&nbsp;book&nbsp;of&nbsp;Daniel&nbsp;that&nbsp;we&nbsp;heard&nbsp;from&nbsp;today&nbsp;to&nbsp;give&nbsp;faithful&nbsp;Jews&nbsp;hope&nbsp;of&nbsp;God&#39;s&nbsp;vindication&nbsp;and&nbsp;strength&nbsp;in&nbsp;the&nbsp;face&nbsp;of&nbsp;persecution.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Today&#39;s&nbsp;first&nbsp;reading&nbsp;answers&nbsp;the&nbsp;theological&nbsp;problem&nbsp;which&nbsp;Antiochus&#39;s&nbsp;persecution&nbsp;raised.&nbsp;What&nbsp;was&nbsp;the&nbsp;fate&nbsp;of&nbsp;the&nbsp;just&nbsp;and&nbsp;innocent&nbsp;Jews&nbsp;modered&nbsp;for&nbsp;keeping&nbsp;God&#39;s&nbsp;law?</span></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;vision&nbsp;in&nbsp;Daniel&nbsp;12&nbsp;translates&nbsp;Israel&#39;s&nbsp;belief&nbsp;in&nbsp;God&nbsp;the&nbsp;Creator&nbsp;into&nbsp;belief&nbsp;that&nbsp;the&nbsp;same&nbsp;creator&nbsp;can&nbsp;awaken&nbsp;the&nbsp;dead.&nbsp;This&nbsp;passage&nbsp;is&nbsp;a&nbsp;radical&nbsp;vision&nbsp;of&nbsp;resurrection&nbsp;from&nbsp;the&nbsp;second&nbsp;century&nbsp;before&nbsp;Jesus.&nbsp;Fittingly,&nbsp;Christians&nbsp;often&nbsp;use&nbsp;this&nbsp;passage&nbsp;at&nbsp;funerals.&nbsp;Its&nbsp;imagery&nbsp;testifies&nbsp;to&nbsp;confident&nbsp;faith&nbsp;that&nbsp;the&nbsp;just&nbsp;pass&nbsp;into&nbsp;the&nbsp;care&nbsp;of&nbsp;God&nbsp;at&nbsp;death.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Communication&nbsp;is&nbsp;a&nbsp;two-edged&nbsp;sword.&nbsp;Communication&nbsp;brings&nbsp;constant&nbsp;threat&nbsp;into&nbsp;our&nbsp;living&nbsp;room.&nbsp;Weather&nbsp;extremes&nbsp;make&nbsp;climate&nbsp;change&nbsp;very&nbsp;believable.&nbsp;We&nbsp;plant&nbsp;earlier&nbsp;in&nbsp;spring&nbsp;and&nbsp;except&nbsp;in&nbsp;St.&nbsp;Louis&nbsp;Obispo,&nbsp;we&nbsp;sweat&nbsp;more&nbsp;in&nbsp;hotter&nbsp;summers.&nbsp;Rains&nbsp;come&nbsp;down&nbsp;in&nbsp;downpours&nbsp;that&nbsp;flood&nbsp;rivers&nbsp;and&nbsp;homes.&nbsp;lava&nbsp;flows&nbsp;in&nbsp;Hawaii&nbsp;make&nbsp;beautiful&nbsp;film&nbsp;footage&nbsp;long&nbsp;as&nbsp;one&#39;s&nbsp;house&nbsp;isn&#39;t&nbsp;in&nbsp;the&nbsp;way.&nbsp;We&nbsp;remember&nbsp;the&nbsp;hurricanes&nbsp;by&nbsp;name.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Today&#39;s&nbsp;gospel&nbsp;refers&nbsp;to&nbsp;natural&nbsp;desasters&nbsp;as&nbsp;trials&nbsp;that&nbsp;we&nbsp;suffer,&nbsp;not&nbsp;signs&nbsp;that&nbsp;the&nbsp;world&nbsp;is&nbsp;about&nbsp;to&nbsp;end.&nbsp;Mark&#39;s&nbsp;gospel&nbsp;refers&nbsp;to&nbsp;wars,&nbsp;earthquakes,&nbsp;and&nbsp;famines&nbsp;as&nbsp;birth&nbsp;pains,&nbsp;the&nbsp;labor&nbsp;of&nbsp;learning&nbsp;to&nbsp;love&nbsp;one&nbsp;another&nbsp;and&nbsp;create&nbsp;a&nbsp;community&nbsp;of&nbsp;peace&nbsp;on&nbsp;Earth.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Like&nbsp;us,&nbsp;the&nbsp;people&nbsp;for&nbsp;whom&nbsp;Mark&nbsp;wrote&nbsp;the&nbsp;first&nbsp;gospel&nbsp;knew&nbsp;about&nbsp;threat&nbsp;and&nbsp;loss.&nbsp;Jewish&nbsp;freedom&nbsp;fighters&nbsp;revolted&nbsp;against&nbsp;the&nbsp;Roman&nbsp;Empire&nbsp;in&nbsp;AD&nbsp;66.&nbsp;Near&nbsp;the&nbsp;end&nbsp;of&nbsp;the&nbsp;four-year&nbsp;war,&nbsp;the&nbsp;Roman&nbsp;10th&nbsp;Legion&nbsp;lay&nbsp;siege&nbsp;to&nbsp;Jerusalem.&nbsp;The&nbsp;soldiers&nbsp;surrounded&nbsp;the&nbsp;city&nbsp;for&nbsp;months&nbsp;to&nbsp;starve&nbsp;the&nbsp;citizens&nbsp;into&nbsp;surrender.&nbsp;When&nbsp;the&nbsp;Romans&nbsp;finally&nbsp;attacked,&nbsp;they&nbsp;destroyed&nbsp;the&nbsp;temple&nbsp;completely,&nbsp;leaving&nbsp;not&nbsp;a&nbsp;stone&nbsp;upon&nbsp;a&nbsp;stone.&nbsp;In&nbsp;destroying&nbsp;the&nbsp;temple,&nbsp;the&nbsp;Romans&nbsp;ended&nbsp;the&nbsp;ancient&nbsp;Jewish&nbsp;religion,&nbsp;its&nbsp;traditions&nbsp;of&nbsp;animal&nbsp;sacrifice.&nbsp;And&nbsp;so&nbsp;the&nbsp;synagogue&nbsp;took&nbsp;its&nbsp;place.&nbsp;Today,&nbsp;only&nbsp;the&nbsp;temple&#39;s&nbsp;Western&nbsp;wall&nbsp;survives,&nbsp;the&nbsp;holiest&nbsp;of&nbsp;sites&nbsp;for&nbsp;Jews&nbsp;where&nbsp;they&nbsp;daily&nbsp;gather&nbsp;to&nbsp;pray.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Today&#39;s&nbsp;gospel&nbsp;assumes&nbsp;an&nbsp;audience&nbsp;that&nbsp;experienced&nbsp;all&nbsp;of&nbsp;that.&nbsp;And&nbsp;that&nbsp;needs&nbsp;courage&nbsp;to&nbsp;face&nbsp;devastation&nbsp;and&nbsp;persecution.&nbsp;We&nbsp;contemporary&nbsp;Christians&nbsp;bring&nbsp;our&nbsp;own&nbsp;measure&nbsp;of&nbsp;worry&nbsp;as&nbsp;we&nbsp;become&nbsp;the&nbsp;audience&nbsp;of&nbsp;Mark&nbsp;13.&nbsp;And&nbsp;many&nbsp;of&nbsp;us&nbsp;today&nbsp;are&nbsp;worried.&nbsp;Mark&nbsp;13&nbsp;is&nbsp;often&nbsp;called,&nbsp;quote,&nbsp;&quot;the&nbsp;little&nbsp;apocalypse.&quot;&nbsp;Apocalyptic&nbsp;perceives&nbsp;the&nbsp;world&nbsp;locked&nbsp;in&nbsp;a&nbsp;catechismic&nbsp;struggle&nbsp;between&nbsp;the&nbsp;forces&nbsp;of&nbsp;good&nbsp;and&nbsp;evil.</span></p><p><span style=\"color: rgb(55, 53, 47);\">In&nbsp;AD&nbsp;70,&nbsp;shortly&nbsp;after&nbsp;the&nbsp;destruction&nbsp;of&nbsp;the&nbsp;temple,&nbsp;Mark&nbsp;wrote&nbsp;the&nbsp;first&nbsp;gospel&nbsp;for&nbsp;Christians&nbsp;unsure&nbsp;of&nbsp;what&nbsp;was&nbsp;coming&nbsp;to&nbsp;birth,&nbsp;unsure&nbsp;of&nbsp;themselves,&nbsp;of&nbsp;what&nbsp;was&nbsp;good,&nbsp;what&nbsp;was&nbsp;evil,&nbsp;unsure&nbsp;even&nbsp;of&nbsp;Jesus.&nbsp;Mark&nbsp;places&nbsp;the&nbsp;whole&nbsp;of&nbsp;the&nbsp;apocalyptic&nbsp;discourse&nbsp;in&nbsp;the&nbsp;mouth&nbsp;of&nbsp;Jesus&nbsp;as&nbsp;he&nbsp;sits&nbsp;on&nbsp;the&nbsp;Mount&nbsp;of&nbsp;Olives&nbsp;across&nbsp;the&nbsp;valley&nbsp;from&nbsp;the&nbsp;temple.&nbsp;Today&#39;s&nbsp;gospel&nbsp;contains&nbsp;two&nbsp;answers&nbsp;to&nbsp;the&nbsp;question&nbsp;of&nbsp;when&nbsp;Jesus&nbsp;will&nbsp;come&nbsp;again.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Some&nbsp;early&nbsp;Christians&nbsp;think&nbsp;Jesus&nbsp;will&nbsp;come&nbsp;again&nbsp;in&nbsp;their&nbsp;lifetimes.&nbsp;They&nbsp;insist&nbsp;Jesus&nbsp;promised,&nbsp;quote,&nbsp;&quot;This&nbsp;generation&nbsp;will&nbsp;not&nbsp;pass&nbsp;away&nbsp;until&nbsp;all&nbsp;these&nbsp;things&nbsp;take&nbsp;place.&quot;&nbsp;Why&nbsp;is&nbsp;the&nbsp;gospel&nbsp;ambiguous&nbsp;about&nbsp;when&nbsp;the&nbsp;world&nbsp;will&nbsp;end?&nbsp;To&nbsp;answer&nbsp;that&nbsp;question,&nbsp;we&nbsp;have&nbsp;to&nbsp;understand&nbsp;what&nbsp;a&nbsp;gospel&nbsp;is&nbsp;and&nbsp;is&nbsp;not.&nbsp;People&nbsp;passed&nbsp;on&nbsp;Jesus&#39;s&nbsp;teaching&nbsp;orally&nbsp;for&nbsp;40&nbsp;years&nbsp;before&nbsp;Mark&nbsp;wrote&nbsp;it&nbsp;down.&nbsp;As&nbsp;people&nbsp;told&nbsp;Jesus&#39;s&nbsp;teachings&nbsp;and&nbsp;stories&nbsp;about&nbsp;Jesus,&nbsp;they&nbsp;not&nbsp;only&nbsp;passed&nbsp;on&nbsp;what&nbsp;Jesus&nbsp;said,&nbsp;they&nbsp;also&nbsp;used&nbsp;the&nbsp;stories&nbsp;to&nbsp;interpret&nbsp;current&nbsp;events&nbsp;in&nbsp;their&nbsp;lives&nbsp;and&nbsp;to&nbsp;answer&nbsp;questions&nbsp;he&nbsp;hadn&#39;t&nbsp;answered.&nbsp;Mark&nbsp;is&nbsp;writing&nbsp;in&nbsp;the&nbsp;wake&nbsp;of&nbsp;a&nbsp;cataclysmic&nbsp;event&nbsp;that&nbsp;demands&nbsp;interpretation,&nbsp;the&nbsp;destruction&nbsp;of&nbsp;the&nbsp;temple,&nbsp;which&nbsp;happened&nbsp;about&nbsp;40&nbsp;years&nbsp;after&nbsp;Jesus&#39;&nbsp;death.&nbsp;It&nbsp;coincided&nbsp;with&nbsp;Jesus&#39;&nbsp;eyewitness&nbsp;disciples&nbsp;reaching&nbsp;old&nbsp;age&nbsp;and&nbsp;with&nbsp;the&nbsp;deaths&nbsp;of&nbsp;Peter&nbsp;and&nbsp;Paul,&nbsp;who&nbsp;were&nbsp;martyred&nbsp;in&nbsp;the&nbsp;mid-60s&nbsp;shortly&nbsp;before&nbsp;Mark&nbsp;wrote.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Mark&nbsp;recognizes&nbsp;a&nbsp;second&nbsp;early&nbsp;Christian&nbsp;voice&nbsp;in&nbsp;his&nbsp;apocalyptic&nbsp;chapter.&nbsp;This&nbsp;voice&nbsp;does&nbsp;not&nbsp;say&nbsp;that&nbsp;Jesus&nbsp;is&nbsp;going&nbsp;to&nbsp;come&nbsp;again&nbsp;in&nbsp;our&nbsp;lifetime.&nbsp;This&nbsp;voice&nbsp;says,&nbsp;&quot;Only&nbsp;God&nbsp;knows&nbsp;when&nbsp;the&nbsp;end&nbsp;will&nbsp;come.&quot;&nbsp;The&nbsp;signs&nbsp;of&nbsp;chaos&nbsp;Mark&nbsp;describes&nbsp;around&nbsp;us&nbsp;today--global&nbsp;warming,&nbsp;extinct&nbsp;plants&nbsp;and&nbsp;animals,&nbsp;persistent&nbsp;drought,&nbsp;oceans&nbsp;that&nbsp;teem&nbsp;with&nbsp;plastic.&nbsp;However,&nbsp;Jesus&nbsp;also&nbsp;gives&nbsp;us&nbsp;a&nbsp;positive&nbsp;image&nbsp;of&nbsp;sap&nbsp;rising&nbsp;in&nbsp;the&nbsp;fig&nbsp;tree&nbsp;and&nbsp;green&nbsp;leaves&nbsp;bursting&nbsp;forth.&nbsp;Indeed,&nbsp;we&nbsp;live&nbsp;in&nbsp;chaos.&nbsp;But&nbsp;what&nbsp;is&nbsp;chaos&nbsp;except&nbsp;a&nbsp;sign&nbsp;of&nbsp;something&nbsp;new&nbsp;emerging?&nbsp;What&nbsp;if&nbsp;the&nbsp;future&nbsp;is&nbsp;not&nbsp;scary&nbsp;but&nbsp;full&nbsp;of&nbsp;hope,&nbsp;every&nbsp;day&nbsp;a&nbsp;new&nbsp;creation?&nbsp;What&nbsp;signs&nbsp;of&nbsp;hope&nbsp;do&nbsp;we&nbsp;see?&nbsp;Perhaps&nbsp;it&nbsp;is&nbsp;the&nbsp;teen&nbsp;who&nbsp;is&nbsp;volunteering&nbsp;and&nbsp;finding&nbsp;his&nbsp;or&nbsp;her&nbsp;passion&nbsp;to&nbsp;serve.&nbsp;Maybe&nbsp;it&#39;s&nbsp;the&nbsp;person&nbsp;who&nbsp;always,&nbsp;always&nbsp;recycles&nbsp;and&nbsp;reuses.&nbsp;As&nbsp;Pope&nbsp;Francis&nbsp;mentioned,&nbsp;and&nbsp;I&nbsp;quoted&nbsp;in&nbsp;the&nbsp;introduction,&nbsp;it&#39;s&nbsp;the&nbsp;little&nbsp;details.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Ilya&nbsp;Delia,&nbsp;my&nbsp;former&nbsp;professor,&nbsp;is&nbsp;a&nbsp;Franciscan&nbsp;sister&nbsp;who&nbsp;writes&nbsp;on&nbsp;Christ&nbsp;in&nbsp;cosmology.&nbsp;In&nbsp;her&nbsp;book,&nbsp;The&nbsp;Emergent&nbsp;Christ,&nbsp;she&nbsp;encourages&nbsp;us&nbsp;to&nbsp;quote,&nbsp;&quot;Allow&nbsp;the&nbsp;spirit&nbsp;to&nbsp;take&nbsp;hold&nbsp;of&nbsp;us&nbsp;and&nbsp;liberate&nbsp;us&nbsp;from&nbsp;fear,&nbsp;anxiety,&nbsp;and&nbsp;desire&nbsp;for&nbsp;power&nbsp;and&nbsp;control.&quot;&nbsp;We&nbsp;can&nbsp;live&nbsp;in&nbsp;the&nbsp;risen&nbsp;Christ&nbsp;who&nbsp;empowers&nbsp;us&nbsp;to&nbsp;participate&nbsp;in&nbsp;this&nbsp;new&nbsp;creation.&nbsp;God,&nbsp;the&nbsp;spirit&nbsp;will&nbsp;wake&nbsp;us&nbsp;up&nbsp;from&nbsp;our&nbsp;closed,&nbsp;perhaps&nbsp;mediocre,&nbsp;lives.&nbsp;The&nbsp;spirit&nbsp;lures&nbsp;us&nbsp;into&nbsp;openness&nbsp;to&nbsp;new&nbsp;life&nbsp;and&nbsp;lures&nbsp;us&nbsp;into&nbsp;finding&nbsp;hope.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Diana&nbsp;McElintol,&nbsp;a&nbsp;liturgist&nbsp;who&nbsp;often&nbsp;comments&nbsp;on&nbsp;the&nbsp;Sunday&nbsp;readings,&nbsp;summarized&nbsp;today&#39;s&nbsp;gospel&nbsp;in&nbsp;this&nbsp;short&nbsp;phrase.&nbsp;Third&nbsp;verse,&nbsp;the&nbsp;same&nbsp;as&nbsp;the&nbsp;first.</span></p><p></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "giving-from-substance": {
+    "nickname": "32nd Sunday Reflection",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Homily of the Thirty-second Sunday in Ordinary Time by Prior Daniel Manger"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><a href=\"https://youtu.be/1RASCwcWe8E\" rel=\"noopener noreferrer\" target=\"_blank\">YOUTUBE&nbsp;VIDEO</a></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">One&nbsp;of&nbsp;the&nbsp;great&nbsp;challenges&nbsp;of&nbsp;spiritual&nbsp;maturity&nbsp;is&nbsp;sorting&nbsp;out&nbsp;the&nbsp;meaning&nbsp;between&nbsp;intentions&nbsp;and&nbsp;results&nbsp;in&nbsp;your&nbsp;life.&nbsp;We’re&nbsp;all&nbsp;struggling&nbsp;with&nbsp;that.&nbsp;We&nbsp;all&nbsp;have&nbsp;good&nbsp;intentions&nbsp;about&nbsp;a&nbsp;lot&nbsp;of&nbsp;things.&nbsp;The&nbsp;electorate&nbsp;had&nbsp;that.&nbsp;Good&nbsp;intentions&nbsp;were&nbsp;given&nbsp;to&nbsp;many&nbsp;people,&nbsp;and&nbsp;completely&nbsp;different&nbsp;results&nbsp;have&nbsp;happened.&nbsp;When&nbsp;that&nbsp;happens&nbsp;in&nbsp;your&nbsp;life&nbsp;on&nbsp;any&nbsp;personal,&nbsp;collective,&nbsp;or&nbsp;whatever&nbsp;issue,&nbsp;the&nbsp;challenge&nbsp;illustrates&nbsp;that&nbsp;there’s&nbsp;also&nbsp;a&nbsp;margin&nbsp;we&nbsp;must&nbsp;pay&nbsp;attention&nbsp;to,&nbsp;called&nbsp;freedom.&nbsp;This&nbsp;freedom&nbsp;is&nbsp;experienced&nbsp;very&nbsp;really,&nbsp;but&nbsp;we&nbsp;also&nbsp;admit&nbsp;to&nbsp;ourselves&nbsp;that&nbsp;our&nbsp;notion&nbsp;of&nbsp;what&nbsp;we&nbsp;think&nbsp;freedom&nbsp;is&nbsp;is&nbsp;sometimes&nbsp;very&nbsp;limited.&nbsp;We&nbsp;only&nbsp;understand&nbsp;the&nbsp;measure&nbsp;of&nbsp;its&nbsp;impact&nbsp;on&nbsp;our&nbsp;lives&nbsp;or&nbsp;others&nbsp;in&nbsp;degrees&nbsp;as&nbsp;we&nbsp;make&nbsp;a&nbsp;journey&nbsp;or&nbsp;the&nbsp;pilgrimage&nbsp;of&nbsp;life,&nbsp;as&nbsp;we&nbsp;call&nbsp;it&nbsp;in&nbsp;spirituality.</span></p><p><span style=\"color: rgb(55, 53, 47);\">An&nbsp;author,&nbsp;Alistair&nbsp;McIntyre,&nbsp;wrote&nbsp;a&nbsp;book&nbsp;called&nbsp;Stories&nbsp;many&nbsp;years&nbsp;ago.&nbsp;He&nbsp;illustrated&nbsp;in&nbsp;that&nbsp;book&nbsp;that&nbsp;the&nbsp;people&nbsp;who&nbsp;are&nbsp;all&nbsp;of&nbsp;us&nbsp;are&nbsp;about&nbsp;doing&nbsp;a&nbsp;co-narrative&nbsp;about&nbsp;our&nbsp;lives&nbsp;all&nbsp;our&nbsp;life&nbsp;long.&nbsp;It’s&nbsp;a&nbsp;co-narrative&nbsp;because&nbsp;the&nbsp;narrative&nbsp;is&nbsp;intersected&nbsp;by&nbsp;many&nbsp;things&nbsp;out&nbsp;of&nbsp;our&nbsp;control&nbsp;or&nbsp;unforeseen&nbsp;things&nbsp;that&nbsp;we&nbsp;couldn’t&nbsp;even&nbsp;imagine&nbsp;would&nbsp;occur&nbsp;in&nbsp;our&nbsp;lifetime.&nbsp;This&nbsp;narrative&nbsp;we&nbsp;co-author&nbsp;as&nbsp;we&nbsp;write&nbsp;our&nbsp;own&nbsp;story&nbsp;causes&nbsp;us&nbsp;to&nbsp;experience&nbsp;causes,&nbsp;effects,&nbsp;choices,&nbsp;chances,&nbsp;and&nbsp;how&nbsp;they&nbsp;emerge&nbsp;in&nbsp;our&nbsp;lives.&nbsp;Also,&nbsp;it&nbsp;calls&nbsp;us&nbsp;to&nbsp;make&nbsp;a&nbsp;decision&nbsp;on&nbsp;how&nbsp;much&nbsp;value&nbsp;we&nbsp;place&nbsp;in&nbsp;them&nbsp;as&nbsp;something&nbsp;really&nbsp;substantive&nbsp;and&nbsp;calling&nbsp;us,&nbsp;especially&nbsp;as&nbsp;Christians,&nbsp;to&nbsp;our&nbsp;willingness&nbsp;to&nbsp;allow&nbsp;God&nbsp;providentially&nbsp;to&nbsp;guide&nbsp;and&nbsp;aid&nbsp;us&nbsp;at&nbsp;all&nbsp;times&nbsp;because&nbsp;we’ve&nbsp;come&nbsp;to&nbsp;believe&nbsp;that&nbsp;the&nbsp;words&nbsp;of&nbsp;Jesus,&nbsp;“Behold,&nbsp;I&nbsp;am&nbsp;with&nbsp;you&nbsp;all&nbsp;days&nbsp;until&nbsp;the&nbsp;end&nbsp;of&nbsp;the&nbsp;world.”&nbsp;But&nbsp;when&nbsp;you&nbsp;experience&nbsp;this&nbsp;challenge&nbsp;between&nbsp;intentions&nbsp;and&nbsp;results,&nbsp;you&nbsp;may&nbsp;find&nbsp;that&nbsp;your&nbsp;ability&nbsp;to&nbsp;freely&nbsp;believe&nbsp;is&nbsp;lacking.</span></p><p><span style=\"color: rgb(55, 53, 47);\">It&nbsp;was&nbsp;so&nbsp;much&nbsp;lacking&nbsp;at&nbsp;the&nbsp;time&nbsp;when&nbsp;Sigmund&nbsp;Freud&nbsp;was&nbsp;alive.&nbsp;He&nbsp;wrote&nbsp;a&nbsp;letter&nbsp;to&nbsp;Mrs.&nbsp;Maria&nbsp;Bonaparte.&nbsp;She&nbsp;wasn’t&nbsp;kin&nbsp;to&nbsp;Napoleon.&nbsp;But&nbsp;she&nbsp;had&nbsp;inquired&nbsp;with&nbsp;him&nbsp;about&nbsp;the&nbsp;meaning&nbsp;of&nbsp;life.&nbsp;His&nbsp;letter&nbsp;and&nbsp;response&nbsp;to&nbsp;her&nbsp;began&nbsp;to&nbsp;stamp&nbsp;the&nbsp;late&nbsp;18th&nbsp;and&nbsp;early&nbsp;19th&nbsp;century&nbsp;and&nbsp;beyond,&nbsp;even&nbsp;to&nbsp;her&nbsp;own&nbsp;time.&nbsp;In&nbsp;his&nbsp;response,&nbsp;he&nbsp;told&nbsp;her,&nbsp;“To&nbsp;hope&nbsp;of&nbsp;finding&nbsp;meaning&nbsp;and&nbsp;value&nbsp;in&nbsp;life&nbsp;is&nbsp;insane.”&nbsp;Thus,&nbsp;he&nbsp;abandoned&nbsp;humankind’s&nbsp;approach&nbsp;to&nbsp;a&nbsp;meaningful&nbsp;world&nbsp;and&nbsp;said&nbsp;it&nbsp;was&nbsp;meaningless.&nbsp;Later,&nbsp;he&nbsp;would&nbsp;say&nbsp;in&nbsp;the&nbsp;following&nbsp;sentence,&nbsp;“It’s&nbsp;a&nbsp;meaningless&nbsp;world.”&nbsp;This&nbsp;observation&nbsp;was&nbsp;made&nbsp;by&nbsp;another&nbsp;author,&nbsp;Philip&nbsp;Reif,&nbsp;who&nbsp;wrote&nbsp;The&nbsp;Triumph&nbsp;of&nbsp;the&nbsp;Therapeutic.&nbsp;I&nbsp;don’t&nbsp;know&nbsp;if&nbsp;you’ve&nbsp;ever&nbsp;read&nbsp;that,&nbsp;but&nbsp;it’s&nbsp;a&nbsp;powerful&nbsp;book.&nbsp;Philip&nbsp;Reif&nbsp;wrote&nbsp;back&nbsp;in&nbsp;the&nbsp;early&nbsp;20th&nbsp;century.&nbsp;However,&nbsp;it&nbsp;affected&nbsp;us&nbsp;as&nbsp;a&nbsp;Western&nbsp;society&nbsp;because&nbsp;we&nbsp;put&nbsp;a&nbsp;lot&nbsp;of&nbsp;counsel&nbsp;into&nbsp;Freud&nbsp;rather&nbsp;than&nbsp;Jung&nbsp;and&nbsp;others&nbsp;who&nbsp;followed&nbsp;him.&nbsp;So&nbsp;you&nbsp;can&nbsp;see&nbsp;here’s&nbsp;a&nbsp;very&nbsp;lettered&nbsp;European&nbsp;who&nbsp;is&nbsp;well-studied&nbsp;in&nbsp;human&nbsp;behavior&nbsp;and&nbsp;things&nbsp;like&nbsp;that&nbsp;as&nbsp;a&nbsp;life&nbsp;scientist.&nbsp;But&nbsp;still&nbsp;ending&nbsp;up&nbsp;with&nbsp;a&nbsp;very&nbsp;empty&nbsp;perspective.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Interestingly,&nbsp;parallels&nbsp;were&nbsp;selected&nbsp;here&nbsp;when&nbsp;we&nbsp;think&nbsp;of&nbsp;this&nbsp;passage&nbsp;from&nbsp;the&nbsp;Gospel&nbsp;today&nbsp;and&nbsp;about&nbsp;the&nbsp;prophet&nbsp;who&nbsp;comes&nbsp;to&nbsp;another&nbsp;widow.&nbsp;But&nbsp;it’s&nbsp;important&nbsp;to&nbsp;remember&nbsp;that&nbsp;when&nbsp;we&nbsp;think&nbsp;of&nbsp;miracles,&nbsp;I&nbsp;was&nbsp;told&nbsp;by&nbsp;a&nbsp;Jesuit&nbsp;scholar&nbsp;years&nbsp;ago&nbsp;in&nbsp;Europe&nbsp;that&nbsp;we&nbsp;were&nbsp;studying&nbsp;some&nbsp;sacred&nbsp;scripture&nbsp;in&nbsp;the&nbsp;Old&nbsp;Testament&nbsp;and&nbsp;knew.&nbsp;He&nbsp;remarked,&nbsp;“Remember&nbsp;that,”&nbsp;and&nbsp;used&nbsp;this&nbsp;passage&nbsp;from&nbsp;Mark&nbsp;and&nbsp;Isaiah.&nbsp;He&nbsp;said,&nbsp;“Remember&nbsp;that&nbsp;miracles&nbsp;are&nbsp;something&nbsp;you&nbsp;participate&nbsp;in.&nbsp;You&nbsp;have&nbsp;to&nbsp;bring&nbsp;something&nbsp;to&nbsp;the&nbsp;table,&nbsp;and&nbsp;then&nbsp;you’ve&nbsp;got&nbsp;to&nbsp;let&nbsp;it&nbsp;go&nbsp;to&nbsp;God&nbsp;and&nbsp;let&nbsp;God&nbsp;providentially&nbsp;deal&nbsp;with&nbsp;it.”&nbsp;But&nbsp;it’s&nbsp;always&nbsp;a&nbsp;cooperative&nbsp;effort&nbsp;and&nbsp;never&nbsp;like&nbsp;magic.&nbsp;Many&nbsp;people,&nbsp;and&nbsp;all&nbsp;of&nbsp;us,&nbsp;can&nbsp;find&nbsp;in&nbsp;our&nbsp;lives&nbsp;that&nbsp;sometimes&nbsp;we&nbsp;want&nbsp;more&nbsp;magic&nbsp;because&nbsp;magic&nbsp;puts&nbsp;us&nbsp;in&nbsp;egocentric&nbsp;control.&nbsp;God&nbsp;and&nbsp;gods&nbsp;or&nbsp;fairies&nbsp;or&nbsp;whatever&nbsp;will&nbsp;do&nbsp;what&nbsp;I&nbsp;want.&nbsp;That’s&nbsp;the&nbsp;bottom&nbsp;line&nbsp;of&nbsp;magic,&nbsp;to&nbsp;do&nbsp;what&nbsp;you&nbsp;want.&nbsp;It&nbsp;doesn’t&nbsp;matter&nbsp;whether&nbsp;black&nbsp;or&nbsp;white&nbsp;magic;&nbsp;it&nbsp;all&nbsp;ends&nbsp;up&nbsp;in&nbsp;the&nbsp;ego.&nbsp;Eosentrism,&nbsp;as&nbsp;we&nbsp;call&nbsp;it.&nbsp;But&nbsp;with&nbsp;the&nbsp;mystery&nbsp;of&nbsp;miracle,&nbsp;because&nbsp;we&nbsp;believe&nbsp;in&nbsp;a&nbsp;participatory&nbsp;God&nbsp;who&nbsp;is&nbsp;in&nbsp;relation&nbsp;to&nbsp;the&nbsp;creation,&nbsp;relationship,&nbsp;and&nbsp;relationship&nbsp;to&nbsp;us&nbsp;in&nbsp;the&nbsp;Judeo-Christian&nbsp;belief,&nbsp;is&nbsp;that&nbsp;God&nbsp;is&nbsp;not&nbsp;any&nbsp;further&nbsp;away&nbsp;than&nbsp;the&nbsp;end&nbsp;of&nbsp;your&nbsp;nose&nbsp;and&nbsp;actually&nbsp;beyond&nbsp;your&nbsp;nose&nbsp;into&nbsp;your&nbsp;lungs&nbsp;and&nbsp;everything&nbsp;else.&nbsp;But&nbsp;God&nbsp;always&nbsp;humbly&nbsp;approaches&nbsp;us&nbsp;with&nbsp;great&nbsp;humility&nbsp;and&nbsp;respect&nbsp;about&nbsp;how&nbsp;we&nbsp;and&nbsp;how&nbsp;the&nbsp;wonder&nbsp;of&nbsp;life&nbsp;and&nbsp;all&nbsp;the&nbsp;visages&nbsp;of&nbsp;things&nbsp;that&nbsp;evolve&nbsp;in&nbsp;one’s&nbsp;life,&nbsp;how&nbsp;we’re&nbsp;going&nbsp;to&nbsp;walk&nbsp;with&nbsp;God’s&nbsp;presence&nbsp;and&nbsp;at&nbsp;the&nbsp;same&nbsp;time&nbsp;walk&nbsp;in&nbsp;trust,&nbsp;but&nbsp;also&nbsp;find&nbsp;the&nbsp;celebration&nbsp;and&nbsp;the&nbsp;wonder&nbsp;and&nbsp;the&nbsp;capacity&nbsp;to&nbsp;live&nbsp;a&nbsp;full&nbsp;life&nbsp;whether&nbsp;it’s&nbsp;in&nbsp;tragedy&nbsp;or&nbsp;in&nbsp;beauty,&nbsp;wonder,&nbsp;and&nbsp;triumph.&nbsp;It’s&nbsp;there&nbsp;where&nbsp;that&nbsp;transcendent&nbsp;experience&nbsp;of&nbsp;God’s&nbsp;relationship&nbsp;of&nbsp;love,&nbsp;which&nbsp;would&nbsp;be&nbsp;another&nbsp;word&nbsp;for&nbsp;grace,&nbsp;affects&nbsp;us,&nbsp;but&nbsp;yet&nbsp;doesn’t&nbsp;abandon&nbsp;us&nbsp;to&nbsp;do&nbsp;it&nbsp;alone&nbsp;but&nbsp;at&nbsp;the&nbsp;same&nbsp;time&nbsp;upholds&nbsp;what&nbsp;we&nbsp;can&nbsp;be&nbsp;and&nbsp;what&nbsp;we&nbsp;can&nbsp;become&nbsp;by&nbsp;doing&nbsp;the&nbsp;grace&nbsp;within&nbsp;ourselves&nbsp;and&nbsp;for&nbsp;others,&nbsp;you&nbsp;might&nbsp;say.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Life&nbsp;is&nbsp;sort&nbsp;of&nbsp;like&nbsp;a&nbsp;tree;&nbsp;you’ve&nbsp;probably&nbsp;heard&nbsp;this&nbsp;expression;&nbsp;if&nbsp;you&nbsp;look&nbsp;at&nbsp;the&nbsp;rings&nbsp;of&nbsp;aging&nbsp;in&nbsp;a&nbsp;tree,&nbsp;it’s&nbsp;an&nbsp;interesting&nbsp;metaphor&nbsp;for&nbsp;human&nbsp;life&nbsp;because&nbsp;they&nbsp;are&nbsp;recorded&nbsp;for&nbsp;a&nbsp;tree&nbsp;that&nbsp;a&nbsp;tree&nbsp;has&nbsp;to&nbsp;stay&nbsp;in&nbsp;place&nbsp;all&nbsp;its&nbsp;life,&nbsp;it&nbsp;doesn’t&nbsp;get&nbsp;up&nbsp;and&nbsp;walk&nbsp;around&nbsp;like&nbsp;a&nbsp;token.&nbsp;Still,&nbsp;the&nbsp;important&nbsp;thing&nbsp;is&nbsp;that&nbsp;the&nbsp;tree&nbsp;has&nbsp;to&nbsp;weather&nbsp;so&nbsp;many&nbsp;changes&nbsp;beyond&nbsp;its&nbsp;power&nbsp;to&nbsp;have&nbsp;life.&nbsp;It’s&nbsp;one&nbsp;of&nbsp;the&nbsp;oldest&nbsp;species&nbsp;on&nbsp;the&nbsp;earth&nbsp;outside&nbsp;of&nbsp;insects,&nbsp;incidentally,&nbsp;in&nbsp;the&nbsp;evolutionary&nbsp;scale&nbsp;of&nbsp;things.&nbsp;You&nbsp;see&nbsp;a&nbsp;downed&nbsp;tree&nbsp;or&nbsp;something&nbsp;like&nbsp;that,&nbsp;and&nbsp;you&nbsp;can&nbsp;read&nbsp;it&nbsp;when&nbsp;you&nbsp;think&nbsp;of&nbsp;it.&nbsp;Scientists&nbsp;do&nbsp;this&nbsp;now&nbsp;they&nbsp;read&nbsp;whether&nbsp;there&nbsp;were&nbsp;more&nbsp;diseases,&nbsp;more&nbsp;drought,&nbsp;more&nbsp;winters,&nbsp;and&nbsp;so&nbsp;forth,&nbsp;and&nbsp;the&nbsp;further&nbsp;study&nbsp;is&nbsp;how&nbsp;the&nbsp;tree&nbsp;adapted,&nbsp;how&nbsp;the&nbsp;tree&nbsp;experienced&nbsp;this,&nbsp;and&nbsp;what&nbsp;was&nbsp;the&nbsp;result&nbsp;of&nbsp;how&nbsp;it&nbsp;continues&nbsp;to&nbsp;stay&nbsp;in&nbsp;place&nbsp;and&nbsp;be&nbsp;alive&nbsp;and&nbsp;still&nbsp;self-giving&nbsp;both&nbsp;in&nbsp;its&nbsp;root&nbsp;systems&nbsp;and&nbsp;in&nbsp;its&nbsp;branches&nbsp;and&nbsp;leaves&nbsp;to&nbsp;so&nbsp;many&nbsp;other&nbsp;creatures&nbsp;of&nbsp;this&nbsp;planet.&nbsp;So&nbsp;it&nbsp;causes&nbsp;us&nbsp;to&nbsp;think&nbsp;that&nbsp;one&nbsp;of&nbsp;the&nbsp;aspects&nbsp;of&nbsp;a&nbsp;miracle&nbsp;is&nbsp;to&nbsp;create&nbsp;alterations,&nbsp;that&nbsp;God&nbsp;can&nbsp;inspire&nbsp;us&nbsp;in&nbsp;such&nbsp;a&nbsp;way&nbsp;as&nbsp;to&nbsp;make&nbsp;alterations&nbsp;in&nbsp;our&nbsp;lives.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Now,&nbsp;the&nbsp;woman&nbsp;who&nbsp;is&nbsp;the&nbsp;widow&nbsp;in&nbsp;the&nbsp;story&nbsp;of&nbsp;the&nbsp;prophet&nbsp;is&nbsp;making&nbsp;an&nbsp;alteration&nbsp;when&nbsp;the&nbsp;prophet&nbsp;comes&nbsp;on&nbsp;the&nbsp;scene.&nbsp;She&nbsp;does&nbsp;the&nbsp;courtesy&nbsp;of&nbsp;her&nbsp;faith,&nbsp;which&nbsp;was&nbsp;when&nbsp;a&nbsp;stranger&nbsp;came,&nbsp;you&nbsp;offered&nbsp;them&nbsp;what&nbsp;you&nbsp;had.&nbsp;They&nbsp;came&nbsp;by&nbsp;your&nbsp;household&nbsp;as&nbsp;if&nbsp;it&nbsp;were&nbsp;water&nbsp;or&nbsp;anything&nbsp;like&nbsp;that&nbsp;because&nbsp;the&nbsp;ancient&nbsp;belief&nbsp;in&nbsp;Israel&nbsp;was&nbsp;you&nbsp;might&nbsp;be&nbsp;entertaining&nbsp;an&nbsp;angel,&nbsp;and&nbsp;that’s&nbsp;still&nbsp;persistent&nbsp;in&nbsp;Bedouin&nbsp;practice&nbsp;in&nbsp;Egypt&nbsp;if&nbsp;you&nbsp;ever&nbsp;go&nbsp;there.&nbsp;And&nbsp;so&nbsp;there&nbsp;was&nbsp;this&nbsp;firm&nbsp;belief&nbsp;that&nbsp;a&nbsp;favor&nbsp;would&nbsp;be&nbsp;granted.&nbsp;It&nbsp;all&nbsp;goes&nbsp;back&nbsp;to&nbsp;Abraham,&nbsp;you&nbsp;know.&nbsp;The&nbsp;three&nbsp;mysterious&nbsp;strangers&nbsp;show&nbsp;up&nbsp;and&nbsp;prophesy&nbsp;that&nbsp;Sarah&nbsp;will&nbsp;be&nbsp;pregnant&nbsp;the&nbsp;next&nbsp;time&nbsp;they&nbsp;come&nbsp;around.&nbsp;Of&nbsp;course,&nbsp;both&nbsp;he&nbsp;and&nbsp;Sarah&nbsp;are&nbsp;in&nbsp;disbelief&nbsp;at&nbsp;this.&nbsp;Still,&nbsp;you&nbsp;watch&nbsp;the&nbsp;actions&nbsp;of&nbsp;Abraham.&nbsp;In&nbsp;that&nbsp;case,&nbsp;he&nbsp;participates&nbsp;in&nbsp;the&nbsp;miracle&nbsp;that&nbsp;will&nbsp;happen&nbsp;to&nbsp;Sarah.&nbsp;Sarah&nbsp;also&nbsp;participates&nbsp;even&nbsp;though&nbsp;she&nbsp;laughs&nbsp;in&nbsp;the&nbsp;tent&nbsp;at&nbsp;this&nbsp;ridiculous&nbsp;prophecy&nbsp;these&nbsp;three&nbsp;strangers&nbsp;give.&nbsp;This&nbsp;same&nbsp;storyline&nbsp;comes&nbsp;to&nbsp;us&nbsp;in&nbsp;the&nbsp;first&nbsp;reading,&nbsp;but&nbsp;the&nbsp;widow&nbsp;is&nbsp;at&nbsp;the&nbsp;end&nbsp;of&nbsp;her&nbsp;rope.&nbsp;You&nbsp;know&nbsp;she’s&nbsp;been&nbsp;surviving&nbsp;famine&nbsp;with&nbsp;her&nbsp;son.&nbsp;She’s&nbsp;a&nbsp;widow,&nbsp;and&nbsp;she’s&nbsp;a&nbsp;woman.&nbsp;She&nbsp;has&nbsp;no&nbsp;economy&nbsp;other&nbsp;than&nbsp;the&nbsp;jewelry&nbsp;she&nbsp;might&nbsp;have&nbsp;had.&nbsp;It’s&nbsp;perhaps&nbsp;all&nbsp;that&nbsp;was&nbsp;in&nbsp;the&nbsp;gone&nbsp;because&nbsp;all&nbsp;she’s&nbsp;got&nbsp;left&nbsp;is&nbsp;a&nbsp;few&nbsp;sticks,&nbsp;a&nbsp;fire,&nbsp;and&nbsp;a&nbsp;little&nbsp;flour&nbsp;and&nbsp;oil&nbsp;to&nbsp;make&nbsp;a&nbsp;cake.&nbsp;Then&nbsp;she&nbsp;knows&nbsp;that&nbsp;her&nbsp;son&nbsp;is&nbsp;going&nbsp;to&nbsp;die,&nbsp;and&nbsp;she’s&nbsp;going&nbsp;to&nbsp;die&nbsp;of&nbsp;starvation,&nbsp;too.&nbsp;But&nbsp;what&nbsp;she&nbsp;does&nbsp;is&nbsp;she&nbsp;participates&nbsp;in&nbsp;this&nbsp;mysterious&nbsp;utterance&nbsp;of&nbsp;this&nbsp;prophecy&nbsp;by&nbsp;faith&nbsp;and&nbsp;she&nbsp;gives&nbsp;the&nbsp;little&nbsp;that&nbsp;she&nbsp;has&nbsp;which&nbsp;was&nbsp;to&nbsp;survive&nbsp;just&nbsp;maybe&nbsp;another&nbsp;few&nbsp;days&nbsp;and&nbsp;give&nbsp;this&nbsp;to&nbsp;the&nbsp;stranger&nbsp;hoping&nbsp;for&nbsp;a&nbsp;blessing&nbsp;and&nbsp;of&nbsp;course&nbsp;miraculously&nbsp;we’re&nbsp;told&nbsp;that&nbsp;she’s&nbsp;it’s&nbsp;prophesied&nbsp;to&nbsp;her&nbsp;that&nbsp;you&nbsp;know&nbsp;the&nbsp;flowers&nbsp;not&nbsp;going&nbsp;to&nbsp;run&nbsp;out&nbsp;and&nbsp;the&nbsp;oil&nbsp;is&nbsp;not&nbsp;going&nbsp;to&nbsp;run&nbsp;out&nbsp;you&nbsp;know&nbsp;and&nbsp;then&nbsp;you&nbsp;see&nbsp;Jesus&nbsp;claiming&nbsp;and&nbsp;affirming&nbsp;this&nbsp;type&nbsp;of&nbsp;response&nbsp;because&nbsp;the&nbsp;widow&nbsp;comes&nbsp;to&nbsp;the&nbsp;treasury&nbsp;she’s&nbsp;not&nbsp;expecting&nbsp;anything&nbsp;back&nbsp;but&nbsp;she’s&nbsp;very&nbsp;faithful&nbsp;but&nbsp;she&nbsp;uses&nbsp;it&nbsp;very&nbsp;much&nbsp;to&nbsp;illustrate&nbsp;to&nbsp;his&nbsp;disciples&nbsp;what&nbsp;it&nbsp;really&nbsp;means&nbsp;to&nbsp;give&nbsp;from&nbsp;the&nbsp;substance&nbsp;of&nbsp;your&nbsp;life&nbsp;and&nbsp;allow&nbsp;a&nbsp;pathway&nbsp;for&nbsp;Providence&nbsp;to&nbsp;really&nbsp;demonstrate&nbsp;for&nbsp;you&nbsp;how&nbsp;close&nbsp;and&nbsp;how&nbsp;wonderful&nbsp;it&nbsp;is&nbsp;and&nbsp;here&nbsp;you&nbsp;have&nbsp;Jesus&nbsp;symbolically&nbsp;more&nbsp;than&nbsp;symbolically&nbsp;looking&nbsp;into&nbsp;her&nbsp;heart&nbsp;and&nbsp;life&nbsp;and&nbsp;seeing&nbsp;the&nbsp;depth&nbsp;of&nbsp;which&nbsp;God&nbsp;really&nbsp;treasures&nbsp;this&nbsp;great&nbsp;woman&nbsp;who&nbsp;actually&nbsp;lives&nbsp;and&nbsp;mirrors&nbsp;back&nbsp;to&nbsp;Jesus&nbsp;what&nbsp;it’s&nbsp;going&nbsp;to&nbsp;cost&nbsp;him&nbsp;on&nbsp;the&nbsp;cross&nbsp;he’s&nbsp;going&nbsp;to&nbsp;have&nbsp;to&nbsp;give&nbsp;not&nbsp;from&nbsp;the&nbsp;excesses&nbsp;of&nbsp;his&nbsp;life&nbsp;and&nbsp;ability&nbsp;he’s&nbsp;going&nbsp;to&nbsp;have&nbsp;to&nbsp;give&nbsp;out&nbsp;of&nbsp;the&nbsp;absolute&nbsp;essence&nbsp;of&nbsp;himself&nbsp;and&nbsp;give&nbsp;it&nbsp;away&nbsp;entirely&nbsp;in&nbsp;death&nbsp;for&nbsp;a&nbsp;greater&nbsp;miracle&nbsp;to&nbsp;save&nbsp;the&nbsp;human&nbsp;race&nbsp;for&nbsp;all&nbsp;ages&nbsp;and&nbsp;the&nbsp;universe&nbsp;so&nbsp;he’s&nbsp;seeing&nbsp;him&nbsp;there&nbsp;a&nbsp;prophecy&nbsp;coming&nbsp;through&nbsp;her&nbsp;and&nbsp;he’s&nbsp;affirming&nbsp;that&nbsp;prophecy&nbsp;to&nbsp;others&nbsp;that&nbsp;will&nbsp;have&nbsp;to&nbsp;follow&nbsp;this&nbsp;same&nbsp;way.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Saint&nbsp;John&nbsp;Paul&nbsp;II&nbsp;wrote&nbsp;in&nbsp;encyclical&nbsp;some&nbsp;years&nbsp;back&nbsp;before&nbsp;his&nbsp;passing&nbsp;about&nbsp;the&nbsp;economy&nbsp;and&nbsp;I&nbsp;think&nbsp;it&nbsp;was&nbsp;and&nbsp;I&nbsp;can’t&nbsp;remember&nbsp;the&nbsp;Latin&nbsp;term&nbsp;right&nbsp;off&nbsp;hand&nbsp;pardon&nbsp;me&nbsp;but&nbsp;in&nbsp;there&nbsp;he&nbsp;said&nbsp;to&nbsp;the&nbsp;world&nbsp;and&nbsp;especially&nbsp;the&nbsp;church&nbsp;he&nbsp;said&nbsp;God&nbsp;has&nbsp;called&nbsp;you&nbsp;to&nbsp;give&nbsp;not&nbsp;merely&nbsp;from&nbsp;your&nbsp;surplus&nbsp;but&nbsp;from&nbsp;the&nbsp;substance&nbsp;of&nbsp;your&nbsp;life&nbsp;and&nbsp;he&nbsp;was&nbsp;calling&nbsp;the&nbsp;church&nbsp;to&nbsp;take&nbsp;a&nbsp;risk&nbsp;a&nbsp;significant&nbsp;risk&nbsp;to&nbsp;divest&nbsp;itself&nbsp;in&nbsp;such&nbsp;a&nbsp;way&nbsp;as&nbsp;to&nbsp;help&nbsp;the&nbsp;poor&nbsp;of&nbsp;the&nbsp;nations&nbsp;and&nbsp;that&nbsp;every&nbsp;opportunity&nbsp;that&nbsp;we&nbsp;have&nbsp;as&nbsp;a&nbsp;disciple&nbsp;if&nbsp;we’re&nbsp;really&nbsp;wanting&nbsp;a&nbsp;miracle&nbsp;we&nbsp;open&nbsp;ourselves&nbsp;to&nbsp;that&nbsp;Providence&nbsp;that&nbsp;says&nbsp;I&nbsp;can&nbsp;trust&nbsp;God&nbsp;and&nbsp;I&nbsp;can&nbsp;do&nbsp;for&nbsp;that&nbsp;for&nbsp;another&nbsp;person&nbsp;that&nbsp;which&nbsp;I&nbsp;would&nbsp;hope&nbsp;if&nbsp;I&nbsp;were&nbsp;in&nbsp;their&nbsp;shoes&nbsp;would&nbsp;be&nbsp;done&nbsp;for&nbsp;me&nbsp;and&nbsp;celebrate&nbsp;that&nbsp;as&nbsp;a&nbsp;actual&nbsp;miracle&nbsp;of&nbsp;God’s&nbsp;Providence&nbsp;with&nbsp;us&nbsp;see&nbsp;a&nbsp;lot&nbsp;of&nbsp;times&nbsp;when&nbsp;we&nbsp;look&nbsp;at&nbsp;miracles&nbsp;we&nbsp;we&nbsp;want&nbsp;to&nbsp;see&nbsp;bright&nbsp;lights&nbsp;and&nbsp;fireworks&nbsp;and&nbsp;everything&nbsp;around&nbsp;it&nbsp;but&nbsp;miracles&nbsp;that&nbsp;I&nbsp;have&nbsp;witnessed&nbsp;a&nbsp;lot&nbsp;of&nbsp;times&nbsp;in&nbsp;life&nbsp;are&nbsp;much&nbsp;much&nbsp;much&nbsp;more&nbsp;subtle&nbsp;than&nbsp;that&nbsp;because&nbsp;it’s&nbsp;involved&nbsp;with&nbsp;the&nbsp;transformation&nbsp;of&nbsp;a&nbsp;human&nbsp;person’s&nbsp;not&nbsp;in&nbsp;so&nbsp;much&nbsp;sometimes&nbsp;that&nbsp;it&nbsp;can&nbsp;transform&nbsp;everything&nbsp;about&nbsp;the&nbsp;situation&nbsp;that&nbsp;they’re&nbsp;in&nbsp;but&nbsp;something&nbsp;really&nbsp;divine&nbsp;something&nbsp;beautiful&nbsp;something&nbsp;like&nbsp;Mother&nbsp;Teresa&nbsp;had&nbsp;said&nbsp;do&nbsp;something&nbsp;beautiful&nbsp;for&nbsp;God&nbsp;that&nbsp;was&nbsp;her&nbsp;response&nbsp;do&nbsp;something&nbsp;beautiful&nbsp;for&nbsp;God&nbsp;because&nbsp;God’s&nbsp;given&nbsp;you&nbsp;the&nbsp;power&nbsp;to&nbsp;do&nbsp;that&nbsp;to&nbsp;act&nbsp;like&nbsp;God&nbsp;in&nbsp;behalf&nbsp;of&nbsp;another.</span></p><p><span style=\"color: rgb(55, 53, 47);\">I&nbsp;remember&nbsp;I&nbsp;think&nbsp;I&nbsp;told&nbsp;you&nbsp;this&nbsp;story&nbsp;but&nbsp;I’ll&nbsp;repeat&nbsp;it&nbsp;just&nbsp;because&nbsp;I&nbsp;think&nbsp;it’s&nbsp;a&nbsp;good&nbsp;thing&nbsp;to&nbsp;for&nbsp;me&nbsp;if&nbsp;not&nbsp;for&nbsp;you&nbsp;I&nbsp;was&nbsp;in&nbsp;Honduras&nbsp;and&nbsp;during&nbsp;the&nbsp;Nicaraguan&nbsp;Revolution&nbsp;and&nbsp;this&nbsp;I’d&nbsp;gone&nbsp;three&nbsp;days&nbsp;on&nbsp;horseback&nbsp;to&nbsp;with&nbsp;another&nbsp;priest&nbsp;to&nbsp;visit&nbsp;this&nbsp;village&nbsp;that&nbsp;hadn’t&nbsp;seen&nbsp;a&nbsp;priest&nbsp;in&nbsp;over&nbsp;two&nbsp;years&nbsp;and&nbsp;they&nbsp;were&nbsp;all&nbsp;indigenous&nbsp;people&nbsp;they&nbsp;lived&nbsp;on&nbsp;this&nbsp;one&nbsp;mountain&nbsp;they&nbsp;had&nbsp;their&nbsp;own&nbsp;language&nbsp;and&nbsp;everything&nbsp;wonderful&nbsp;people&nbsp;and&nbsp;they&nbsp;were&nbsp;entirely&nbsp;Catholic&nbsp;and&nbsp;so&nbsp;we&nbsp;went&nbsp;there&nbsp;and&nbsp;the&nbsp;moment&nbsp;that&nbsp;I&nbsp;got&nbsp;there&nbsp;I&nbsp;got&nbsp;off&nbsp;my&nbsp;horse&nbsp;and&nbsp;the&nbsp;horse&nbsp;had&nbsp;stepped&nbsp;into&nbsp;a&nbsp;big&nbsp;anthill&nbsp;and&nbsp;they&nbsp;were&nbsp;those&nbsp;soldier&nbsp;ants&nbsp;you&nbsp;know&nbsp;kind&nbsp;of&nbsp;thing&nbsp;so&nbsp;they’re&nbsp;not&nbsp;fun&nbsp;to&nbsp;play&nbsp;with&nbsp;and&nbsp;the&nbsp;horse&nbsp;started&nbsp;jumping&nbsp;as&nbsp;I&nbsp;was&nbsp;trying&nbsp;to&nbsp;get&nbsp;my&nbsp;toe&nbsp;out&nbsp;of&nbsp;the&nbsp;stirrup&nbsp;and&nbsp;I&nbsp;fell&nbsp;to&nbsp;the&nbsp;ground&nbsp;and&nbsp;of&nbsp;course&nbsp;the&nbsp;horse&nbsp;was&nbsp;kicking&nbsp;and&nbsp;ran&nbsp;off&nbsp;and&nbsp;and&nbsp;then&nbsp;father&nbsp;Michael&nbsp;came&nbsp;over&nbsp;in&nbsp;the&nbsp;two&nbsp;vocaros&nbsp;and&nbsp;said&nbsp;are&nbsp;you&nbsp;okay&nbsp;and&nbsp;then&nbsp;the&nbsp;ants&nbsp;were&nbsp;just&nbsp;pouring&nbsp;out&nbsp;of&nbsp;there&nbsp;like&nbsp;this&nbsp;red&nbsp;blood&nbsp;stream&nbsp;and&nbsp;all&nbsp;of&nbsp;a&nbsp;sudden&nbsp;this&nbsp;little&nbsp;boy&nbsp;who&nbsp;is&nbsp;about&nbsp;probably&nbsp;about&nbsp;two&nbsp;about&nbsp;three&nbsp;years&nbsp;ago&nbsp;just&nbsp;learned&nbsp;to&nbsp;walk&nbsp;I&nbsp;would&nbsp;think&nbsp;he&nbsp;steps&nbsp;on&nbsp;his&nbsp;father’s&nbsp;machete&nbsp;and&nbsp;cuts&nbsp;his&nbsp;foot&nbsp;in&nbsp;half&nbsp;all&nbsp;the&nbsp;way&nbsp;up&nbsp;to&nbsp;the&nbsp;bone&nbsp;blood&nbsp;flowing&nbsp;everywhere&nbsp;and&nbsp;you&nbsp;got&nbsp;the&nbsp;red&nbsp;ants&nbsp;and&nbsp;one&nbsp;thing&nbsp;you’ve&nbsp;got&nbsp;this&nbsp;little&nbsp;boy&nbsp;bleeding&nbsp;and&nbsp;turning&nbsp;white&nbsp;and&nbsp;we&nbsp;only&nbsp;had&nbsp;band-aids&nbsp;and&nbsp;some&nbsp;gauze&nbsp;and&nbsp;some&nbsp;you&nbsp;know&nbsp;antiseptic&nbsp;cream&nbsp;so&nbsp;I&nbsp;ran&nbsp;over&nbsp;to&nbsp;him&nbsp;his&nbsp;mother&nbsp;was&nbsp;hysterical&nbsp;she&nbsp;had&nbsp;been&nbsp;trying&nbsp;to&nbsp;fix&nbsp;food&nbsp;some&nbsp;tortillas&nbsp;for&nbsp;us&nbsp;and&nbsp;so&nbsp;there&nbsp;she&nbsp;is&nbsp;blood&nbsp;all&nbsp;over&nbsp;in&nbsp;front&nbsp;of&nbsp;her&nbsp;and&nbsp;so&nbsp;I&nbsp;started&nbsp;holding&nbsp;his&nbsp;foot&nbsp;together&nbsp;as&nbsp;I&nbsp;knelt&nbsp;before&nbsp;him&nbsp;and&nbsp;his&nbsp;little&nbsp;sister&nbsp;who&nbsp;was&nbsp;about&nbsp;six&nbsp;years&nbsp;old&nbsp;was&nbsp;standing&nbsp;there&nbsp;watching&nbsp;all&nbsp;this&nbsp;and&nbsp;I&nbsp;knew&nbsp;that&nbsp;it&nbsp;felt&nbsp;like&nbsp;as&nbsp;much&nbsp;as&nbsp;I&nbsp;was&nbsp;praying&nbsp;it&nbsp;felt&nbsp;like&nbsp;I&nbsp;felt&nbsp;extremely&nbsp;powerless&nbsp;nothing&nbsp;to&nbsp;do&nbsp;and&nbsp;the&nbsp;other&nbsp;than&nbsp;do&nbsp;what&nbsp;I&nbsp;could&nbsp;which&nbsp;was&nbsp;to&nbsp;comfort&nbsp;and&nbsp;bandage&nbsp;the&nbsp;foot&nbsp;together&nbsp;and&nbsp;do&nbsp;what&nbsp;I&nbsp;could&nbsp;do&nbsp;and&nbsp;put&nbsp;a&nbsp;tourniquet&nbsp;but&nbsp;not&nbsp;so&nbsp;tightly&nbsp;so&nbsp;after&nbsp;doing&nbsp;that&nbsp;I&nbsp;walk&nbsp;off&nbsp;and&nbsp;I&nbsp;thought&nbsp;I’m&nbsp;just&nbsp;I&nbsp;just&nbsp;need&nbsp;to&nbsp;clear&nbsp;my&nbsp;head&nbsp;so&nbsp;I&nbsp;walked&nbsp;down&nbsp;towards&nbsp;this&nbsp;little&nbsp;stream&nbsp;that&nbsp;ran&nbsp;below&nbsp;the&nbsp;village&nbsp;and&nbsp;this&nbsp;little&nbsp;girl&nbsp;her&nbsp;shadow&nbsp;I&nbsp;saw&nbsp;her&nbsp;shadow&nbsp;beside&nbsp;me&nbsp;and&nbsp;she&nbsp;came&nbsp;up&nbsp;and&nbsp;took&nbsp;my&nbsp;hand&nbsp;and&nbsp;we&nbsp;sat&nbsp;down&nbsp;by&nbsp;the&nbsp;stream&nbsp;together&nbsp;and&nbsp;she&nbsp;had&nbsp;she&nbsp;had&nbsp;a&nbsp;little&nbsp;tangerine&nbsp;beautiful&nbsp;golden&nbsp;tangerine&nbsp;in&nbsp;her&nbsp;hand&nbsp;and&nbsp;she&nbsp;looked&nbsp;up&nbsp;at&nbsp;me&nbsp;as&nbsp;I&nbsp;was&nbsp;staring&nbsp;at&nbsp;both&nbsp;of&nbsp;our&nbsp;faces&nbsp;in&nbsp;the&nbsp;stream&nbsp;and&nbsp;she&nbsp;put&nbsp;the&nbsp;tangerine&nbsp;in&nbsp;my&nbsp;hand&nbsp;and&nbsp;I&nbsp;wrote&nbsp;a&nbsp;poem&nbsp;called&nbsp;the&nbsp;little&nbsp;the&nbsp;girl&nbsp;with&nbsp;son&nbsp;in&nbsp;her&nbsp;hand&nbsp;the&nbsp;importance&nbsp;of&nbsp;this&nbsp;was&nbsp;the&nbsp;widow’s&nbsp;might&nbsp;because&nbsp;at&nbsp;that&nbsp;time&nbsp;all&nbsp;the&nbsp;produce&nbsp;that&nbsp;was&nbsp;being&nbsp;produced&nbsp;for&nbsp;General&nbsp;Foods&nbsp;Corporation&nbsp;and&nbsp;Dole&nbsp;the&nbsp;best&nbsp;fruit&nbsp;was&nbsp;being&nbsp;shipped&nbsp;off&nbsp;to&nbsp;the&nbsp;country&nbsp;and&nbsp;the&nbsp;people&nbsp;of&nbsp;Honduras&nbsp;always&nbsp;had&nbsp;the&nbsp;poorest&nbsp;of&nbsp;anything&nbsp;that&nbsp;was&nbsp;left&nbsp;but&nbsp;a&nbsp;tangerine&nbsp;for&nbsp;a&nbsp;little&nbsp;five-year-old&nbsp;girl&nbsp;was&nbsp;like&nbsp;having&nbsp;a&nbsp;banquet&nbsp;and&nbsp;she&nbsp;gave&nbsp;her&nbsp;back&nbsp;with&nbsp;away&nbsp;to&nbsp;me&nbsp;and&nbsp;that’s&nbsp;when&nbsp;I&nbsp;learned&nbsp;to&nbsp;the&nbsp;meaning&nbsp;of&nbsp;this&nbsp;passage&nbsp;these&nbsp;two&nbsp;passages&nbsp;give&nbsp;a&nbsp;mere&nbsp;substance&nbsp;as&nbsp;St.&nbsp;John&nbsp;Paul&nbsp;II&nbsp;said&nbsp;and&nbsp;that&nbsp;kept&nbsp;ringing&nbsp;you&nbsp;know&nbsp;over&nbsp;this&nbsp;lifetime&nbsp;that&nbsp;I’ve&nbsp;had&nbsp;and&nbsp;it&nbsp;and&nbsp;it&nbsp;really&nbsp;started&nbsp;me&nbsp;an&nbsp;understanding&nbsp;that&nbsp;we&nbsp;have&nbsp;to&nbsp;have&nbsp;a&nbsp;passionate&nbsp;knowledge&nbsp;and&nbsp;that’s&nbsp;what&nbsp;happened&nbsp;in&nbsp;the&nbsp;heart&nbsp;and&nbsp;spirit&nbsp;of&nbsp;this&nbsp;little&nbsp;girl&nbsp;in&nbsp;the&nbsp;middle&nbsp;of&nbsp;that&nbsp;village&nbsp;on&nbsp;the&nbsp;mountain&nbsp;in&nbsp;Honduras&nbsp;years&nbsp;ago&nbsp;she&nbsp;had&nbsp;a&nbsp;passionate&nbsp;knowledge&nbsp;gifted&nbsp;to&nbsp;her&nbsp;by&nbsp;God&nbsp;of&nbsp;what&nbsp;God&nbsp;would&nbsp;do&nbsp;and&nbsp;she&nbsp;was&nbsp;only&nbsp;five&nbsp;years&nbsp;old&nbsp;couldn’t&nbsp;read&nbsp;and&nbsp;write&nbsp;but&nbsp;if&nbsp;she&nbsp;were&nbsp;she&nbsp;was&nbsp;a&nbsp;saint&nbsp;in&nbsp;my&nbsp;estimation.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Life&nbsp;can&nbsp;be&nbsp;read&nbsp;like&nbsp;rings&nbsp;even&nbsp;in&nbsp;a&nbsp;small&nbsp;tree&nbsp;even&nbsp;a&nbsp;tree&nbsp;that’s&nbsp;just&nbsp;a&nbsp;sapling&nbsp;has&nbsp;a&nbsp;story&nbsp;to&nbsp;tell&nbsp;us&nbsp;so&nbsp;we&nbsp;never&nbsp;put&nbsp;her&nbsp;until&nbsp;total&nbsp;emphasis&nbsp;on&nbsp;just&nbsp;what&nbsp;we&nbsp;can&nbsp;do&nbsp;but&nbsp;also&nbsp;what&nbsp;God&nbsp;will&nbsp;do&nbsp;within&nbsp;us&nbsp;and&nbsp;give&nbsp;us&nbsp;the&nbsp;power&nbsp;to&nbsp;do&nbsp;even&nbsp;in&nbsp;our&nbsp;limitations&nbsp;they’re&nbsp;sobering&nbsp;treks&nbsp;for&nbsp;us&nbsp;all&nbsp;ahead&nbsp;but&nbsp;isn’t&nbsp;a&nbsp;pilgrimage&nbsp;in&nbsp;faith&nbsp;that&nbsp;in&nbsp;truth&nbsp;you&nbsp;know&nbsp;the&nbsp;way&nbsp;we&nbsp;used&nbsp;to&nbsp;say&nbsp;we&nbsp;used&nbsp;to&nbsp;talk&nbsp;about&nbsp;journey&nbsp;I&nbsp;think&nbsp;was&nbsp;Joseph&nbsp;Campbell&nbsp;who&nbsp;said&nbsp;one&nbsp;time&nbsp;that&nbsp;the&nbsp;word&nbsp;journey&nbsp;really&nbsp;came&nbsp;from&nbsp;the&nbsp;land&nbsp;the&nbsp;distance&nbsp;you&nbsp;could&nbsp;travel&nbsp;in&nbsp;one&nbsp;day&nbsp;and&nbsp;maybe&nbsp;we&nbsp;only&nbsp;have&nbsp;one&nbsp;day&nbsp;but&nbsp;one&nbsp;day&nbsp;as&nbsp;the&nbsp;scriptures&nbsp;tells&nbsp;us&nbsp;is&nbsp;one&nbsp;day&nbsp;in&nbsp;God’s&nbsp;imagination&nbsp;is&nbsp;like&nbsp;a&nbsp;thousand&nbsp;lifetimes&nbsp;or&nbsp;a&nbsp;thousand&nbsp;years&nbsp;and&nbsp;and&nbsp;you&nbsp;often&nbsp;hear&nbsp;in&nbsp;our&nbsp;culture&nbsp;are&nbsp;we&nbsp;there&nbsp;yet&nbsp;most&nbsp;of&nbsp;its&nbsp;derogative&nbsp;are&nbsp;science&nbsp;to&nbsp;its&nbsp;impatience&nbsp;are&nbsp;marginalized&nbsp;as&nbsp;people&nbsp;that&nbsp;we&nbsp;might&nbsp;be&nbsp;around&nbsp;are&nbsp;their&nbsp;intelligence&nbsp;of&nbsp;their&nbsp;abilities&nbsp;are&nbsp;we&nbsp;there&nbsp;yet&nbsp;imagine&nbsp;a&nbsp;teacher&nbsp;or&nbsp;professor&nbsp;saying&nbsp;that&nbsp;to&nbsp;you&nbsp;and&nbsp;you’re&nbsp;trying&nbsp;to&nbsp;learn&nbsp;but&nbsp;imagine&nbsp;that&nbsp;on&nbsp;a&nbsp;spiritual&nbsp;level&nbsp;and&nbsp;if&nbsp;I’m&nbsp;carrying&nbsp;that&nbsp;kind&nbsp;of&nbsp;attitude&nbsp;with&nbsp;the&nbsp;very&nbsp;energy&nbsp;that&nbsp;I&nbsp;could&nbsp;turn&nbsp;to&nbsp;love&nbsp;and&nbsp;support&nbsp;and&nbsp;say&nbsp;we’re&nbsp;on&nbsp;a&nbsp;journey&nbsp;together&nbsp;but&nbsp;you&nbsp;just&nbsp;need&nbsp;my&nbsp;help&nbsp;and&nbsp;I&nbsp;need&nbsp;yours&nbsp;pilgrimage&nbsp;is&nbsp;often&nbsp;bring&nbsp;us&nbsp;to&nbsp;very&nbsp;different&nbsp;different&nbsp;destinations&nbsp;at&nbsp;times&nbsp;but&nbsp;the&nbsp;destination&nbsp;the&nbsp;closer&nbsp;we&nbsp;get&nbsp;to&nbsp;it&nbsp;all&nbsp;of&nbsp;a&nbsp;sudden&nbsp;we&nbsp;realize&nbsp;another&nbsp;destinations&nbsp;even&nbsp;further&nbsp;grace&nbsp;is&nbsp;that&nbsp;mystery&nbsp;of&nbsp;working&nbsp;in&nbsp;our&nbsp;lives&nbsp;the&nbsp;destination&nbsp;that&nbsp;God&nbsp;has&nbsp;already&nbsp;revealed&nbsp;but&nbsp;it&nbsp;is&nbsp;not&nbsp;without&nbsp;its&nbsp;challenges&nbsp;not&nbsp;without&nbsp;its&nbsp;struggle&nbsp;not&nbsp;without&nbsp;asking&nbsp;of&nbsp;us&nbsp;give&nbsp;the&nbsp;substance&nbsp;of&nbsp;your&nbsp;heart&nbsp;whatever&nbsp;that&nbsp;mean&nbsp;means&nbsp;for&nbsp;you&nbsp;and&nbsp;your&nbsp;conscience&nbsp;and&nbsp;from&nbsp;that&nbsp;will&nbsp;flower&nbsp;you&nbsp;know&nbsp;a&nbsp;new&nbsp;creation&nbsp;intentions&nbsp;are&nbsp;definitely&nbsp;to&nbsp;be&nbsp;discerned&nbsp;as&nbsp;opposed&nbsp;to&nbsp;the&nbsp;results&nbsp;we&nbsp;expect&nbsp;and&nbsp;I’m&nbsp;sure&nbsp;that&nbsp;little&nbsp;girl&nbsp;who&nbsp;I&nbsp;hope&nbsp;grew&nbsp;up&nbsp;to&nbsp;a&nbsp;womanhood&nbsp;and&nbsp;the&nbsp;fullness&nbsp;of&nbsp;her&nbsp;life&nbsp;is&nbsp;still&nbsp;putting&nbsp;a&nbsp;piece&nbsp;of&nbsp;Sun&nbsp;in&nbsp;the&nbsp;world&nbsp;and&nbsp;in&nbsp;the&nbsp;hearts&nbsp;of&nbsp;others.</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "monastic-reading": {
+    "nickname": "Suggested Readings",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Fr. Daniel's Suggested Readings"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">Monastic&nbsp;Reading&nbsp;List&nbsp;for&nbsp;more&nbsp;in-depth&nbsp;understanding&nbsp;of&nbsp;it’s&nbsp;spirituality&nbsp;in&nbsp;today’s&nbsp;world.&nbsp;I&nbsp;suggest&nbsp;the&nbsp;following.</span></p><p><span style=\"color: rgb(55, 53, 47);\">-Prior&nbsp;Daniel&nbsp;Manger,O.S.B.,Cam.</span></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">Perspectives&nbsp;On&nbsp;the&nbsp;Rule&nbsp;of&nbsp;St.&nbsp;Benedict&nbsp;,&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">From&nbsp;The&nbsp;Tools&nbsp;Of&nbsp;Good&nbsp;Works&nbsp;To&nbsp;the&nbsp;Heart&nbsp;Of&nbsp;Humility&nbsp;by&nbsp;Sr.&nbsp;Aquinata&nbsp;Bockmann&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">A&nbsp;Listening&nbsp;Community&nbsp;by&nbsp;Sr.&nbsp;Aquinata&nbsp;Bockmann&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">Hildegard&nbsp;of&nbsp;Bingen&nbsp;,&nbsp;Solutions&nbsp;To&nbsp;38&nbsp;Questions&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">St.&nbsp;Bernard’s&nbsp;3&nbsp;Course&nbsp;Banquet&nbsp;by&nbsp;Bernard&nbsp;Bonowitz&nbsp;(Cistercian&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;Historical&nbsp;Atlas&nbsp;of&nbsp;Eastern&nbsp;&amp;&nbsp;Western&nbsp;Christian&nbsp;Monasticism&nbsp;by&nbsp;Juan&nbsp;Laboa&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;Privilage&nbsp;Of&nbsp;Love&nbsp;by&nbsp;Peter&nbsp;Damain&nbsp;Belisle,&nbsp;(Liturgical&nbsp;Press)</span></p><p><span style=\"color: rgb(55, 53, 47);\">How&nbsp;To&nbsp;Inhabit&nbsp;Time&nbsp;by&nbsp;James&nbsp;K.A.&nbsp;Smith,&nbsp;(&nbsp;BrazosPress)</span></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;Practice&nbsp;of&nbsp;Spiritual&nbsp;Direction&nbsp;by&nbsp;William&nbsp;A.&nbsp;Barry&nbsp;&amp;&nbsp;William&nbsp;J.&nbsp;Connolly&nbsp;(Harper&nbsp;One-Collins&nbsp;Publishing)</span></p><p><span style=\"color: rgb(55, 53, 47);\">The&nbsp;Tears&nbsp;of&nbsp;Things:Prophetic&nbsp;wisdom&nbsp;for&nbsp;an&nbsp;age&nbsp;of&nbsp;outrage,&nbsp;by&nbsp;Fr.&nbsp;Richard&nbsp;Rohr,O.F.M.</span></p><p><span style=\"color: rgb(55, 53, 47);\">My&nbsp;Battle&nbsp;Against&nbsp;Hitler:&nbsp;Faith,&nbsp;Truth,&nbsp;and&nbsp;defiance&nbsp;in&nbsp;the&nbsp;shadow&nbsp;of&nbsp;the&nbsp;Third&nbsp;Reich,&nbsp;by&nbsp;Dietrich&nbsp;Von&nbsp;Hildebrand</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "ai-common-good": {
+    "nickname": "AI Reflection",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Suggested Readings on Artificial Intelligence and the Common Good"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">Vukov,&nbsp;Joseph.&nbsp;2024.&nbsp;Staying&nbsp;Human&nbsp;In&nbsp;An&nbsp;Era&nbsp;Of&nbsp;AI.&nbsp;New&nbsp;City&nbsp;Press,&nbsp;$19.95</span></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">Delio,&nbsp;Ilia.&nbsp;2020.&nbsp;Re-Enchanting&nbsp;the&nbsp;Earth:&nbsp;Why&nbsp;AI&nbsp;Needs&nbsp;Religion.&nbsp;Orbis&nbsp;Press&nbsp;$26.00</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "vatican-artificial-intelligence": {
+    "nickname": "Vatican AI article",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "The Vatican has said a lot about artificial intelligence. A primer ahead of the pope’s encyclical:"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>The&nbsp;Vatican&nbsp;has&nbsp;said&nbsp;a&nbsp;lot&nbsp;about&nbsp;artificial&nbsp;intelligence.&nbsp;A&nbsp;primer&nbsp;ahead&nbsp;of&nbsp;the&nbsp;pope’s&nbsp;encyclical:</p><p></p><p><a href=\"https://cruxnow.com/vatican/2026/05/the-vatican-has-said-a-lot-about-artificial-intelligence-a-primer-ahead-of-the-popes-encyclical/\" rel=\"noopener noreferrer\" target=\"_blank\">CLICK&nbsp;HERE&nbsp;TO&nbsp;VIEW&nbsp;THE&nbsp;ARTICLE</a></p><p></p><p>Fr&nbsp;Daniel</p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "dilexit-nos": {
+    "nickname": "Pope Francis Encyclical",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Read Pope Francis' New Encyclical"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">Read&nbsp;the&nbsp;enclyclical&nbsp;</span><a href=\"https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2FMRC%2Fwebsite%2FDILEXIT%20NOS_ENGLISH-1.pdf?alt=media&amp;token=9b0e07db-c6d0-4c96-9079-c3448629309c\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(55, 53, 47);\">HERE</a><span style=\"color: rgb(55, 53, 47);\">&nbsp;and&nbsp;join&nbsp;us&nbsp;in&nbsp;prayer&nbsp;and&nbsp;reflection&nbsp;on&nbsp;the&nbsp;Pope&#39;s&nbsp;message.</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "body-and-indwelling-god": {
+    "nickname": "Trump Reflection",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Trump, The Body, and the God Who Dwells Within"
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><a href=\"https://www.thelivingwater.com.au/blog/trump-the-body-and-the-god-who-dwells-within\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW&nbsp;ARTICLE</a></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">This&nbsp;article&nbsp;is&nbsp;a&nbsp;recent&nbsp;interview&nbsp;with&nbsp;our&nbsp;former&nbsp;superior,&nbsp;who&nbsp;is&nbsp;in&nbsp;Rome&nbsp;now&nbsp;working&nbsp;for&nbsp;the&nbsp;Abbot&nbsp;Primate&nbsp;of&nbsp;the&nbsp;Benedictine&nbsp;order&nbsp;in&nbsp;the&nbsp;office&nbsp;for&nbsp;inter-religious&nbsp;dialogue.</span></p><p></p><p><span style=\"color: rgb(55, 53, 47);\">-Prior&nbsp;Daniel&nbsp;Manger,O.S.B.,Cam.</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "remembering-danella": {
+    "nickname": "Danella Blanchard",
+    "type": "Reflection",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Danella Blanchard Oblate of happy memory by Prior Daniel Manger, osb, Cam."
+        }
+      },
+      "Featured Image": {
+        "label": "Featured Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">To&nbsp;all&nbsp;of&nbsp;our&nbsp;Oblate&nbsp;community&nbsp;&amp;&nbsp;friends&nbsp;during&nbsp;this&nbsp;time&nbsp;of&nbsp;grief&nbsp;over&nbsp;the&nbsp;death&nbsp;of&nbsp;Danella&nbsp;our&nbsp;Oblate,&nbsp;we&nbsp;will&nbsp;miss&nbsp;her&nbsp;exuberant&nbsp;presence&nbsp;of&nbsp;faith&nbsp;and&nbsp;enthusiasm&nbsp;for&nbsp;the&nbsp;Monastery&nbsp;of&nbsp;the&nbsp;Risen&nbsp;Christ.&nbsp;I&nbsp;had&nbsp;know&nbsp;her&nbsp;for&nbsp;many&nbsp;years&nbsp;from&nbsp;the&nbsp;time&nbsp;when&nbsp;I&nbsp;was&nbsp;a&nbsp;resident&nbsp;monk&nbsp;at&nbsp;New&nbsp;Camaldoli&nbsp;Hermitage&nbsp;and&nbsp;had&nbsp;many&nbsp;conversations&nbsp;with&nbsp;her&nbsp;over&nbsp;the&nbsp;years.&nbsp;Danella’s&nbsp;positive&nbsp;and&nbsp;compassionate&nbsp;concern&nbsp;for&nbsp;shut-ins&nbsp;and&nbsp;the&nbsp;marginal&nbsp;people&nbsp;she&nbsp;would&nbsp;minister&nbsp;to&nbsp;was&nbsp;moving&nbsp;in&nbsp;her&nbsp;Christ-like&nbsp;motivations.&nbsp;She&nbsp;also,&nbsp;being&nbsp;a&nbsp;thespian&nbsp;and&nbsp;teacher&nbsp;of&nbsp;the&nbsp;art&nbsp;of&nbsp;acting&nbsp;displayed&nbsp;her&nbsp;considerable&nbsp;appreciation&nbsp;of&nbsp;that&nbsp;artistic&nbsp;media&nbsp;as&nbsp;a&nbsp;way&nbsp;to&nbsp;bring&nbsp;comedy&nbsp;and&nbsp;enjoyment&nbsp;to&nbsp;audiences&nbsp;will&nbsp;no&nbsp;doubt&nbsp;be&nbsp;missed.&nbsp;She&nbsp;enjoyed&nbsp;teaching&nbsp;her&nbsp;craft&nbsp;very&nbsp;much.&nbsp;Danella’s&nbsp;presence&nbsp;brought&nbsp;light&nbsp;and&nbsp;spirit&nbsp;and&nbsp;joy&nbsp;I&nbsp;recall&nbsp;to&nbsp;our&nbsp;monastic&nbsp;community&nbsp;and&nbsp;Oblate&nbsp;gatherings.&nbsp;Her&nbsp;love&nbsp;of&nbsp;sacred&nbsp;scripture&nbsp;and&nbsp;constant&nbsp;reflection&nbsp;on&nbsp;Jesus’&nbsp;presence&nbsp;in&nbsp;his&nbsp;living&nbsp;word&nbsp;strengthened&nbsp;and&nbsp;expanded&nbsp;the&nbsp;‘living&nbsp;room&nbsp;of&nbsp;her&nbsp;heart&nbsp;spirit’,&nbsp;a&nbsp;place&nbsp;of&nbsp;compassion&nbsp;and&nbsp;hospitality&nbsp;many&nbsp;discovered&nbsp;in&nbsp;her&nbsp;presence&nbsp;to&nbsp;them.&nbsp;I&nbsp;believe&nbsp;she&nbsp;gave&nbsp;a&nbsp;great&nbsp;witness&nbsp;to&nbsp;Camaldolese&nbsp;Oblate&nbsp;spirituality&nbsp;and&nbsp;practice&nbsp;that&nbsp;affirmed&nbsp;Oblate&nbsp;and&nbsp;us&nbsp;monks&nbsp;alike.</span></p><p><span style=\"color: rgb(55, 53, 47);\">May&nbsp;she&nbsp;rest&nbsp;and&nbsp;be&nbsp;rejoiced&nbsp;in&nbsp;the&nbsp;place&nbsp;prepared&nbsp;for&nbsp;those&nbsp;who&nbsp;lovingly&nbsp;serve&nbsp;the&nbsp;Savior&nbsp;Emmanuel.</span></p><p><span style=\"color: rgb(55, 53, 47);\">Fraternally,</span></p><p><span style=\"color: rgb(55, 53, 47);\">Prior&nbsp;Daniel</span></p><p><span style=\"color: rgb(55, 53, 47);\">Monastery&nbsp;of&nbsp;the&nbsp;Risen&nbsp;Christ</span></p>"
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "paula-huston-book-launch": {
+    "nickname": "Forgotten Map",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FaLY8iCOiNeFB3XcPZr1N%2F02409.jpg?alt=media&token=806a851f-b611-427b-b5e3-28cbe91ef0c9"
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Book Release and Signing by Author Paula Huston"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>My&nbsp;new&nbsp;book,&nbsp;The&nbsp;Forgotten&nbsp;Map:&nbsp;Gen&nbsp;Z,&nbsp;and&nbsp;the&nbsp;Quest&nbsp;for&nbsp;Hope&nbsp;and&nbsp;Meaning,&nbsp;is&nbsp;being&nbsp;released&nbsp;on&nbsp;October&nbsp;15,&nbsp;and&nbsp;I&nbsp;thought&nbsp;it&nbsp;would&nbsp;be&nbsp;fun&nbsp;to&nbsp;do&nbsp;a&nbsp;&quot;book&nbsp;launch&quot;&nbsp;at&nbsp;the&nbsp;monastery&nbsp;a&nbsp;couple&nbsp;of&nbsp;days&nbsp;later.&nbsp;&nbsp;I&nbsp;hope&nbsp;you&nbsp;can&nbsp;come!</p><p></p><p>Place:&nbsp;Monastery&nbsp;of&nbsp;the&nbsp;Risen&nbsp;Christ</p><p>Date:&nbsp;Sunday,&nbsp;October&nbsp;18</p><p>Time:&nbsp;8:30&nbsp;a.m.&nbsp;coffee,&nbsp;pastries,&nbsp;and&nbsp;fruit</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:00&nbsp;a.m.&nbsp;talk&nbsp;and&nbsp;reading</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10:00&nbsp;a.m.&nbsp;book&nbsp;signing</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00&nbsp;Mass</p><p></p><p>Liturgical&nbsp;Press&nbsp;is&nbsp;offering&nbsp;20%&nbsp;off&nbsp;and&nbsp;free&nbsp;standard&nbsp;shipping&nbsp;if&nbsp;you&nbsp;preorder&nbsp;today&nbsp;using&nbsp;the&nbsp;promotion&nbsp;code&nbsp;HUSTON26.&nbsp;Click&nbsp;the&nbsp;link&nbsp;below&nbsp;to&nbsp;preorder&nbsp;today.&nbsp;There&nbsp;will&nbsp;also&nbsp;be&nbsp;copies&nbsp;available&nbsp;to&nbsp;purchase&nbsp;at&nbsp;the&nbsp;monastery&nbsp;the&nbsp;morning&nbsp;of&nbsp;the&nbsp;event.&nbsp;&nbsp;</p><p></p><p>Thanks&nbsp;very&nbsp;much&nbsp;for&nbsp;your&nbsp;support!</p><p>Paula</p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "External Link"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": "Click to Preorder!"
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "url": "https://litpress.org/Products/02409/The-Forgotten-Map?srsltid=AfmBOoqc_cNE9N_nMwcnm3MUydmm-23DAIKLNjqjOzuxVwRfATlmEANh"
+            }
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "welcome-elizabeth-matthew": {
+    "nickname": "Oblation of Elizabeth and Matthew",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Congratulations Elizabeth and Matthew!"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>We&nbsp;welcome&nbsp;and&nbsp;congratulate&nbsp;Elizabeth&nbsp;and&nbsp;Matthew&nbsp;to&nbsp;our&nbsp;Camaldolese&nbsp;Oblate&nbsp;community.&nbsp;on&nbsp;the&nbsp;feast&nbsp;of&nbsp;Saint&nbsp;Benedict!&nbsp;You&nbsp;both&nbsp;are&nbsp;a&nbsp;gift&nbsp;and&nbsp;blessing&nbsp;to&nbsp;us&nbsp;of&nbsp;which&nbsp;we&nbsp;are&nbsp;grateful&nbsp;to&nbsp;God&nbsp;for&nbsp;joining&nbsp;the&nbsp;mission&nbsp;of&nbsp;the&nbsp;contemplative&nbsp;witness&nbsp;in&nbsp;the&nbsp;years&nbsp;ahead!</p><p>Prior&nbsp;Daniel&nbsp;&amp;&nbsp;Father&nbsp;Stephen</p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": [
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2F8d7Nq0fCVUcHIIuj9BDR%2FF03608A9-7BC1-4EE9-ABE8-1C18774157F3.jpg?alt=media&token=ff65f48a-3ada-401f-a3aa-052394cdbff9"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2F21alVKsO0TmgyE7FoYAh%2FF2A52132-4134-400C-9C62-0179E5D053F8.jpg?alt=media&token=0baf7ca7-069c-4867-83b9-f9b6aae64171"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FDUZ7UlvyljhFibraMUOs%2FE353CD4D-B715-4D18-A771-85E95AB0B2B1.jpg?alt=media&token=5d78f3d3-9eb1-4fa1-886e-538d54bf8829"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FNtvD74IDBknvBlLwGcyq%2FCF9FF6DC-53AD-4143-BBD3-FBEB2C9029E6.jpg?alt=media&token=f28f6ae4-3c6b-4a25-acbb-2379f59eef8d"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FygeS1fOx5S1FVILJGSYE%2FC71D4889-C503-4085-9684-76C4FC523E82.jpg?alt=media&token=bb511266-2d8c-40e5-86cd-6fe56064f1cf"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FLysaV1ggGUJTacZrg6fh%2FAF733970-02A6-45CD-BE4E-A6CDD6A34C18.jpg?alt=media&token=995fe2bd-27e2-4e7f-901e-a8b9f8a1d5fa"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FnQ2Sgr16xnWBSVmAMviO%2F415CEDF4-946E-420B-AF53-56B03CE90DB8.jpg?alt=media&token=e65754b5-5ffe-49f0-b62d-5cc8c3fc39b3"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FwXTFKYO3zx7OinbwFlGn%2F067C2DD1-5F1B-4558-A88A-6463FA0E9F99.jpg?alt=media&token=1045ded7-893d-4584-acb3-fdd28f298f6b"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FnyA124cSoioouNwkMIOa%2F6C62EDD2-C96A-4057-86AB-DEE8EEE626E9.jpg?alt=media&token=d0389dcd-a598-4783-b6b3-b22fa225fefb"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2Fjyas1qysPU0DeoVfZYWN%2F4CE2DED5-71F0-4311-80AB-351356AA34E1.jpg?alt=media&token=6694607d-eb94-42a5-9545-3c8bb5436190"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FMyuEuXGQilSDDCWFWuXT%2F0D29F947-1041-4434-B30B-AA6F8DBAA54C.jpg?alt=media&token=2b1c8173-a5e8-4923-86f4-48ca8f171d1c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "renewed-chapel": {
+    "nickname": "Chapel Renovations",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FWVgZgPexSm1bMhaCFdI9%2Fwhole.jpg?alt=media&token=d2935dc3-4fb4-4fe9-87c9-d012e45b2ed9"
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "The chapel at the Monastery of the Risen Christ has been renovated! "
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": ""
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": [
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FkI16Opwy3yW2mmYHarRd%2Fimage1.jpeg?alt=media&token=9cac667a-c3f9-4edc-a084-725ad7c6897a"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FdGTqNcrmzBAU6GaDk4vq%2Fimage2.jpeg?alt=media&token=161217a1-6d14-4490-a3c4-aa9f315fca9f"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FoAdWk1GWUpH50r6uI3q9%2Fimage3.jpeg?alt=media&token=628e14ec-f679-495e-a69e-3e82c51c5757"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FC4AmAqmmzWkLz9JiZvM3%2Fimage4.jpeg?alt=media&token=220236ca-ba03-4a08-b006-8321617a6b7f"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2F0vE6bzQIcAYGXAVZqS06%2Fimage6.jpeg?alt=media&token=4dd83372-019c-4d77-bbe1-83af57cd5569"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2F718gv91IjoJUahrCFROF%2Fimage7.jpeg?alt=media&token=da077ce5-85c3-4ac5-8122-8e288d985ffd"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FKnlIA44bdNzyDDeTOhKd%2Fimage8.jpeg?alt=media&token=bfec789b-28bc-4b2e-bed9-cc73eaf24afc"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FV6tnsuWUCfMvTVv9xBGN%2Fimage9.jpeg?alt=media&token=1b50b5d7-fd74-49f2-adc2-cb80c6566e88"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FIrX9rPxaiLMbL7QCXkVx%2Fimage0.jpeg?alt=media&token=ac433e25-fc44-4d4e-8cf2-601bcb62b1be"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fr-thomas-ordination": {
+    "nickname": "Ordination of Fr. Thomas",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FOrdination%20of%20Father%20Thomas.jpg?alt=media&token=811d3e52-e007-4a17-ba5f-285b8d99ec62"
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Congratulations, Fr. Thomas (center, left)!"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>Congratulations&nbsp;to&nbsp;Fr.&nbsp;Thomas&nbsp;on&nbsp;the&nbsp;occasion&nbsp;of&nbsp;his&nbsp;ordination&nbsp;as&nbsp;priest.&nbsp;Wishing&nbsp;him&nbsp;every&nbsp;blessing&nbsp;from&nbsp;us&nbsp;at&nbsp;MRC&nbsp;and&nbsp;our&nbsp;Oblates&nbsp;here.&nbsp;</p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "advent-taize": {
+    "nickname": "Announcement",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1764688258449_Taize.jpg?alt=media&token=102c95d6-c732-450c-b941-381500e07b02"
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Advent Taize Prayer Service"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>Saturday,&nbsp;December&nbsp;6th,&nbsp;2:00-3:30</p><p></p><p>Monastery&nbsp;Chapel</p><p></p><p>Come&nbsp;pray&nbsp;with&nbsp;us!</p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "dreamwork": {
+    "nickname": "Announcement",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Dreamwork at the Monastery of the Risen Christ"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p>The&nbsp;Monastery&nbsp;of&nbsp;the&nbsp;Risen&nbsp;Christ&nbsp;has&nbsp;for&nbsp;many&nbsp;years&nbsp;sought&nbsp;to&nbsp;minister&nbsp;and&nbsp;provide&nbsp;ways&nbsp;to&nbsp;our&nbsp;patrons,&nbsp;who&nbsp;are&nbsp;doing&nbsp;dreamwork&nbsp;as&nbsp;part&nbsp;of&nbsp;their&nbsp;spiritual&nbsp;journey.</p><p></p><p>Peter&nbsp;Aijan,&nbsp;a&nbsp;long&nbsp;time&nbsp;friend,&nbsp;facilitates&nbsp;a&nbsp;group&nbsp;of&nbsp;our&nbsp;monastery&#39;s&nbsp;patrons&nbsp;in&nbsp;their&nbsp;dream&nbsp;processing.</p><p></p><p>I&nbsp;would&nbsp;like&nbsp;to&nbsp;recommend&nbsp;this&nbsp;presentation&nbsp;of&nbsp;Peter&#39;s&nbsp;insights&nbsp;to&nbsp;you&nbsp;for&nbsp;your&nbsp;own&nbsp;enrichment.</p><p></p><p>Prior&nbsp;Daniel&nbsp;Manger,&nbsp;OSB,&nbsp;Cam.</p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "External Link"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": "View the Seminar here"
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "url": "https://www.youtube.com/watch?v=rZlKoC1879g&feature=youtu.be"
+            }
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "fr-stephen-jubilee": {
+    "nickname": "Announcement",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1757527976809_Blessing%202.JPG?alt=media&token=a6531682-a1ac-4236-815e-6ac970190ae2"
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Congratulations to Fr. Stephen, who celebrated 50 years of vowed life on August 31st!"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": ""
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": [
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1757527995094_Left%202.JPG?alt=media&token=0bcd7863-8120-4dc8-90b0-81af41321b78"
+              }
+            },
+            {
+              "nickname": "File Upload",
+              "type": "fileUpload",
+              "description": "No description available",
+              "settings": {},
+              "data": {
+                "file": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1757528006764_Right%202.JPG?alt=media&token=87937392-c34a-49c3-a2f3-2fe9ae846c32"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "fasting-for-peace": {
+    "nickname": "Queenship of Mary",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "Pope Leo asks the faithful to fast for peace on the feast of the Queenship Of Mary this Friday"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">As,&nbsp;prior&nbsp;I&nbsp;ask&nbsp;all&nbsp;of&nbsp;our&nbsp;patrons&nbsp;and&nbsp;friends&nbsp;to&nbsp;join&nbsp;in&nbsp;prayer&nbsp;and&nbsp;fasting&nbsp;with&nbsp;Pope&nbsp;Leo&nbsp;for&nbsp;peace&nbsp;Palestine,&nbsp;Haiti,&nbsp;the&nbsp;Congo,&nbsp;Ethiopia&nbsp;to&nbsp;spiritually&nbsp;support&nbsp;all&nbsp;afflicted&nbsp;by&nbsp;violent&nbsp;actions&nbsp;in&nbsp;these&nbsp;countries&nbsp;oppressing&nbsp;their&nbsp;populations&nbsp;on&nbsp;the&nbsp;feast&nbsp;of&nbsp;the&nbsp;Queenship&nbsp;of&nbsp;Mary&nbsp;Friday&nbsp;August&nbsp;22nd.</span></p><p><span style=\"color: rgb(55, 53, 47);\">In&nbsp;Jesus&nbsp;the&nbsp;Prince&nbsp;of&nbsp;Peace,</span></p><p><span style=\"color: rgb(55, 53, 47);\">Prior&nbsp;Daniel&nbsp;Manger,O.S.B.,Cam.</span></p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "Internal Page"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": ""
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {}
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  },
+  "romuald-pastoral-letter": {
+    "nickname": "Solemnity of St. Romauld",
+    "type": "Announcement",
+    "description": "No description available",
+    "settings": {},
+    "data": {
+      "Feature Image": {
+        "label": "Feature Image",
+        "type": "fileUpload",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "file": ""
+        }
+      },
+      "Title": {
+        "label": "Title",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "A Message from Prior General Fr. Matteo on the Solemnity of St. Romauld!"
+        }
+      },
+      "Body Text": {
+        "label": "Body Text",
+        "type": "text",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "text": "<p><span style=\"color: rgb(55, 53, 47);\">We&nbsp;celebrated&nbsp;the&nbsp;Solemnity&nbsp;of&nbsp;St.&nbsp;Romauld&nbsp;on&nbsp;June&nbsp;19!&nbsp;Our&nbsp;Prior&nbsp;General,&nbsp;Fr.&nbsp;Matteo&nbsp;wrote&nbsp;a&nbsp;pastoral&nbsp;letter&nbsp;commemorating&nbsp;the&nbsp;Feast&nbsp;Day,&nbsp;and&nbsp;it&nbsp;is&nbsp;available&nbsp;at&nbsp;the&nbsp;following&nbsp;link:</span></p>"
+        }
+      },
+      "Button": {
+        "label": "Button",
+        "type": "object",
+        "description": "No description available",
+        "settings": {
+          "style": "External Link"
+        },
+        "data": {
+          "Button Text": {
+            "label": "Button Text",
+            "type": "text",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "text": "View the Pastoral Letter"
+            }
+          },
+          "Internal Page": {
+            "label": "Internal Page",
+            "type": "internalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "target": ""
+            }
+          },
+          "External URL": {
+            "label": "External URL",
+            "type": "externalNavAction",
+            "description": "No description available",
+            "settings": {},
+            "data": {
+              "url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2FMRC%2Fwebsite%2F25.06.18-SanRomuald0-EN.pdf?alt=media&token=29e6afe8-5b39-4452-b7aa-d932c79f7d5f"
+            }
+          }
+        }
+      },
+      "Additional Images": {
+        "label": "Additional Images",
+        "type": "listOfFileUploads",
+        "description": "No description available",
+        "settings": {},
+        "data": {
+          "fileUploads": []
+        }
+      }
+    }
+  }
+}

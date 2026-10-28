@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "cleanUrls": true,
+    "redirects": [
+      { "source": "/retreat-opportunities", "destination": "/retreats", "type": 308 },
+      { "source": "/our-ministry", "destination": "/community", "type": 308 },
+      { "source": "/announcements", "destination": "/news", "type": 308 },
+      { "source": "/support-us", "destination": "/support", "type": 308 },
+      { "source": "/restorative-partners", "destination": "/partners", "type": 308 }
+    ]
+  }
+}

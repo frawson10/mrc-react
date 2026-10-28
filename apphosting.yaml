@@ -1,0 +1,27 @@
+runConfig:
+  cpu: 1
+  memoryMiB: 512
+  concurrency: 80
+  minInstances: 0
+  maxInstances: 4
+scripts:
+  runCommand: node server.js
+env:
+  - variable: VITE_SITE_BUILD_TARGET
+    value: production
+    availability: [ BUILD ]
+  - variable: VITE_EIDOS_REPO_NAME
+    value: mrc-react
+    availability: [ BUILD ]
+  - variable: VITE_EIDOS_DEFAULT_BRANCH
+    value: main
+    availability: [ BUILD ]
+  - variable: VITE_EIDOS_PREVIEW_ENDPOINT
+    value: https://us-central1-symposio-9b1b2.cloudfunctions.net/bitbucket-githubGetPageDataLatest_v2
+    availability: [ BUILD ]
+  - variable: VITE_PUBLIC_RESERVATIONS_PAUSED
+    value: "true"
+    availability: [ BUILD ]
+  - variable: VITE_ENABLE_ANALYTICS
+    value: "true"
+    availability: [ BUILD ]

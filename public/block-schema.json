@@ -1,0 +1,5775 @@
+{
+  "blocks": [
+    {
+      "id": "f42ed4b2cc1c",
+      "kind": "object",
+      "label": "Hero",
+      "description": "Edit hero content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "20be4c53a676",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "2bf5cb7c85b3",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "40d644aac3f7",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "ab591524ef03",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "453cf93e1926",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "6434ee9ce602",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "3e3931f13d26",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "ba3b59d4a55a",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "d833a4e43246",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "4977e5fa285d",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "eddf646b172f",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "e88108161e71",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "b2c888fc5726",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "81e15fa4b90c",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "58ed5e33e3e4",
+          "kind": "fileUpload",
+          "label": "Image",
+          "description": "Edit image content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+            "maxSizeKb": 10240
+          }
+        },
+        {
+          "id": "09384fcfa894",
+          "kind": "text",
+          "label": "Image Alt",
+          "description": "Edit image alt content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "56e757578ef7",
+          "kind": "text",
+          "label": "Footer Left",
+          "description": "Edit footer left content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "5227b9bbc0b6",
+          "kind": "text",
+          "label": "Footer Right",
+          "description": "Edit footer right content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "eb2ed1edaba6",
+      "kind": "object",
+      "label": "Page Intro",
+      "description": "Edit page intro content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "2eea8c29b7de",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "8c69e390f6ca",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "f835e215c938",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "bfe0cf529df4",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "27bdb95537d6",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "3f85dfd7e720",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "620c7509d0d9",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "02b8996b451a",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "2028175ef0d7",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "249b66da588e",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "8b690c1b3ee5",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "cfc05aa4e79a",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "2722e15fa052",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "6474af70af0a",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b97713caf293",
+      "kind": "object",
+      "label": "Jump Links",
+      "description": "Edit jump links content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Pathways, On This Page",
+      "children": [
+        {
+          "id": "b1bf00b1866c",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "b71db7e874ce",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "a84bacf7c48b",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "dc4bfe595e02",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "2e51f1d3acc2",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "e4db09eb0b38",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db7bff3306a4",
+      "kind": "object",
+      "label": "Text Section",
+      "description": "Edit text section content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Default, Tinted, Centered, Notice",
+      "children": [
+        {
+          "id": "9b7e788571c6",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "4edbe15b6728",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "3a0dd11d2040",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "b62302ec65e5",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "25236e9825d8",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "8f32252d02a5",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "8585564619a4",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "4a7df1e69380",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "5f0b66c2c7c6",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "e695e4464753",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "34a995e5fe36",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "dfb1a2903ea5",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "cc5a40b03567",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "ac580a3cc193",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "22b3c2487e08",
+          "kind": "text",
+          "label": "Second Body",
+          "description": "Edit second body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "26cd646854a4",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "3c5406d74a62",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "e9e4e006a417",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 100000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c8b0ef67f96",
+      "kind": "object",
+      "label": "Image Text",
+      "description": "Edit image text content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Image Left, Image Right, Image Left Tinted, Image Right Tinted",
+      "children": [
+        {
+          "id": "fa20119a47f3",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "29d4fb9e83dc",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "94b2b5c8ee3e",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "a259d39fcd92",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "02b2df8ac46d",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "3935e0287666",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "7f1e46d5d3f6",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "46996bac2e98",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "4d52a8083ec3",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "166b95d6a53d",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "07c4a2dabda4",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "a9a96cc9fc7a",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "a0f7df86e352",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "967c4f82c7ed",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "db1a815ca610",
+          "kind": "fileUpload",
+          "label": "Image",
+          "description": "Edit image content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+            "maxSizeKb": 10240
+          }
+        },
+        {
+          "id": "811d4926a961",
+          "kind": "text",
+          "label": "Image Alt",
+          "description": "Edit image alt content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0c0c122e2b6a",
+          "kind": "text",
+          "label": "Caption",
+          "description": "Edit caption content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "b417814cc0fe",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "92dd3d71ae81",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83de8791c1e6",
+      "kind": "object",
+      "label": "Image",
+      "description": "Edit image content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "f1c702f2d3ce",
+          "kind": "fileUpload",
+          "label": "Image",
+          "description": "Edit image content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+            "maxSizeKb": 10240
+          }
+        },
+        {
+          "id": "5f4f284da680",
+          "kind": "text",
+          "label": "Image Alt",
+          "description": "Edit image alt content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "3f8aede4b533",
+          "kind": "text",
+          "label": "Caption",
+          "description": "Edit caption content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0c47631f3feb",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "cbf99963fa22",
+      "kind": "object",
+      "label": "Image Gallery",
+      "description": "Edit image gallery content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "477f9482d3e0",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "00c8bb530a9b",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "e9a138e35b59",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "fdd9d220a0d3",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "cb006589b075",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "977f1dbbde1a",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "1f5dc738abf6",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "421c391c427b",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "92d1010b730a",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "51d04b488b5e",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "a5b6429c5b45",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "871fa8623a17",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "d51dc0fbcff3",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "577d0f7572c1",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "afcd18abea2e",
+          "kind": "listOfFileUploads",
+          "label": "Images",
+          "description": "Edit images content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp",
+            "maxSizeKb": 10240
+          }
+        }
+      ]
+    },
+    {
+      "id": "fbd041a719d6",
+      "kind": "object",
+      "label": "Card Grid",
+      "description": "Edit card grid content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Default, Values, Projects",
+      "children": [
+        {
+          "id": "25b634b38f76",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "5c354a0a5d2c",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "0e7fe01bc0a2",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "8dc43cb5eada",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "6d153b0a8091",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "51bd33e317d6",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "786d9c5b8c40",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "1e20babb2933",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "44d19b4313f7",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "04fce5399fff",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "9ba4d242c616",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "8c3c667d1bdd",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "77d0b2798b6e",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "f15b9cf08140",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "57b8eea55ceb",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "cd14723cdf4c",
+              "kind": "text",
+              "label": "Eyebrow",
+              "description": "Edit eyebrow content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "b0a20e79c69f",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 1000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "b834aa5cf69e",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 100000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "c8bd8b4ce91a",
+              "kind": "fileUpload",
+              "label": "Image",
+              "description": "Edit image content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+                "maxSizeKb": 10240
+              }
+            },
+            {
+              "id": "6cf89338d03a",
+              "kind": "text",
+              "label": "Image Alt",
+              "description": "Edit image alt content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "b8212d54977b",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "27f856774c00",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "b0d06eaa8481",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "34f5e78a0b71",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "fc1339a4bd2c",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": "95cb883439d1",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24d6ff10b59f",
+      "kind": "object",
+      "label": "Prayer Schedule",
+      "description": "Edit prayer schedule content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "86e583fd3fbe",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "be8243d941b4",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "d50b837cf63a",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "e7fd747ab1a6",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "e01382e5d067",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "0059f59b017c",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "7196baa35ad3",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "adc283f7fa57",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "c33832f37141",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "ed7f129ad987",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "6e6c5d29413b",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "68a5e913f6ed",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "b6a189343827",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "5aee59672a6a",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "3f8b6d83b7ef",
+          "kind": "text",
+          "label": "Note",
+          "description": "Edit note content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "a9a42c6cc6bb",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "9c2131a31562",
+              "kind": "text",
+              "label": "Time",
+              "description": "Edit time content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "8cdbc8033a2a",
+              "kind": "text",
+              "label": "Period",
+              "description": "Edit period content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "36dc006d790d",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "49fa8878e762",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "11e8b4ba2bd5",
+          "kind": "internalNavAction",
+          "label": "Source Page",
+          "description": "Edit source page content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "payloadKey": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "8a9d9a87c205",
+      "kind": "object",
+      "label": "Discover Monastery",
+      "description": "Edit discover monastery content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "a3b98de59e00",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "2c07dc4c92df",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "b7cb3bc135f3",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "e2f087cd7cbb",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "014ae09650bc",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "7e74d286607a",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "83d082d48c96",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "338c550269d2",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "9c0142c7035e",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "728dfe9d01a7",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "5f588641c761",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "7cb2544d4417",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "8365b504d395",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "941cd89f40ea",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "27b6ad2b397d",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "19bdfdc3924d",
+              "kind": "text",
+              "label": "Eyebrow",
+              "description": "Edit eyebrow content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "79dff5ff3ee8",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 1000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "f622d1b6fe37",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 100000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "f0b4026e788c",
+              "kind": "fileUpload",
+              "label": "Image",
+              "description": "Edit image content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+                "maxSizeKb": 10240
+              }
+            },
+            {
+              "id": "0c474ff4adcd",
+              "kind": "text",
+              "label": "Image Alt",
+              "description": "Edit image alt content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "8b9348e904f1",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "e3bd6821f0d7",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "2b5447e071a0",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "777c7ada12d8",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "c2110cd63e37",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": "4c59a848f0a1",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6488bbd489bd",
+      "kind": "object",
+      "label": "Suites Preview",
+      "description": "Editable introduction; suite identities, descriptions and availability are managed in application code.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "b3bc9db5442f",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "43f357c84fd1",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "022a665331cb",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "bb583cfe88f6",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "8f48f7e089c4",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "97a330788d0c",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "3a92c46b2ac8",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "98c3833c409e",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "7b2d922d4b3a",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "184676f06c1f",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "a0367b94b405",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "40630b9f8b2a",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "3936693cb7e6",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "4c82cff56809",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb41687d03fc",
+      "kind": "managed",
+      "label": "Suite Reservations",
+      "description": "Managed suite availability, checkout, confirmation and cancellation. No CMS-controlled payment or booking settings.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": []
+    },
+    {
+      "id": "cc0119f7091b",
+      "kind": "object",
+      "label": "FAQ Section",
+      "description": "Edit faq section content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Default, Tinted",
+      "children": [
+        {
+          "id": "28add492693f",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "9f131ee5ef23",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "39e4cb23b142",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "000dca5bbc72",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "63eb8c6a3001",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "48b712e74d5a",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "131620b287a5",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "1cf81fc0eebe",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "3df8592bdccf",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "34439952f9b2",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "ca4607a16be4",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "274f096974d7",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "19f19dda4d03",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "fa3cd81e80b4",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "7f153f54eea0",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "71cae75da3c5",
+              "kind": "text",
+              "label": "Question",
+              "description": "Edit question content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "ca3cf939b17d",
+              "kind": "text",
+              "label": "Answer",
+              "description": "Edit answer content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 10000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8eff32112f31",
+      "kind": "object",
+      "label": "Timeline",
+      "description": "Edit timeline content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "656be68e2651",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "31f71cbdb571",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "cd6dbb2bf485",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "703ec76da629",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "fba36805b49d",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "101b0fc23651",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "d7fc319fa701",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "27c123f891d8",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "2b50fa254506",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "fab7f850887c",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "66ef8eb7d657",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "85c1b3c4307f",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "9d19911626cf",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "dc22c4f688bf",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "9ede2a4c50ff",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "f7f4451f965b",
+              "kind": "text",
+              "label": "Date",
+              "description": "Edit date content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "76e748d04e4c",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 10000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0ec398e7775",
+      "kind": "object",
+      "label": "People",
+      "description": "Edit people content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "d2f3d470a430",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "a23beeaa43d7",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "334b08c27a28",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "bf97db48e3cb",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "ec6358e181ba",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "0a2a2c8cff12",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "1c11bbe8b6c1",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "40af64339acd",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "d1dd7beeaa8b",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "74a6d4e9275d",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "86df34b044cb",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "65d40ee8b373",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "6f36efae4b11",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "33579d196386",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "c745b1e5a31f",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "c42122db9e25",
+              "kind": "text",
+              "label": "Eyebrow",
+              "description": "Edit eyebrow content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "d35ab85bd454",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 1000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "4a681e1477e9",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 100000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "75b62e0cf83b",
+              "kind": "fileUpload",
+              "label": "Image",
+              "description": "Edit image content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+                "maxSizeKb": 10240
+              }
+            },
+            {
+              "id": "0f693db284a4",
+              "kind": "text",
+              "label": "Image Alt",
+              "description": "Edit image alt content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "f886433b324b",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "ffadee309259",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "70f3689662f3",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "f4c425d343ab",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "e71161aa919a",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": "4b40c17ac245",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "389cb46b2d5a",
+      "kind": "object",
+      "label": "Contact Directions",
+      "description": "Edit contact directions content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "05bf62db56cb",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "34aabff5974d",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "405af846c22f",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "ae12f179bdca",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "a95bcd29fde4",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "e4ca32fa99b2",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "540037b62fdf",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "5811bee27017",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "cfc250688765",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "21f55bc2070c",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "13bcbdf2aebb",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "9c4623eb581e",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "e4d1821b2641",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "13f0ec08b59f",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "ef63655e7855",
+          "kind": "fileUpload",
+          "label": "Image",
+          "description": "Edit image content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+            "maxSizeKb": 10240
+          }
+        },
+        {
+          "id": "1602e95cb032",
+          "kind": "text",
+          "label": "Image Alt",
+          "description": "Edit image alt content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "6be2d0b11c86",
+          "kind": "text",
+          "label": "Address",
+          "description": "Edit address content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "d5f8d2643888",
+          "kind": "text",
+          "label": "Phone",
+          "description": "Edit phone content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "8c4289ac5540",
+          "kind": "externalNavAction",
+          "label": "Directions URL",
+          "description": "Edit directions url content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "payloadKey": null
+          }
+        },
+        {
+          "id": "eb09afc4a411",
+          "kind": "text",
+          "label": "Note",
+          "description": "Edit note content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "8b51f07115f8",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "2cb4d2ce9353",
+              "kind": "text",
+              "label": "Eyebrow",
+              "description": "Edit eyebrow content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "75493a36744d",
+              "kind": "text",
+              "label": "Title",
+              "description": "Edit title content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 1000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "b53538c2637d",
+              "kind": "text",
+              "label": "Body",
+              "description": "Edit body content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 100000,
+                "placeholder": "",
+                "formatting": true,
+                "multipleLines": true
+              }
+            },
+            {
+              "id": "e1e4c578bc12",
+              "kind": "fileUpload",
+              "label": "Image",
+              "description": "Edit image content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+                "maxSizeKb": 10240
+              }
+            },
+            {
+              "id": "c911f0eed15d",
+              "kind": "text",
+              "label": "Image Alt",
+              "description": "Edit image alt content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "a5eb5ad10708",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "9490cd6c1eb6",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "6c5a0b868edb",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "5ce2295e4334",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "40dd5f3f9735",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            },
+            {
+              "id": "b79427df3dd8",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6807935b280a",
+      "kind": "object",
+      "label": "Support Callout",
+      "description": "Edit support callout content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "cc87e021aebc",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "a387ad0ef569",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "ce04f267136e",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "45b7de690247",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "d6017522ccb5",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "eec30b3f2b70",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "91e09e13089a",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "de6d86c2628c",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "1b303bfad1c4",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "bab92dac78e3",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "dcd0beb6b553",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "a40351800ca8",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "ea646d4254f8",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "b4c2e7c20a40",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7179c84389e8",
+      "kind": "object",
+      "label": "Giving Section",
+      "description": "Edit giving section content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "7127afd37811",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "aa1c8b54d908",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "18c52835b472",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "473f5012ef55",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0ace0bd879de",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "44f59fff9650",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "11ca106d9812",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "2555c1b2e4ed",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "e1deb34ecb26",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "53adabf952c5",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "fe0b297da377",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "18bfc86305db",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "7494e7e73941",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "2801dd7d03bf",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "3afab7705668",
+          "kind": "text",
+          "label": "Panel Title",
+          "description": "Edit panel title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "2ef5cd4020ff",
+          "kind": "text",
+          "label": "One-time Body",
+          "description": "Edit one-time body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "47731a551e4f",
+          "kind": "object",
+          "label": "One-time Donation",
+          "description": "Edit one-time donation content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "85b6cd446f68",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "9c6842e9c94c",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "ef1c7eb0f55c",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "c931fec7ab7c",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "b3bae96d1f5c",
+          "kind": "text",
+          "label": "Monthly Body",
+          "description": "Edit monthly body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "eef557e6211b",
+          "kind": "text",
+          "label": "Giving Note",
+          "description": "Edit giving note content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "7f2a96ff74db",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "b7e32772bf6b",
+              "kind": "object",
+              "label": "Button",
+              "description": "Edit button content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": "Internal Page, External Link",
+              "children": [
+                {
+                  "id": "95920280a99c",
+                  "kind": "text",
+                  "label": "Button Text",
+                  "description": "Edit button text content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                },
+                {
+                  "id": "3fcbd64041e3",
+                  "kind": "internalNavAction",
+                  "label": "Internal Target",
+                  "description": "Edit internal target content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "8872aa741b9d",
+                  "kind": "externalNavAction",
+                  "label": "External URL",
+                  "description": "Edit external url content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "payloadKey": null
+                  }
+                },
+                {
+                  "id": "5047e715ec77",
+                  "kind": "text",
+                  "label": "Anchor",
+                  "description": "Edit anchor content.",
+                  "version": "1.0.0",
+                  "language": "en",
+                  "multipleLanguages": false,
+                  "styleOptions": [],
+                  "settings": {
+                    "minCharacters": 0,
+                    "maxCharacters": 3000,
+                    "placeholder": "",
+                    "formatting": false,
+                    "multipleLines": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ecb9b4e2655e",
+      "kind": "object",
+      "label": "Article Header",
+      "description": "Edit article header content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "06ed8fe8685a",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "91041fd7b193",
+          "kind": "text",
+          "label": "Category",
+          "description": "Edit category content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "92214bc1901a",
+          "kind": "text",
+          "label": "Collection",
+          "description": "Edit collection content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "6daa5bc3c76b",
+          "kind": "text",
+          "label": "Author",
+          "description": "Edit author content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "15a14f987515",
+          "kind": "text",
+          "label": "Date Label",
+          "description": "Edit date label content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "8b3d0e2ed979",
+          "kind": "text",
+          "label": "Summary",
+          "description": "Edit summary content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 5000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "65b37be2e6ba",
+          "kind": "fileUpload",
+          "label": "Image",
+          "description": "Edit image content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "allowedTypes": ".png,.jpg,.jpeg,.webp,.svg",
+            "maxSizeKb": 10240
+          }
+        },
+        {
+          "id": "056c901e2a05",
+          "kind": "text",
+          "label": "Image Alt",
+          "description": "Edit image alt content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0a0759572a14",
+          "kind": "text",
+          "label": "Original Title",
+          "description": "Edit original title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "9bbd46e2aaea",
+          "kind": "text",
+          "label": "Original ID",
+          "description": "Edit original id content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0d68a65600fe",
+          "kind": "object",
+          "label": "Video",
+          "description": "Edit video content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "5f507b4c38a3",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "47f5eecbe28b",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "82ae2e02bd94",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "233ed779f230",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "d958005b3d2f",
+          "kind": "object",
+          "label": "Resource",
+          "description": "Edit resource content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "154000a300d4",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "ee1be09bc663",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "880c8533c3b1",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "9b8a78945a98",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "fe6ae53cdd05",
+          "kind": "text",
+          "label": "Source Credit",
+          "description": "Edit source credit content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "bfcbd35070bc",
+      "kind": "object",
+      "label": "Article Index",
+      "description": "Edit article index content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": [],
+      "children": [
+        {
+          "id": "d120d9fabfd3",
+          "kind": "text",
+          "label": "Collection",
+          "description": "Edit collection content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "7bc3ec038069",
+          "kind": "text",
+          "label": "Search Placeholder",
+          "description": "Edit search placeholder content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "44adbe87c43d",
+          "kind": "text",
+          "label": "Note",
+          "description": "Edit note content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "28bd6df5029a",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "83116537e0fb",
+              "kind": "internalNavAction",
+              "label": "Page",
+              "description": "Edit page content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90e11e433982",
+      "kind": "object",
+      "label": "Featured Articles",
+      "description": "Edit featured articles content.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": "Journal, News, Feature",
+      "children": [
+        {
+          "id": "94413e424577",
+          "kind": "text",
+          "label": "Eyebrow",
+          "description": "Edit eyebrow content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "e7fba2b3f27e",
+          "kind": "text",
+          "label": "Title",
+          "description": "Edit title content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 1000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "967082f6d5b3",
+          "kind": "text",
+          "label": "Body",
+          "description": "Edit body content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 100000,
+            "placeholder": "",
+            "formatting": true,
+            "multipleLines": true
+          }
+        },
+        {
+          "id": "d42d6cdcf2c9",
+          "kind": "text",
+          "label": "Anchor",
+          "description": "Edit anchor content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minCharacters": 0,
+            "maxCharacters": 3000,
+            "placeholder": "",
+            "formatting": false,
+            "multipleLines": false
+          }
+        },
+        {
+          "id": "0f57f7a4de07",
+          "kind": "object",
+          "label": "Button",
+          "description": "Edit button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "d9e5e127f10a",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "9df2613f50b4",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "02ebd6fc8f87",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "a61f05514006",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "8005bbd1c687",
+          "kind": "object",
+          "label": "Secondary Button",
+          "description": "Edit secondary button content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": "Internal Page, External Link",
+          "children": [
+            {
+              "id": "2ffb1a1fb8e0",
+              "kind": "text",
+              "label": "Button Text",
+              "description": "Edit button text content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            },
+            {
+              "id": "ae6f452e4307",
+              "kind": "internalNavAction",
+              "label": "Internal Target",
+              "description": "Edit internal target content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "6792ca429e4e",
+              "kind": "externalNavAction",
+              "label": "External URL",
+              "description": "Edit external url content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "72887fb021bd",
+              "kind": "text",
+              "label": "Anchor",
+              "description": "Edit anchor content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        },
+        {
+          "id": "695a266c7690",
+          "kind": "listOfObjects",
+          "label": "Items",
+          "description": "Edit items content.",
+          "version": "1.0.0",
+          "language": "en",
+          "multipleLanguages": false,
+          "styleOptions": [],
+          "settings": {
+            "minItems": null,
+            "maxItems": null
+          },
+          "children": [
+            {
+              "id": "24266913d2ca",
+              "kind": "internalNavAction",
+              "label": "Page",
+              "description": "Edit page content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "payloadKey": null
+              }
+            },
+            {
+              "id": "735a23632a55",
+              "kind": "text",
+              "label": "Label",
+              "description": "Edit label content.",
+              "version": "1.0.0",
+              "language": "en",
+              "multipleLanguages": false,
+              "styleOptions": [],
+              "settings": {
+                "minCharacters": 0,
+                "maxCharacters": 3000,
+                "placeholder": "",
+                "formatting": false,
+                "multipleLines": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4851cd29ae82",
+      "kind": "managed",
+      "label": "Live Calendar",
+      "description": "Public MRC Google prayer calendar. Feed and display logic are maintained in application code.",
+      "version": "1.0.0",
+      "language": "en",
+      "multipleLanguages": false,
+      "styleOptions": []
+    }
+  ]
+}

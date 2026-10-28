@@ -1,0 +1,7 @@
+env:
+  - variable: VITE_SITE_BUILD_TARGET
+    value: production
+    availability: [ BUILD ]
+  - variable: VITE_PUBLIC_RESERVATIONS_PAUSED
+    value: "true"
+    availability: [ BUILD ]

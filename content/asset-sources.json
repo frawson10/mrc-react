@@ -1,0 +1,282 @@
+{
+  "origin": "Public images from mrcslo.com. Downloaded 2026-10-16 for requested redesign.",
+  "notes": [
+    "All photographs are authentic published MRC images; no generated photography.",
+    "Suite images depict nameplates, as the current public site does not publish static room interior photographs. Label them accordingly.",
+    "Photos use EXIF orientation correction; aspect ratios preserved.",
+    "hero.webp and landscape.webp share a source. hero.webp is the larger rendition."
+  ],
+  "hero_recommendation": "hero.webp: sunlit winding drive and coastal hills. Best object-position around center 58%; monastery.webp provides literal architectural identity.",
+  "assets": [
+    {
+      "filename": "hero.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1697742228743_3_MINISTRY_oraetlabora_image_1.png?alt=media&token=c37b6124-35aa-453d-8b54-2902e113f9b3",
+      "source_page": "ministry",
+      "subject": "Sunlit coastal hills and winding drive on the monastery grounds",
+      "source_dimensions": [
+        1500,
+        1500
+      ],
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "bytes": 464444
+    },
+    {
+      "filename": "monastery.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1697742020592_3_MINISTRY_location_image_1.png?alt=media&token=57ed0331-2a50-4845-adc2-aa04a5e7cfa9",
+      "source_page": "ministry",
+      "subject": "Exterior of Monastery of the Risen Christ",
+      "source_dimensions": [
+        1500,
+        1500
+      ],
+      "dimensions": [
+        1500,
+        1500
+      ],
+      "bytes": 460702
+    },
+    {
+      "filename": "chapel.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FWVgZgPexSm1bMhaCFdI9%2Fwhole.jpg?alt=media&token=d2935dc3-4fb4-4fe9-87c9-d012e45b2ed9",
+      "source_page": "news",
+      "subject": "Chapel interior during a community gathering",
+      "source_dimensions": [
+        1920,
+        1440
+      ],
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "bytes": 363448
+    },
+    {
+      "filename": "community.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FygeS1fOx5S1FVILJGSYE%2FC71D4889-C503-4085-9684-76C4FC523E82.jpg?alt=media&token=bb511266-2d8c-40e5-86cd-6fe56064f1cf",
+      "source_page": "news",
+      "subject": "A monk with a newly welcomed oblate in the chapel",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "dimensions": [
+        975,
+        1300
+      ],
+      "bytes": 137188
+    },
+    {
+      "filename": "landscape.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1697742228743_3_MINISTRY_oraetlabora_image_1.png?alt=media&token=c37b6124-35aa-453d-8b54-2902e113f9b3",
+      "source_page": "ministry",
+      "subject": "Sunlit coastal hills and winding drive on the monastery grounds",
+      "source_dimensions": [
+        1500,
+        1500
+      ],
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "bytes": 254144
+    },
+    {
+      "filename": "labyrinth.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513209023_labyrinth.jpg?alt=media&token=b9934e3f-ba82-4aca-b685-cf84cef5d0c3",
+      "source_page": "reflections",
+      "subject": "Stone labyrinth on the monastery grounds beneath the hills",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 319154
+    },
+    {
+      "filename": "labyrinth-walk.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1742513227798_labyrinth3.jpg?alt=media&token=c8a1756e-431b-495f-bceb-1f042859371c",
+      "source_page": "reflections",
+      "subject": "Community members walking in the stone labyrinth",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "dimensions": [
+        900,
+        1200
+      ],
+      "bytes": 311482
+    },
+    {
+      "filename": "suite-scholastica.webp",
+      "source_url": "https://mrcslo.com/images/suites/1707418599473_IMG_20200519_111110.jpg",
+      "source_page": "retreat",
+      "subject": "St. Scholastica suite doorway nameplate",
+      "source_dimensions": [
+        4160,
+        2340
+      ],
+      "dimensions": [
+        1200,
+        675
+      ],
+      "bytes": 57994
+    },
+    {
+      "filename": "suite-benedict.webp",
+      "source_url": "https://mrcslo.com/images/suites/1708384082080_IMG_20200519_103029.jpg",
+      "source_page": "retreat",
+      "subject": "St. Benedict suite doorway nameplate",
+      "source_dimensions": [
+        4160,
+        2340
+      ],
+      "dimensions": [
+        1200,
+        675
+      ],
+      "bytes": 54908
+    },
+    {
+      "filename": "suite-romuald.webp",
+      "source_url": "https://mrcslo.com/images/suites/1708384193086_IMG_20200519_101219.jpg",
+      "source_page": "retreat",
+      "subject": "St. Romuald suite doorway nameplate",
+      "source_dimensions": [
+        4160,
+        2340
+      ],
+      "dimensions": [
+        1200,
+        675
+      ],
+      "bytes": 35100
+    },
+    {
+      "filename": "news-chapel.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1757527976809_Blessing%202.JPG?alt=media&token=a6531682-a1ac-4236-815e-6ac970190ae2",
+      "source_page": "news",
+      "subject": "Blessing in the renovated chapel",
+      "source_dimensions": [
+        2203,
+        3092
+      ],
+      "dimensions": [
+        855,
+        1200
+      ],
+      "bytes": 93984
+    },
+    {
+      "filename": "sunset.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2FMRC%2F1_HOME%20PAGE_BKGD.png?alt=media&token=0e549cc4-d273-4eca-800f-db1114904157",
+      "source_page": "home",
+      "subject": "Existing MRC homepage sunset over the coastal hills",
+      "source_dimensions": [
+        2880,
+        1920
+      ],
+      "dimensions": [
+        1800,
+        1200
+      ],
+      "bytes": 21264
+    },
+    {
+      "filename": "cross.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1697742116725_3_MINISTRY_legacy_image_1.png?alt=media&token=bbb35972-2ae9-42a2-9b9a-2e74d9dd5268",
+      "source_page": "ministry",
+      "subject": "Carved Celtic cross on the monastery grounds",
+      "source_dimensions": [
+        1500,
+        1500
+      ],
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "bytes": 450342
+    },
+    {
+      "filename": "monastery-sign.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2F1697742167546_3_MINISTRY_journey_image_1.png?alt=media&token=a3e4fd33-443f-4337-9b7f-826a1197274b",
+      "source_page": "ministry",
+      "subject": "Monastery entrance sign",
+      "source_dimensions": [
+        1500,
+        1500
+      ],
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "bytes": 224430
+    },
+    {
+      "filename": "oblate-welcome.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2F8d7Nq0fCVUcHIIuj9BDR%2FF03608A9-7BC1-4EE9-ABE8-1C18774157F3.jpg?alt=media&token=ff65f48a-3ada-401f-a3aa-052394cdbff9",
+      "source_page": "news",
+      "subject": "Oblate welcome ceremony in the chapel",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "dimensions": [
+        900,
+        1200
+      ],
+      "bytes": 170408
+    },
+    {
+      "filename": "book-forgotten-map.webp",
+      "source_url": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2Fclients_v2%2FMRC%2Flibrary%2FaLY8iCOiNeFB3XcPZr1N%2F02409.jpg?alt=media&token=806a851f-b611-427b-b5e3-28cbe91ef0c9",
+      "source_page": "news",
+      "subject": "Paula Huston The Forgotten Map book cover",
+      "source_dimensions": [
+        263,
+        406
+      ],
+      "dimensions": [
+        263,
+        406
+      ],
+      "bytes": 33332
+    },
+    {
+      "filename": "logo.png",
+      "source_url": "https://mrcslo.com/images/1_HOME PAGE_logo(temp).png",
+      "source_page": "home",
+      "subject": "Existing round MRC Camaldolese mark",
+      "source_dimensions": [
+        942,
+        942
+      ],
+      "dimensions": [
+        500,
+        500
+      ],
+      "bytes": 474790
+    },
+    {
+      "filename": "logo-small.png",
+      "source_url": "https://mrcslo.com/images/1_HOME PAGE_logo(temp).png",
+      "source_page": "home",
+      "subject": "Existing round MRC Camaldolese mark",
+      "source_dimensions": [
+        942,
+        942
+      ],
+      "dimensions": [
+        160,
+        160
+      ],
+      "bytes": 58786
+    }
+  ]
+}

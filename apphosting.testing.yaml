@@ -1,0 +1,10 @@
+env:
+  - variable: VITE_SITE_BUILD_TARGET
+    value: testing
+    availability: [ BUILD ]
+  - variable: VITE_PUBLIC_RESERVATIONS_PAUSED
+    value: "true"
+    availability: [ BUILD ]
+  - variable: VITE_ENABLE_ANALYTICS
+    value: "false"
+    availability: [ BUILD ]

@@ -1,0 +1,75 @@
+{
+  "stylesheet": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@400;450;500;600;700&display=swap",
+  "files": [
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSqn7B6DxjY.woff2",
+      "file": "font-01.woff2",
+      "bytes": 25196
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSqn7B6DxjY.woff2",
+      "file": "font-02.woff2",
+      "bytes": 34444
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSqn7B6DxjY.woff2",
+      "file": "font-03.woff2",
+      "bytes": 11556
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSqn7B6D.woff2",
+      "file": "font-04.woff2",
+      "bytes": 39304
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSqn7B6DxjY.woff2",
+      "file": "font-05.woff2",
+      "bytes": 21264
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKky2F7i6C.woff2",
+      "file": "font-06.woff2",
+      "bytes": 33740
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKky2F7i6C.woff2",
+      "file": "font-07.woff2",
+      "bytes": 23408
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKky2F7i6C.woff2",
+      "file": "font-08.woff2",
+      "bytes": 11264
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2",
+      "file": "font-09.woff2",
+      "bytes": 37776
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKky2F7i6C.woff2",
+      "file": "font-10.woff2",
+      "bytes": 21132
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2",
+      "file": "font-11.woff2",
+      "bytes": 36980
+    },
+    {
+      "source": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6z9mXgjU0.woff2",
+      "file": "font-12.woff2",
+      "bytes": 18192
+    }
+  ],
+  "licenses": [
+    {
+      "file": "Cormorant-Garamond-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt"
+    },
+    {
+      "file": "DM-Sans-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt"
+    }
+  ]
+}

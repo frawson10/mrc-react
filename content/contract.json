@@ -1,0 +1,1546 @@
+{
+  "Hero": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Image",
+        "kind": "fileUpload"
+      },
+      {
+        "label": "Image Alt",
+        "kind": "text"
+      },
+      {
+        "label": "Footer Left",
+        "kind": "text"
+      },
+      {
+        "label": "Footer Right",
+        "kind": "text"
+      }
+    ]
+  },
+  "Page Intro": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Jump Links": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Button",
+            "kind": "object"
+          }
+        ]
+      }
+    ]
+  },
+  "Text Section": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Second Body",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Image Text": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Image",
+        "kind": "fileUpload"
+      },
+      {
+        "label": "Image Alt",
+        "kind": "text"
+      },
+      {
+        "label": "Caption",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Title",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Image": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Image",
+        "kind": "fileUpload"
+      },
+      {
+        "label": "Image Alt",
+        "kind": "text"
+      },
+      {
+        "label": "Caption",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      }
+    ]
+  },
+  "Image Gallery": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Images",
+        "kind": "listOfFileUploads"
+      }
+    ]
+  },
+  "Card Grid": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Eyebrow",
+            "kind": "text"
+          },
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          },
+          {
+            "label": "Image",
+            "kind": "fileUpload"
+          },
+          {
+            "label": "Image Alt",
+            "kind": "text"
+          },
+          {
+            "label": "Button",
+            "kind": "object"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Prayer Schedule": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Note",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Time",
+            "kind": "text"
+          },
+          {
+            "label": "Period",
+            "kind": "text"
+          },
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Source Page",
+        "kind": "internalNavAction"
+      }
+    ]
+  },
+  "Discover Monastery": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Eyebrow",
+            "kind": "text"
+          },
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          },
+          {
+            "label": "Image",
+            "kind": "fileUpload"
+          },
+          {
+            "label": "Image Alt",
+            "kind": "text"
+          },
+          {
+            "label": "Button",
+            "kind": "object"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Suites Preview": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Suite Reservations": {
+    "kind": "managed",
+    "fields": []
+  },
+  "FAQ Section": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Question",
+            "kind": "text"
+          },
+          {
+            "label": "Answer",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Timeline": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Date",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "People": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Eyebrow",
+            "kind": "text"
+          },
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          },
+          {
+            "label": "Image",
+            "kind": "fileUpload"
+          },
+          {
+            "label": "Image Alt",
+            "kind": "text"
+          },
+          {
+            "label": "Button",
+            "kind": "object"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Contact Directions": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Image",
+        "kind": "fileUpload"
+      },
+      {
+        "label": "Image Alt",
+        "kind": "text"
+      },
+      {
+        "label": "Address",
+        "kind": "text"
+      },
+      {
+        "label": "Phone",
+        "kind": "text"
+      },
+      {
+        "label": "Directions URL",
+        "kind": "externalNavAction"
+      },
+      {
+        "label": "Note",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Eyebrow",
+            "kind": "text"
+          },
+          {
+            "label": "Title",
+            "kind": "text"
+          },
+          {
+            "label": "Body",
+            "kind": "text"
+          },
+          {
+            "label": "Image",
+            "kind": "fileUpload"
+          },
+          {
+            "label": "Image Alt",
+            "kind": "text"
+          },
+          {
+            "label": "Button",
+            "kind": "object"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Support Callout": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Giving Section": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Panel Title",
+        "kind": "text"
+      },
+      {
+        "label": "One-time Body",
+        "kind": "text"
+      },
+      {
+        "label": "One-time Donation",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Monthly Body",
+        "kind": "text"
+      },
+      {
+        "label": "Giving Note",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Button",
+            "kind": "object"
+          }
+        ]
+      }
+    ]
+  },
+  "Article Header": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Category",
+        "kind": "text"
+      },
+      {
+        "label": "Collection",
+        "kind": "text"
+      },
+      {
+        "label": "Author",
+        "kind": "text"
+      },
+      {
+        "label": "Date Label",
+        "kind": "text"
+      },
+      {
+        "label": "Summary",
+        "kind": "text"
+      },
+      {
+        "label": "Image",
+        "kind": "fileUpload"
+      },
+      {
+        "label": "Image Alt",
+        "kind": "text"
+      },
+      {
+        "label": "Original Title",
+        "kind": "text"
+      },
+      {
+        "label": "Original ID",
+        "kind": "text"
+      },
+      {
+        "label": "Video",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Resource",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Source Credit",
+        "kind": "text"
+      }
+    ]
+  },
+  "Article Index": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Collection",
+        "kind": "text"
+      },
+      {
+        "label": "Search Placeholder",
+        "kind": "text"
+      },
+      {
+        "label": "Note",
+        "kind": "text"
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Page",
+            "kind": "internalNavAction"
+          }
+        ]
+      }
+    ]
+  },
+  "Featured Articles": {
+    "kind": "object",
+    "fields": [
+      {
+        "label": "Eyebrow",
+        "kind": "text"
+      },
+      {
+        "label": "Title",
+        "kind": "text"
+      },
+      {
+        "label": "Body",
+        "kind": "text"
+      },
+      {
+        "label": "Anchor",
+        "kind": "text"
+      },
+      {
+        "label": "Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Secondary Button",
+        "kind": "object",
+        "fields": [
+          {
+            "label": "Button Text",
+            "kind": "text"
+          },
+          {
+            "label": "Internal Target",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "External URL",
+            "kind": "externalNavAction"
+          },
+          {
+            "label": "Anchor",
+            "kind": "text"
+          }
+        ]
+      },
+      {
+        "label": "Items",
+        "kind": "listOfObjects",
+        "fields": [
+          {
+            "label": "Page",
+            "kind": "internalNavAction"
+          },
+          {
+            "label": "Label",
+            "kind": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "Live Calendar": {
+    "kind": "managed",
+    "fields": []
+  }
+}

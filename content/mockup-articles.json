@@ -1,0 +1,345 @@
+{
+  "reflections": [
+    {
+      "id": "romuald-hope",
+      "title": "A Thousand Years of Hope",
+      "originalTitle": "1,000th Anniversary of St. Romuald Reflection",
+      "category": "Reflection",
+      "author": "Monastery of the Risen Christ",
+      "date": null,
+      "dateLabel": "From the monastery archive",
+      "excerpt": "Hope, embodied prayer, and our Camaldolese inheritance.",
+      "paragraphs": [
+        "A reflection on hope, embodied prayer, and the Camaldolese threefold good: community, solitude, and evangelization."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "advent-justice-peace",
+      "title": "An Advent Invitation to Justice and Peace",
+      "originalTitle": "Advent Reflection from Prior Fr. Daniel",
+      "category": "Reflection",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "Advent · year not specified",
+      "excerpt": "Prayer and compassion in a season of waiting.",
+      "paragraphs": [
+        "Prior Daniel connects Advent prayer with justice, peace, and compassionate solidarity with immigrants."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "thanksgiving",
+      "title": "A Thanksgiving Reflection",
+      "category": "Reflection",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "Thanksgiving 2024",
+      "excerpt": "Gratitude as a way of living.",
+      "paragraphs": [
+        "Prior Daniel considers Eucharistic gratitude as a continuing practice of compassion, justice, and care for creation."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "labyrinth-peace-walk",
+      "title": "Walking Together in Peace",
+      "originalTitle": "A Reflection on the Community Labyrinth Peace Walk",
+      "category": "Reflection",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "From the monastery archive",
+      "excerpt": "A shared walk; an inward prayer.",
+      "paragraphs": [
+        "Walking the labyrinth becomes a meditation on shared humanity, compassionate justice, and the earth as our common home."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "apocalypse-or-renewal",
+      "title": "Apocalypse or Renewal?",
+      "originalTitle": "Apocalypse or Renewal? Insights from a Camaldolese Monk",
+      "category": "Homily",
+      "author": "Monastery of the Risen Christ",
+      "date": null,
+      "dateLabel": "Recorded homily",
+      "excerpt": "Finding signs of hope amid uncertainty.",
+      "paragraphs": [
+        "A homily on apocalyptic scripture, uncertainty, and the everyday signs of hope through which new life emerges."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": "https://youtu.be/qIJUtLfP73o"
+    },
+    {
+      "id": "giving-from-substance",
+      "title": "Giving from the Substance of Our Lives",
+      "originalTitle": "Homily of the Thirty-second Sunday in Ordinary Time",
+      "category": "Homily",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "Thirty-second Sunday in Ordinary Time · year not specified",
+      "excerpt": "Freedom, providence, and the widow’s gift.",
+      "paragraphs": [
+        "Reflecting on the widow’s offering, Prior Daniel explores freedom, providence, and the generosity that participates in God’s work."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": "https://youtu.be/1RASCwcWe8E"
+    },
+    {
+      "id": "monastic-reading",
+      "title": "A Monastic Reading List",
+      "originalTitle": "Fr. Daniel’s Suggested Readings",
+      "category": "Reading list",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "Recommended reading",
+      "excerpt": "Companions for a deeper contemplative life.",
+      "paragraphs": [
+        "Prior Daniel recommends these books for exploring monastic spirituality today."
+      ],
+      "readingList": [
+        "Perspectives on the Rule of St. Benedict — Liturgical Press",
+        "From the Tools of Good Works to the Heart of Humility — Aquinata Böckmann",
+        "A Listening Community — Aquinata Böckmann",
+        "Hildegard of Bingen: Solutions to Thirty-Eight Questions — Liturgical Press",
+        "Saint Bernard’s Three-Course Banquet — Bernard Bonowitz",
+        "The Historical Atlas of Eastern and Western Christian Monasticism — Juan María Laboa",
+        "The Privilege of Love — Peter-Damian Belisle",
+        "How to Inhabit Time — James K. A. Smith",
+        "The Practice of Spiritual Direction — William A. Barry and William J. Connolly",
+        "The Tears of Things: Prophetic Wisdom for an Age of Outrage — Richard Rohr",
+        "My Battle Against Hitler — Dietrich von Hildebrand"
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "ai-common-good",
+      "title": "Artificial Intelligence and the Common Good",
+      "originalTitle": "Suggested Readings on Artificial Intelligence and the Common Good",
+      "category": "Reading list",
+      "author": "Monastery of the Risen Christ",
+      "date": null,
+      "dateLabel": "Recommended reading",
+      "excerpt": "Two books on technology and our humanity.",
+      "paragraphs": [
+        "Two recommendations for considering artificial intelligence through the lens of faith and human flourishing."
+      ],
+      "readingList": [
+        "Staying Human in an Era of Artificial Intelligence — Joseph Vukov (New City Press, 2024)",
+        "Re-Enchanting the Earth: Why AI Needs Religion — Ilia Delio (Orbis Books, 2020)"
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null
+    },
+    {
+      "id": "vatican-artificial-intelligence",
+      "title": "The Vatican and Artificial Intelligence",
+      "originalTitle": "The Vatican Has Said a Lot About Artificial Intelligence. A Primer Ahead of the Pope’s Encyclical",
+      "category": "Resource",
+      "author": "Nicole Winfield / Associated Press, via Crux",
+      "date": "2026-05-16",
+      "dateLabel": "May 16, 2026 · external article",
+      "excerpt": "Human dignity in a changing technological world.",
+      "paragraphs": [
+        "An Associated Press overview of the Vatican’s approach to artificial intelligence, shared by MRC. The article places questions about technology within Catholic social teaching, with attention to human dignity, work, relationships, and peace."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": "https://cruxnow.com/vatican/2026/05/the-vatican-has-said-a-lot-about-artificial-intelligence-a-primer-ahead-of-the-popes-encyclical/",
+      "videoUrl": null
+    },
+    {
+      "id": "dilexit-nos",
+      "title": "Dilexit Nos",
+      "originalTitle": "Read Pope Francis’ New Encyclical",
+      "category": "Resource",
+      "author": "Pope Francis",
+      "date": null,
+      "dateLabel": "Encyclical · PDF",
+      "excerpt": "An invitation to prayer and reflection.",
+      "paragraphs": [
+        "Read the encyclical shared by the monastery and join the community in prayer and reflection."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": "https://firebasestorage.googleapis.com/v0/b/symposio-9b1b2.appspot.com/o/public%2FMRC%2Fwebsite%2FDILEXIT%20NOS_ENGLISH-1.pdf?alt=media&token=9b0e07db-c6d0-4c96-9079-c3448629309c",
+      "videoUrl": null
+    },
+    {
+      "id": "body-and-indwelling-god",
+      "title": "The Body and the God Who Dwells Within",
+      "originalTitle": "Trump, the Body and the God Who Dwells Within",
+      "category": "Resource",
+      "author": "Roland Ashby, in conversation with Fr. Cyprian Consiglio",
+      "date": "2025-02-08",
+      "dateLabel": "February 8, 2025 · external interview",
+      "excerpt": "Contemplation, embodied practice, and the Gospel.",
+      "paragraphs": [
+        "An interview with Camaldolese monk Fr. Cyprian Consiglio, recommended by Prior Daniel. The conversation explores Christian responses to public life, the contribution of Eastern spiritual traditions, embodied prayer, and the divine presence within."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": "https://www.thelivingwater.com.au/blog/trump-the-body-and-the-god-who-dwells-within",
+      "videoUrl": null
+    },
+    {
+      "id": "dreamwork",
+      "title": "Dreamwork and the Spiritual Journey",
+      "originalTitle": "Dreamwork at the Monastery of the Risen Christ",
+      "category": "Resource",
+      "author": "Peter Aijan · recommended by Prior Daniel Manger",
+      "date": null,
+      "dateLabel": "Recorded seminar",
+      "excerpt": "A resource for inward attention.",
+      "paragraphs": [
+        "Prior Daniel recommends Peter Aijan’s seminar on dreamwork as part of the spiritual journey."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": "https://mrcslo.com/announcements",
+      "videoUrl": null
+    },
+    {
+      "id": "romuald-pastoral-letter",
+      "title": "A Letter for the Feast of St. Romuald",
+      "originalTitle": "A Message from Prior General Fr. Matteo on the Solemnity of St. Romuald",
+      "category": "Resource",
+      "author": "Prior General Fr. Matteo",
+      "date": null,
+      "dateLabel": "June 19 · year not specified",
+      "excerpt": "A message from the wider Camaldolese family.",
+      "paragraphs": [
+        "A pastoral letter commemorating the Solemnity of St. Romuald, shared by the monastery."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": "https://mrcslo.com/announcements",
+      "videoUrl": null
+    }
+  ],
+  "news": [
+    {
+      "id": "paula-huston-book-launch",
+      "title": "A Morning with Paula Huston",
+      "originalTitle": "Book Release and Signing by Author Paula Huston",
+      "type": "Event",
+      "date": null,
+      "dateLabel": "Sunday, October 18 · year not specified",
+      "excerpt": "Coffee, conversation, and The Forgotten Map.",
+      "paragraphs": [
+        "Paula Huston introduces The Forgotten Map: Gen Z and the Quest for Hope and Meaning at the monastery.",
+        "8:30 a.m. coffee, pastries, and fruit · 9:00 a.m. talk and reading · 10:00 a.m. signing · 11:00 a.m. Mass.",
+        "Please confirm the event date with the monastery before making plans."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": "https://litpress.org/Products/02409/The-Forgotten-Map"
+    },
+    {
+      "id": "welcome-elizabeth-matthew",
+      "title": "Welcoming Elizabeth and Matthew",
+      "originalTitle": "Congratulations Elizabeth and Matthew!",
+      "type": "Community",
+      "date": null,
+      "dateLabel": "Feast of St. Benedict · year not specified",
+      "excerpt": "Our Camaldolese Oblate community grows.",
+      "paragraphs": [
+        "Prior Daniel and Fr. Stephen welcome Elizabeth and Matthew to the Camaldolese Oblate community."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "renewed-chapel",
+      "title": "A Renewed Space for Prayer",
+      "originalTitle": "The Chapel at the Monastery of the Risen Christ Has Been Renovated!",
+      "type": "Community",
+      "date": null,
+      "dateLabel": "Community news · date not specified",
+      "excerpt": "See the renovated monastery chapel.",
+      "paragraphs": [
+        "The monastery shares photographs of its renovated chapel, a gathering place for communal prayer."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "fr-thomas-ordination",
+      "title": "Celebrating Fr. Thomas’s Ordination",
+      "type": "Community",
+      "date": null,
+      "dateLabel": "Community news · date not specified",
+      "excerpt": "A blessing shared across the community.",
+      "paragraphs": [
+        "The monks and Oblates congratulate Fr. Thomas on his ordination to the priesthood."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "advent-taize",
+      "title": "Advent Taizé Prayer",
+      "originalTitle": "Advent Taize Prayer Service",
+      "type": "Event",
+      "date": null,
+      "dateLabel": "Saturday, December 6 · year not specified",
+      "excerpt": "An Advent gathering in the chapel.",
+      "paragraphs": [
+        "The archived invitation lists a chapel prayer service from 2:00 to 3:30 p.m. Please contact MRC for current gatherings."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "fr-stephen-jubilee",
+      "title": "Fifty Years of Vowed Life",
+      "originalTitle": "Congratulations to Fr. Stephen, Who Celebrated 50 Years of Vowed Life on August 31st!",
+      "type": "Community",
+      "date": null,
+      "dateLabel": "August 31 · year not specified",
+      "excerpt": "Celebrating Fr. Stephen’s monastic commitment.",
+      "paragraphs": [
+        "The community celebrates Fr. Stephen’s fiftieth anniversary of vowed life."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "fasting-for-peace",
+      "title": "Prayer and Fasting for Peace",
+      "originalTitle": "Pope Leo Asks the Faithful to Fast for Peace on the Feast of the Queenship of Mary",
+      "type": "Event",
+      "date": null,
+      "dateLabel": "Friday, August 22 · year not specified",
+      "excerpt": "A prayerful response to suffering.",
+      "paragraphs": [
+        "An archived invitation from Prior Daniel to join Pope Leo’s call for prayer and fasting for peace."
+      ],
+      "sourceUrl": "https://mrcslo.com/announcements",
+      "externalUrl": null
+    },
+    {
+      "id": "remembering-danella",
+      "title": "Remembering Danella Blanchard",
+      "originalTitle": "Danella Blanchard, Oblate of Happy Memory",
+      "author": "Prior Daniel Manger, OSB Cam.",
+      "date": null,
+      "dateLabel": "A community remembrance",
+      "excerpt": "Faith, hospitality, and a joyful presence.",
+      "paragraphs": [
+        "Prior Daniel remembers Oblate Danella Blanchard’s compassionate service, love of scripture, artistic gifts, and joyful presence."
+      ],
+      "sourceUrl": "https://mrcslo.com/reflections",
+      "externalUrl": null,
+      "videoUrl": null,
+      "type": "Community"
+    }
+  ]
+}
