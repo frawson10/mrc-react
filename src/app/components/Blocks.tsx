@@ -1,4 +1,4 @@
-import { useId, useState, type ReactNode } from "react";
+import { useEffect, useId, useRef, useState, type ReactNode } from "react";
 import type { EidosBlock, EidosPageMap } from "../types/eidos";
 import {
   articleHeader,
@@ -46,8 +46,46 @@ function SectionHead({ block, search }: { block: unknown; search: string }) {
   );
 }
 function Hero({ block, search }: BlockProps) {
+  const hero = useRef<HTMLElement>(null);
+  useEffect(() => {
+    const element = hero.current;
+    if (!element) return;
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let frame = 0;
+    const update = () => {
+      frame = 0;
+      const offset = Math.max(
+        -64,
+        Math.min(64, -element.getBoundingClientRect().top * 0.15),
+      );
+      element.style.setProperty("--hero-parallax-y", `${offset}px`);
+    };
+    const requestUpdate = () => {
+      if (!frame) frame = window.requestAnimationFrame(update);
+    };
+    const stop = () => {
+      window.removeEventListener("scroll", requestUpdate);
+      window.removeEventListener("resize", requestUpdate);
+      window.cancelAnimationFrame(frame);
+      frame = 0;
+      element.style.removeProperty("--hero-parallax-y");
+    };
+    const syncMotion = () => {
+      stop();
+      if (reducedMotion.matches) return;
+      update();
+      window.addEventListener("scroll", requestUpdate, { passive: true });
+      window.addEventListener("resize", requestUpdate);
+    };
+    syncMotion();
+    reducedMotion.addEventListener("change", syncMotion);
+    return () => {
+      stop();
+      reducedMotion.removeEventListener("change", syncMotion);
+    };
+  }, []);
   return (
-    <section className="hero">
+    <section className="hero" ref={hero}>
       {imageUrl(block) && (
         <img
           src={imageUrl(block)}

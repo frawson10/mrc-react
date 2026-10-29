@@ -68,20 +68,27 @@ main:focus {
   font-size: 12px;
   margin-top: 12px;
 }
-.pathway {
+.pathway,
+.pathway + .pathway {
   min-height: 117px;
   display: block;
+  padding-left: 24px;
 }
 .pathway-link {
+  --link-hover-ink: #fff;
   position: absolute;
   inset: 0;
   display: flex;
   align-items: flex-end;
-  padding: 29px 22px 27px 0;
+  padding: 29px 22px 27px 24px;
   font: 23px/1.1 var(--serif);
 }
-.pathway + .pathway .pathway-link {
-  padding-left: 24px;
+.pathway:is(:hover, :focus-within) {
+  background: var(--olive);
+  color: #fff;
+}
+.pathway:is(:hover, :focus-within) :is(.pathway-link, .num) {
+  color: #fff;
 }
 .pathway .num {
   position: relative;
@@ -90,8 +97,50 @@ main:focus {
 .hero h1 em {
   color: #e8ddbd;
 }
+.hero {
+  overflow: clip;
+}
+.hero > img {
+  top: -64px;
+  bottom: auto;
+  height: calc(100% + 128px);
+  transform: translate3d(0, var(--hero-parallax-y, 0px), 0);
+  will-change: transform;
+}
+.hero::after {
+  background:
+    linear-gradient(
+      90deg,
+      rgba(25, 33, 26, 0.8),
+      rgba(25, 33, 26, 0.42) 55%,
+      rgba(25, 33, 26, 0.06)
+    ),
+    linear-gradient(0deg, rgba(21, 27, 21, 0.3), transparent 40%);
+  pointer-events: none;
+}
+.hero a.btn {
+  --link-hover-ink: #fff;
+  transition:
+    background-color 0.2s,
+    border-color 0.2s,
+    color 0.2s,
+    transform 0.2s;
+}
+.hero a.btn:is(:hover, :focus-visible) {
+  background: var(--olive);
+  border-color: var(--olive);
+  color: #fff;
+}
 .hero .hero-copy p {
   margin-top: 28px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero > img {
+    top: 0;
+    height: 100%;
+    transform: none;
+    will-change: auto;
+  }
 }
 .faq-answer p {
   padding: 0 0 23px;
@@ -715,13 +764,12 @@ main:focus {
     font-size: 14px;
   }
   .pathway-link {
-    padding: 45px 10px 20px 0;
+    padding: 45px 10px 20px 16px;
     font-size: 23px;
   }
-  .pathway + .pathway .pathway-link {
+  .pathway,
+  .pathway + .pathway {
     padding-left: 16px;
-  }
-  .pathway {
     min-height: 104px;
   }
   .article-page {
