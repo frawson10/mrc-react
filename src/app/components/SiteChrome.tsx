@@ -47,7 +47,27 @@ export function SiteChrome({
   operational: boolean;
 }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const header = useRef<HTMLDivElement>(null);
   const toggle = useRef<HTMLButtonElement>(null);
+  useEffect(() => {
+    const element = header.current;
+    if (!element) return;
+    let frame = 0;
+    const update = () => {
+      frame = 0;
+      const progress = Math.max(0, Math.min(1, (window.scrollY - 24) / 144));
+      element.style.setProperty("--header-progress", String(progress));
+    };
+    const requestUpdate = () => {
+      if (!frame) frame = window.requestAnimationFrame(update);
+    };
+    update();
+    window.addEventListener("scroll", requestUpdate, { passive: true });
+    return () => {
+      window.removeEventListener("scroll", requestUpdate);
+      window.cancelAnimationFrame(frame);
+    };
+  }, []);
   useEffect(() => {
     setMenuOpen(false);
   }, [path]);
@@ -99,60 +119,64 @@ export function SiteChrome({
           </SiteLink>
         </div>
       </div>
-      <header className="site-header">
-        <div className="wrap header-inner">
-          <Brand search={search} />
-          <button
-            type="button"
-            ref={toggle}
-            className="menu-toggle"
-            aria-label={menuOpen ? "Close navigation" : "Open navigation"}
-            aria-expanded={menuOpen}
-            aria-controls="main-nav"
-            onClick={() => setMenuOpen((value) => !value)}
-          >
-            <span className="menu-lines" aria-hidden="true" />
-          </button>
-          <nav
-            id="main-nav"
-            className={`nav ${menuOpen ? "open" : ""}`}
-            aria-label="Main navigation"
-          >
-            {primaryNavigation
-              .filter(([key]) => pages[key] || Object.keys(pages).length === 0)
-              .map(([key, label]) => (
+      <div className="header-position" ref={header}>
+        <header className="site-header">
+          <div className="wrap header-inner">
+            <Brand search={search} />
+            <button
+              type="button"
+              ref={toggle}
+              className="menu-toggle"
+              aria-label={menuOpen ? "Close navigation" : "Open navigation"}
+              aria-expanded={menuOpen}
+              aria-controls="main-nav"
+              onClick={() => setMenuOpen((value) => !value)}
+            >
+              <span className="menu-lines" aria-hidden="true" />
+            </button>
+            <nav
+              id="main-nav"
+              className={`nav ${menuOpen ? "open" : ""}`}
+              aria-label="Main navigation"
+            >
+              {primaryNavigation
+                .filter(
+                  ([key]) => pages[key] || Object.keys(pages).length === 0,
+                )
+                .map(([key, label]) => (
+                  <SiteLink
+                    key={key}
+                    to={`/${key}`}
+                    search={search}
+                    className={`${path === `/${key}` || path.startsWith(`/${key}/`) ? "active" : ""} ${key === "support" ? "nav-support" : ""}`}
+                    onClick={() => setMenuOpen(false)}
+                  >
+                    {label}
+                  </SiteLink>
+                ))}
+              {extras.map(([key, page]) => (
                 <SiteLink
                   key={key}
-                  to={`/${key}`}
+                  to={pagePath(key)}
                   search={search}
-                  className={`${path === `/${key}` || path.startsWith(`/${key}/`) ? "active" : ""} ${key === "support" ? "nav-support" : ""}`}
+                  className=""
                   onClick={() => setMenuOpen(false)}
                 >
-                  {label}
+                  {page.title || key}
                 </SiteLink>
               ))}
-            {extras.map(([key, page]) => (
               <SiteLink
-                key={key}
-                to={pagePath(key)}
+                to="/retreats#booking"
                 search={search}
-                className=""
+                className="nav-book"
                 onClick={() => setMenuOpen(false)}
               >
-                {page.title || key}
+                Book a stay
               </SiteLink>
-            ))}
-            <SiteLink
-              to="/retreats#booking"
-              search={search}
-              className="nav-book"
-              onClick={() => setMenuOpen(false)}
-            >
-              Book a stay
-            </SiteLink>
-          </nav>
-        </div>
-      </header>
+            </nav>
+          </div>
+        </header>
+      </div>
       <main
         id="main"
         tabIndex={-1}

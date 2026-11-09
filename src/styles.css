@@ -24,6 +24,100 @@ main:focus {
 .brand-text {
   display: block;
 }
+.header-position {
+  --header-progress: 0;
+  --header-expanded-height: 100px;
+  --header-compact-height: 68px;
+  --header-logo-width: 49px;
+  --header-logo-height: 54px;
+  --header-logo-shrink: 9px;
+  --header-logo-height-shrink: 10px;
+  --header-brand-gap: 14px;
+  --header-height: calc(
+    var(--header-expanded-height) -
+      (var(--header-expanded-height) - var(--header-compact-height)) *
+      var(--header-progress)
+  );
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  height: calc(var(--header-expanded-height) + 1px);
+  pointer-events: none;
+}
+.header-position .site-header {
+  position: relative;
+  top: auto;
+  z-index: auto;
+  pointer-events: auto;
+}
+.site-header .header-inner {
+  min-height: var(--header-height);
+  transition: min-height 0.24s ease;
+}
+.site-header .brand {
+  gap: calc(var(--header-brand-gap) * (1 - var(--header-progress)));
+  transition: gap 0.24s ease;
+}
+.site-header .brand > img {
+  width: calc(
+    var(--header-logo-width) - var(--header-logo-shrink) *
+      var(--header-progress)
+  );
+  height: calc(
+    var(--header-logo-height) - var(--header-logo-height-shrink) *
+      var(--header-progress)
+  );
+  transition:
+    width 0.24s ease,
+    height 0.24s ease;
+}
+.site-header .brand-text {
+  max-width: calc(220px * (1 - var(--header-progress)));
+  opacity: calc(1 - var(--header-progress) * 1.5);
+  transform: translateX(calc(-6px * var(--header-progress)));
+  overflow: hidden;
+  white-space: nowrap;
+  transition:
+    max-width 0.24s ease,
+    opacity 0.24s ease,
+    transform 0.24s ease;
+}
+.menu-toggle {
+  border: 0;
+}
+.menu-lines::after {
+  left: 2px;
+  top: 50%;
+  width: 18px;
+  transform: translateY(-50%);
+}
+@media (max-width: 1150px) {
+  .header-position {
+    --header-logo-width: 43px;
+    --header-logo-shrink: 7px;
+  }
+}
+@media (max-width: 900px) {
+  .header-position {
+    --header-expanded-height: 82px;
+    --header-compact-height: 60px;
+  }
+  .site-header .nav {
+    top: 100%;
+    max-height: calc(100dvh - var(--header-height) - 1px);
+    overflow-y: auto;
+  }
+}
+@media (max-width: 650px) {
+  .header-position {
+    --header-expanded-height: 78px;
+    --header-logo-width: 38px;
+    --header-logo-height: 45px;
+    --header-logo-shrink: 6px;
+    --header-logo-height-shrink: 7px;
+    --header-brand-gap: 10px;
+  }
+}
 .section .prose {
   max-width: none;
 }
