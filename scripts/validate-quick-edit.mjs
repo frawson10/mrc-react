@@ -63,7 +63,13 @@ export function validateQuickEdit(site, schema) {
       }
     }
   }
+  const taskIds = new Set(flowIds);
   for (const collection of config.collections || []) {
+    const management = collection.managementFlow;
+    if (management) {
+      if (!management.id || !management.title || taskIds.has(management.id)) errors.push(collection.id + ": missing or duplicate management flow identity");
+      taskIds.add(management.id);
+    }
     const definition = definitions.get(collection.schemaId);
     if (!flowIds.has(collection.flowId) || !config.targets[collection.indexTarget]) errors.push(collection.id + ": invalid collection wiring");
     for (const [pageId, page] of Object.entries(site.pages)) {

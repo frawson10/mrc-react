@@ -1,6 +1,6 @@
 # Quick Edit: MRC pilot
 
-The pilot organization is MRC2. Its client document must point to the mrc-react repository and contain the boolean quickEditEnabled: true. Eidos loads the two flows and all their destinations from this repository's public/block-schema.json.
+The pilot organization is MRC2. Its client document must point to the mrc-react repository and contain the boolean quickEditEnabled: true. Eidos loads four task buttons and their destinations from this repository's public/block-schema.json: Add Announcement, Edit Announcements, Add Reflection, and Edit Reflections. Lists stay hidden until their edit flow is opened.
 
 ## Add Announcement
 
@@ -27,7 +27,11 @@ The flow creates reflections/<title-slug> and places its reference first in Refl
 
 ## Existing articles
 
-The Announcements and Reflections sections offer Edit, Reorder, Remove highlight, and Delete article.
+Choose **Edit Announcements** or **Edit Reflections** on the Quick Edit landing page. Only that collection's items and actions appear. Search the list, edit an item, reorder the collection, remove a highlight, or delete an article.
+
+Use **Back to Edit Announcements/Reflections** to return from an operation to its list, or **All tasks** to return to the task buttons. Reordering always includes the entire collection, even when the list search was filtered.
+
+Saved questionnaires and recently published updates also have their own buttons, keeping long work lists off the landing page.
 
 Editing changes the mapped header fields and primary text block. Additional sections, galleries, and source credits remain unchanged. Changing a headline keeps its address.
 

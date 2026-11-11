@@ -8,9 +8,11 @@ import { referencedArticles, resolvePageSeo } from "../.test-server/test-entry.m
 const site = JSON.parse(await readFile(new URL("../public/pages.json", import.meta.url), "utf8"));
 const schema = JSON.parse(await readFile(new URL("../public/block-schema.json", import.meta.url), "utf8"));
 
-test("the two pilot flows resolve their templates, questions, editing bindings, and destinations", () => {
+test("the pilot add flows and collection-management flows resolve their configuration", () => {
   assert.deepEqual(validateQuickEdit(site, schema), []);
   assert.deepEqual(schema.quickEdit.flows.map((flow) => flow.title), ["Add Announcement", "Add Reflection"]);
+  assert.deepEqual(schema.quickEdit.collections.map((collection) => collection.managementFlow.title), ["Edit Announcements", "Edit Reflections"]);
+  assert.deepEqual(schema.quickEdit.collections.map((collection) => collection.managementFlow.id), ["edit-announcements", "edit-reflections"]);
   for (const flow of schema.quickEdit.flows) assert.ok(flow.screens.every((screen) => screen.questions.length <= 3));
 });
 test("missing or duplicated destination IDs fail pilot validation", () => {
@@ -51,4 +53,11 @@ test("complex articles created in the ordinary Editor remain valid even when a q
   body.id = "ordinary-editor-body";
   page.content.push({...structuredClone(body), id: "additional-body"});
   assert.deepEqual(validateQuickEdit(edited, schema), []);
+});
+
+
+test("management flows cannot reuse another landing task identity", () => {
+  const broken = structuredClone(schema);
+  broken.quickEdit.collections[0].managementFlow.id = broken.quickEdit.flows[0].id;
+  assert.ok(validateQuickEdit(site, broken).some((error) => error.includes("management flow identity")));
 });

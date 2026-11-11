@@ -5873,7 +5873,12 @@
           "newsIndex",
           "homeNews",
           "newsFeature"
-        ]
+        ],
+        "managementFlow": {
+          "id": "edit-announcements",
+          "title": "Edit Announcements",
+          "description": "Find an announcement to edit, reorder the News & Events list, or remove an article or highlight."
+        }
       },
       {
         "id": "reflections",
@@ -5890,7 +5895,12 @@
         "referenceTargets": [
           "reflectionsIndex",
           "homeReflections"
-        ]
+        ],
+        "managementFlow": {
+          "id": "edit-reflections",
+          "title": "Edit Reflections",
+          "description": "Find a reflection to edit, reorder the Reflections & Resources list, or remove an article or highlight."
+        }
       }
     ],
     "flows": [
