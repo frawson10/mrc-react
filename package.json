@@ -19,7 +19,8 @@
     "start": "node server.js",
     "preview": "vite preview",
     "verify:build": "node scripts/verify-build.mjs",
-    "format": "prettier --write src scripts tests server.js vite.config.ts"
+    "format": "prettier --write src scripts tests server.js vite.config.ts",
+    "validate:quick-edit": "node scripts/check-quick-edit.mjs"
   },
   "dependencies": {
     "dompurify": "3.4.13",

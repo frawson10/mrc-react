@@ -10,6 +10,7 @@ export interface EidosPageSettings {
 }
 
 export interface EidosField {
+  id?: string;
   label?: string;
   type?: string;
   description?: string;
@@ -18,6 +19,7 @@ export interface EidosField {
 }
 
 export interface EidosBlock {
+  id?: string;
   nickname?: string;
   type: string;
   description?: string;

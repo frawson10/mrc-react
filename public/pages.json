@@ -1667,7 +1667,8 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-58b57c7a902c58729c7c"
                   },
                   {
                     "nickname": "Item 2",
@@ -1693,7 +1694,8 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-7f4982d56d6d5c199baa"
                   },
                   {
                     "nickname": "Item 3",
@@ -1719,12 +1721,14 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-5591a7855ee156b59834"
                   }
                 ]
               }
             }
-          }
+          },
+          "id": "home-reflections"
         },
         {
           "nickname": "A living community.",
@@ -1891,7 +1895,8 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-df82b260b1a25df1a3f7"
                   },
                   {
                     "nickname": "Item 2",
@@ -1917,12 +1922,14 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-2876c056820d52e48329"
                   }
                 ]
               }
             }
-          }
+          },
+          "id": "home-news"
         },
         {
           "nickname": "Help this quiet life continue.",
@@ -6348,7 +6355,8 @@
                           "target": "reflections/romuald-hope"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-ef0adb5bc7295d8dbd38"
                   },
                   {
                     "nickname": "Item 2",
@@ -6365,7 +6373,8 @@
                           "target": "reflections/advent-justice-peace"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-788789bc86835324b942"
                   },
                   {
                     "nickname": "Item 3",
@@ -6382,7 +6391,8 @@
                           "target": "reflections/thanksgiving"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-6bd8446ccfee5328b6ba"
                   },
                   {
                     "nickname": "Item 4",
@@ -6399,7 +6409,8 @@
                           "target": "reflections/labyrinth-peace-walk"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-ac2f0809e7aa5532aca3"
                   },
                   {
                     "nickname": "Item 5",
@@ -6416,7 +6427,8 @@
                           "target": "reflections/apocalypse-or-renewal"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-b5dc757d232c522db77a"
                   },
                   {
                     "nickname": "Item 6",
@@ -6433,7 +6445,8 @@
                           "target": "reflections/giving-from-substance"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-92185c210f455e339a0b"
                   },
                   {
                     "nickname": "Item 7",
@@ -6450,7 +6463,8 @@
                           "target": "reflections/monastic-reading"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-b4e33ec1ca925110b954"
                   },
                   {
                     "nickname": "Item 8",
@@ -6467,7 +6481,8 @@
                           "target": "reflections/ai-common-good"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-1f94bcd0d78c5235a2b3"
                   },
                   {
                     "nickname": "Item 9",
@@ -6484,7 +6499,8 @@
                           "target": "reflections/vatican-artificial-intelligence"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-a882bfaa670f58c1b6c6"
                   },
                   {
                     "nickname": "Item 10",
@@ -6501,7 +6517,8 @@
                           "target": "reflections/dilexit-nos"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-0e9db299e93a5d49b69c"
                   },
                   {
                     "nickname": "Item 11",
@@ -6518,7 +6535,8 @@
                           "target": "reflections/body-and-indwelling-god"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-1130f6d6a40550ea863e"
                   },
                   {
                     "nickname": "Item 12",
@@ -6535,7 +6553,8 @@
                           "target": "reflections/dreamwork"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-2033116d28f6583daf6c"
                   },
                   {
                     "nickname": "Item 13",
@@ -6552,12 +6571,14 @@
                           "target": "reflections/romuald-pastoral-letter"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-d155390e67385b3fa637"
                   }
                 ]
               }
             }
-          }
+          },
+          "id": "reflections-index"
         }
       ]
     },
@@ -6873,12 +6894,14 @@
                           "text": ""
                         }
                       }
-                    }
+                    },
+                    "id": "qe-b0eace90c2e252048426"
                   }
                 ]
               }
             }
-          }
+          },
+          "id": "news-feature"
         },
         {
           "nickname": "Article Index",
@@ -6935,7 +6958,8 @@
                           "target": "news/paula-huston-book-launch"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-b3bd54fad1ca52deb436"
                   },
                   {
                     "nickname": "Item 2",
@@ -6952,7 +6976,8 @@
                           "target": "news/welcome-elizabeth-matthew"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-5a9df3ee59445cd6b283"
                   },
                   {
                     "nickname": "Item 3",
@@ -6969,7 +6994,8 @@
                           "target": "news/renewed-chapel"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-7390525d7a295a8d9d6e"
                   },
                   {
                     "nickname": "Item 4",
@@ -6986,7 +7012,8 @@
                           "target": "news/fr-thomas-ordination"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-8874fee3280a56e59d9e"
                   },
                   {
                     "nickname": "Item 5",
@@ -7003,7 +7030,8 @@
                           "target": "news/advent-taize"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-0b128166a0735cb9ac91"
                   },
                   {
                     "nickname": "Item 6",
@@ -7020,7 +7048,8 @@
                           "target": "news/fr-stephen-jubilee"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-72fcd58aa046552b914a"
                   },
                   {
                     "nickname": "Item 7",
@@ -7037,7 +7066,8 @@
                           "target": "news/fasting-for-peace"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-3619333bbc555bf3b6c8"
                   },
                   {
                     "nickname": "Item 8",
@@ -7054,12 +7084,14 @@
                           "target": "news/remembering-danella"
                         }
                       }
-                    }
+                    },
+                    "id": "qe-96ae2e5dd7325dbea198"
                   }
                 ]
               }
             }
-          }
+          },
+          "id": "news-index"
         },
         {
           "nickname": "Your gifts have a place here.",
@@ -10562,7 +10594,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -10714,7 +10747,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -11080,7 +11114,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -11232,7 +11267,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -11598,7 +11634,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -11750,7 +11787,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -12116,7 +12154,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -12268,7 +12307,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -12805,7 +12845,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -12957,7 +12998,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -13325,7 +13367,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -13477,7 +13520,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -13843,7 +13887,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -13995,7 +14040,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -14361,7 +14407,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -14513,7 +14560,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -14881,7 +14929,8 @@
                 "text": "Shared by the Monastery of the Risen Christ. External resources retain their original attribution."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -15033,7 +15082,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         }
       ]
     },
@@ -15249,7 +15299,8 @@
                 "text": "Shared by the Monastery of the Risen Christ. External resources retain their original attribution."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -15401,7 +15452,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         }
       ]
     },
@@ -15617,7 +15669,8 @@
                 "text": "Shared by the Monastery of the Risen Christ. External resources retain their original attribution."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -15769,7 +15822,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         }
       ]
     },
@@ -15985,7 +16039,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -16137,7 +16192,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -16505,7 +16561,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -16657,7 +16714,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -17025,7 +17083,8 @@
                 "text": "Shared by the Monastery of the Risen Christ. External resources retain their original attribution."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -17177,7 +17236,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -17543,7 +17603,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -17695,7 +17756,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -18302,7 +18364,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -18454,7 +18517,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "From the community",
@@ -18891,7 +18955,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -19043,7 +19108,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -19409,7 +19475,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -19561,7 +19628,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -19927,7 +19995,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -20079,7 +20148,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "From the community",
@@ -20453,7 +20523,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -20605,7 +20676,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",
@@ -20971,7 +21043,8 @@
                 "text": "From the Monastery of the Risen Christ archive."
               }
             }
-          }
+          },
+          "id": "article-header"
         },
         {
           "nickname": "Text Section",
@@ -21123,7 +21196,8 @@
                 "objects": []
               }
             }
-          }
+          },
+          "id": "article-body"
         },
         {
           "nickname": "Text Section",

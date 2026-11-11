@@ -1,3 +1,4 @@
+import { validateQuickEdit } from "./validate-quick-edit.mjs";
 import { readFile, access } from "node:fs/promises";
 import { resolve, dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -19,6 +20,8 @@ if (JSON.stringify(assetMap) !== JSON.stringify(sourceAssetMap)) {
   );
 }
 const errors = [];
+const quickEditIssues = validateQuickEdit(site, schema);
+if (quickEditIssues.length) console.warn("Quick Edit needs setup (website content can still publish):\n" + quickEditIssues.join("\n"));
 const ids = new Set();
 const labels = new Set();
 const kinds = new Set([

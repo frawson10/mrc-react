@@ -41,3 +41,7 @@ App Hosting is the primary runtime. `server.js` supplies direct page loads, true
 The following old routes remain supported: `/our-ministry`, `/announcements`, `/support-us`, `/retreat-opportunities`, and `/restorative-partners`. The server also accepts the mockup's `.html` entry URLs and article query URLs. In-app aliases preserve query strings, including `checkout=cancelled` and Eidos branches.
 
 Live calendar contents and external resources require internet access. The calendar uses the established MRC feed consistently for all view sizes, in `America/Los_Angeles`, with month, week, and agenda controls and an external-calendar fallback link.
+
+## Quick Edit rollout
+
+The Quick Edit pilot uses the clients_v2/MRC2 organization document and repoName mrc-react. The owner controls rollout with the strict boolean quickEditEnabled; missing means disabled. Its page templates, targets, questions, and actions live in public/block-schema.json. Deploy the shared functions and Eidos frontend described in the Eidos repository docs/QUICK_EDIT_DEPLOYMENT.md before using the feature. Resolve older MRC drafts before introducing the content instance IDs, and preserve those IDs during future edits.

@@ -5771,5 +5771,868 @@
       "multipleLanguages": false,
       "styleOptions": []
     }
-  ]
+  ],
+  "quickEdit": {
+    "version": 1,
+    "targets": {
+      "newsIndex": {
+        "page": "news",
+        "blockId": "news-index",
+        "path": [
+          "Items"
+        ],
+        "referencePath": [
+          "Page"
+        ],
+        "label": "News & Events listing"
+      },
+      "reflectionsIndex": {
+        "page": "reflections",
+        "blockId": "reflections-index",
+        "path": [
+          "Items"
+        ],
+        "referencePath": [
+          "Page"
+        ],
+        "label": "Reflections & Resources listing"
+      },
+      "homeNews": {
+        "page": "_home",
+        "blockId": "home-news",
+        "path": [
+          "Items"
+        ],
+        "referencePath": [
+          "Page"
+        ],
+        "label": "Homepage announcements"
+      },
+      "homeReflections": {
+        "page": "_home",
+        "blockId": "home-reflections",
+        "path": [
+          "Items"
+        ],
+        "referencePath": [
+          "Page"
+        ],
+        "label": "Homepage reflections"
+      },
+      "newsFeature": {
+        "page": "news",
+        "blockId": "news-feature",
+        "path": [
+          "Items"
+        ],
+        "referencePath": [
+          "Page"
+        ],
+        "label": "News & Events lead feature"
+      }
+    },
+    "templates": {
+      "article": {
+        "settings": {
+          "showMenu": false,
+          "showFooter": true
+        },
+        "blocks": [
+          {
+            "id": "article-header",
+            "schemaId": "ecb9b4e2655e",
+            "nickname": "Article details",
+            "adoptIfUnique": true
+          },
+          {
+            "id": "article-body",
+            "schemaId": "db7bff3306a4",
+            "nickname": "Main text",
+            "settings": {
+              "style": "Default"
+            },
+            "adoptIfUnique": true
+          }
+        ]
+      }
+    },
+    "collections": [
+      {
+        "id": "news",
+        "label": "Announcements",
+        "flowId": "add-announcement",
+        "schemaId": "ecb9b4e2655e",
+        "match": {
+          "path": [
+            "Collection"
+          ],
+          "value": "news"
+        },
+        "indexTarget": "newsIndex",
+        "referenceTargets": [
+          "newsIndex",
+          "homeNews",
+          "newsFeature"
+        ]
+      },
+      {
+        "id": "reflections",
+        "label": "Reflections",
+        "flowId": "add-reflection",
+        "schemaId": "ecb9b4e2655e",
+        "match": {
+          "path": [
+            "Collection"
+          ],
+          "value": "reflections"
+        },
+        "indexTarget": "reflectionsIndex",
+        "referenceTargets": [
+          "reflectionsIndex",
+          "homeReflections"
+        ]
+      }
+    ],
+    "flows": [
+      {
+        "id": "add-announcement",
+        "revision": 1,
+        "title": "Add Announcement",
+        "description": "Create a news or event announcement and choose its placement.",
+        "template": "article",
+        "titleAnswer": "title",
+        "pathPrefix": "news",
+        "questions": [
+          {
+            "id": "title",
+            "type": "text",
+            "label": "Title",
+            "required": true,
+            "maxLength": 180,
+            "bind": {
+              "pageField": "title"
+            }
+          },
+          {
+            "id": "category",
+            "type": "select",
+            "label": "Category",
+            "default": "Community",
+            "options": [
+              {
+                "value": "Community",
+                "label": "Community"
+              },
+              {
+                "value": "Event",
+                "label": "Event"
+              }
+            ],
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Category"
+              ]
+            }
+          },
+          {
+            "id": "summary",
+            "type": "textarea",
+            "label": "Short introduction",
+            "help": "One or two sentences for the listing and article introduction.",
+            "required": true,
+            "maxLength": 1200,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Summary"
+              ]
+            }
+          },
+          {
+            "id": "body",
+            "type": "richText",
+            "label": "Main text",
+            "help": "Include event time, location, and contact details when relevant. Additional existing sections remain unchanged.",
+            "required": true,
+            "maxLength": 100000,
+            "bind": {
+              "blockId": "article-body",
+              "path": [
+                "Body"
+              ]
+            }
+          },
+          {
+            "id": "author",
+            "type": "text",
+            "label": "Author",
+            "default": "Monastery of the Risen Christ",
+            "maxLength": 250,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Author"
+              ]
+            }
+          },
+          {
+            "id": "date",
+            "type": "text",
+            "label": "Displayed date",
+            "help": "Optional wording such as December 12, 2026. This does not schedule publication.",
+            "maxLength": 250,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Date Label"
+              ]
+            }
+          },
+          {
+            "id": "image",
+            "type": "file",
+            "label": "Article image",
+            "allowedTypes": [
+              ".jpg",
+              ".jpeg",
+              ".png",
+              ".webp",
+              ".svg"
+            ],
+            "maxSizeKb": 10240,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Image"
+              ]
+            }
+          },
+          {
+            "id": "alt",
+            "type": "text",
+            "label": "Describe the image",
+            "required": true,
+            "maxLength": 500,
+            "when": {
+              "answer": "image",
+              "present": true
+            },
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Image Alt"
+              ]
+            }
+          },
+          {
+            "id": "homePlacement",
+            "type": "select",
+            "label": "Homepage highlight",
+            "help": "For existing articles, leaving this off keeps any current highlights. Use Remove highlight in the collection to remove one.",
+            "default": "none",
+            "options": [
+              {
+                "value": "none",
+                "label": "Do not add a highlight"
+              },
+              {
+                "value": "add",
+                "label": "Add as first highlight"
+              },
+              {
+                "value": "replace",
+                "label": "Replace an existing highlight"
+              }
+            ]
+          },
+          {
+            "id": "replaceItem",
+            "type": "item",
+            "label": "Highlight to replace",
+            "target": "homeNews",
+            "required": true,
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            }
+          },
+          {
+            "id": "leadFeature",
+            "type": "boolean",
+            "label": "Use as the large News & Events feature?",
+            "default": false
+          }
+        ],
+        "screens": [
+          {
+            "id": "basics",
+            "title": "Introduce the article",
+            "questions": [
+              "title",
+              "category",
+              "summary"
+            ]
+          },
+          {
+            "id": "writing",
+            "title": "Write the article",
+            "questions": [
+              "body"
+            ]
+          },
+          {
+            "id": "byline",
+            "title": "Add the details",
+            "questions": [
+              "author",
+              "date"
+            ]
+          },
+          {
+            "id": "image",
+            "title": "Choose an image",
+            "questions": [
+              "image",
+              "alt"
+            ]
+          },
+          {
+            "id": "placement",
+            "title": "Choose where it appears",
+            "questions": [
+              "homePlacement",
+              "leadFeature"
+            ]
+          },
+          {
+            "id": "replacement",
+            "title": "Choose a highlight to replace",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            },
+            "questions": [
+              "replaceItem"
+            ]
+          }
+        ],
+        "actions": [
+          {
+            "op": "setPage",
+            "values": {
+              "title": {
+                "answer": "title"
+              },
+              "description": {
+                "answer": "summary"
+              }
+            }
+          },
+          {
+            "op": "setFields",
+            "blockId": "article-header",
+            "fields": [
+              {
+                "path": [
+                  "Title"
+                ],
+                "value": {
+                  "answer": "title"
+                }
+              },
+              {
+                "path": [
+                  "Category"
+                ],
+                "value": {
+                  "answer": "category"
+                }
+              },
+              {
+                "path": [
+                  "Collection"
+                ],
+                "value": {
+                  "literal": "news"
+                }
+              },
+              {
+                "path": [
+                  "Author"
+                ],
+                "value": {
+                  "answer": "author"
+                }
+              },
+              {
+                "path": [
+                  "Date Label"
+                ],
+                "value": {
+                  "answer": "date"
+                }
+              },
+              {
+                "path": [
+                  "Summary"
+                ],
+                "value": {
+                  "answer": "summary"
+                }
+              },
+              {
+                "path": [
+                  "Image"
+                ],
+                "value": {
+                  "answer": "image"
+                }
+              },
+              {
+                "path": [
+                  "Image Alt"
+                ],
+                "value": {
+                  "answer": "alt"
+                }
+              }
+            ]
+          },
+          {
+            "op": "setFields",
+            "blockId": "article-body",
+            "fields": [
+              {
+                "path": [
+                  "Body"
+                ],
+                "value": {
+                  "answer": "body"
+                }
+              }
+            ]
+          },
+          {
+            "op": "insertReference",
+            "target": "newsIndex",
+            "position": "first",
+            "when": {
+              "mode": "create"
+            },
+            "review": "Place first in News & Events listing"
+          },
+          {
+            "op": "insertReference",
+            "target": "homeNews",
+            "position": "first",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "add"
+            },
+            "review": "Add as the first homepage announcements highlight"
+          },
+          {
+            "op": "replaceReference",
+            "target": "homeNews",
+            "itemAnswer": "replaceItem",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            },
+            "review": "Replace the selected homepage announcements highlight"
+          },
+          {
+            "op": "setReferences",
+            "target": "newsFeature",
+            "when": {
+              "answer": "leadFeature",
+              "equals": true
+            },
+            "review": "Replace the large News & Events feature with this announcement"
+          },
+          {
+            "op": "setFields",
+            "blockId": "news-feature",
+            "fields": [
+              {
+                "path": [
+                  "Title"
+                ],
+                "value": ""
+              },
+              {
+                "path": [
+                  "Eyebrow"
+                ],
+                "value": ""
+              },
+              {
+                "path": [
+                  "Body"
+                ],
+                "value": ""
+              }
+            ],
+            "target": "newsFeature",
+            "when": {
+              "answer": "leadFeature",
+              "equals": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "add-reflection",
+        "revision": 1,
+        "title": "Add Reflection",
+        "description": "Create a reflection, homily, or resource and choose its placement.",
+        "template": "article",
+        "titleAnswer": "title",
+        "pathPrefix": "reflections",
+        "questions": [
+          {
+            "id": "title",
+            "type": "text",
+            "label": "Title",
+            "required": true,
+            "maxLength": 180,
+            "bind": {
+              "pageField": "title"
+            }
+          },
+          {
+            "id": "category",
+            "type": "select",
+            "label": "Category",
+            "default": "Reflection",
+            "options": [
+              {
+                "value": "Reflection",
+                "label": "Reflection"
+              },
+              {
+                "value": "Homily",
+                "label": "Homily"
+              },
+              {
+                "value": "Reading list",
+                "label": "Reading list"
+              },
+              {
+                "value": "Resource",
+                "label": "Resource"
+              }
+            ],
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Category"
+              ]
+            }
+          },
+          {
+            "id": "summary",
+            "type": "textarea",
+            "label": "Short introduction",
+            "help": "One or two sentences for the listing and article introduction.",
+            "required": true,
+            "maxLength": 1200,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Summary"
+              ]
+            }
+          },
+          {
+            "id": "body",
+            "type": "richText",
+            "label": "Main text",
+            "help": "Include event time, location, and contact details when relevant. Additional existing sections remain unchanged.",
+            "required": true,
+            "maxLength": 100000,
+            "bind": {
+              "blockId": "article-body",
+              "path": [
+                "Body"
+              ]
+            }
+          },
+          {
+            "id": "author",
+            "type": "text",
+            "label": "Author",
+            "default": "Monastery of the Risen Christ",
+            "maxLength": 250,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Author"
+              ]
+            }
+          },
+          {
+            "id": "date",
+            "type": "text",
+            "label": "Displayed date",
+            "help": "Optional wording such as December 12, 2026. This does not schedule publication.",
+            "maxLength": 250,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Date Label"
+              ]
+            }
+          },
+          {
+            "id": "image",
+            "type": "file",
+            "label": "Article image",
+            "allowedTypes": [
+              ".jpg",
+              ".jpeg",
+              ".png",
+              ".webp",
+              ".svg"
+            ],
+            "maxSizeKb": 10240,
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Image"
+              ]
+            }
+          },
+          {
+            "id": "alt",
+            "type": "text",
+            "label": "Describe the image",
+            "required": true,
+            "maxLength": 500,
+            "when": {
+              "answer": "image",
+              "present": true
+            },
+            "bind": {
+              "blockId": "article-header",
+              "path": [
+                "Image Alt"
+              ]
+            }
+          },
+          {
+            "id": "homePlacement",
+            "type": "select",
+            "label": "Homepage highlight",
+            "help": "For existing articles, leaving this off keeps any current highlights. Use Remove highlight in the collection to remove one.",
+            "default": "none",
+            "options": [
+              {
+                "value": "none",
+                "label": "Do not add a highlight"
+              },
+              {
+                "value": "add",
+                "label": "Add as first highlight"
+              },
+              {
+                "value": "replace",
+                "label": "Replace an existing highlight"
+              }
+            ]
+          },
+          {
+            "id": "replaceItem",
+            "type": "item",
+            "label": "Highlight to replace",
+            "target": "homeReflections",
+            "required": true,
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            }
+          }
+        ],
+        "screens": [
+          {
+            "id": "basics",
+            "title": "Introduce the article",
+            "questions": [
+              "title",
+              "category",
+              "summary"
+            ]
+          },
+          {
+            "id": "writing",
+            "title": "Write the article",
+            "questions": [
+              "body"
+            ]
+          },
+          {
+            "id": "byline",
+            "title": "Add the details",
+            "questions": [
+              "author",
+              "date"
+            ]
+          },
+          {
+            "id": "image",
+            "title": "Choose an image",
+            "questions": [
+              "image",
+              "alt"
+            ]
+          },
+          {
+            "id": "placement",
+            "title": "Choose where it appears",
+            "questions": [
+              "homePlacement"
+            ]
+          },
+          {
+            "id": "replacement",
+            "title": "Choose a highlight to replace",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            },
+            "questions": [
+              "replaceItem"
+            ]
+          }
+        ],
+        "actions": [
+          {
+            "op": "setPage",
+            "values": {
+              "title": {
+                "answer": "title"
+              },
+              "description": {
+                "answer": "summary"
+              }
+            }
+          },
+          {
+            "op": "setFields",
+            "blockId": "article-header",
+            "fields": [
+              {
+                "path": [
+                  "Title"
+                ],
+                "value": {
+                  "answer": "title"
+                }
+              },
+              {
+                "path": [
+                  "Category"
+                ],
+                "value": {
+                  "answer": "category"
+                }
+              },
+              {
+                "path": [
+                  "Collection"
+                ],
+                "value": {
+                  "literal": "reflections"
+                }
+              },
+              {
+                "path": [
+                  "Author"
+                ],
+                "value": {
+                  "answer": "author"
+                }
+              },
+              {
+                "path": [
+                  "Date Label"
+                ],
+                "value": {
+                  "answer": "date"
+                }
+              },
+              {
+                "path": [
+                  "Summary"
+                ],
+                "value": {
+                  "answer": "summary"
+                }
+              },
+              {
+                "path": [
+                  "Image"
+                ],
+                "value": {
+                  "answer": "image"
+                }
+              },
+              {
+                "path": [
+                  "Image Alt"
+                ],
+                "value": {
+                  "answer": "alt"
+                }
+              }
+            ]
+          },
+          {
+            "op": "setFields",
+            "blockId": "article-body",
+            "fields": [
+              {
+                "path": [
+                  "Body"
+                ],
+                "value": {
+                  "answer": "body"
+                }
+              }
+            ]
+          },
+          {
+            "op": "insertReference",
+            "target": "reflectionsIndex",
+            "position": "first",
+            "when": {
+              "mode": "create"
+            },
+            "review": "Place first in Reflections & Resources listing"
+          },
+          {
+            "op": "insertReference",
+            "target": "homeReflections",
+            "position": "first",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "add"
+            },
+            "review": "Add as the first homepage reflections highlight"
+          },
+          {
+            "op": "replaceReference",
+            "target": "homeReflections",
+            "itemAnswer": "replaceItem",
+            "when": {
+              "answer": "homePlacement",
+              "equals": "replace"
+            },
+            "review": "Replace the selected homepage reflections highlight"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -986,7 +986,7 @@ export function BlockRenderer({
           blockRegistry[block.type as keyof typeof blockRegistry];
         return (
           <div
-            key={`${block.type}-${index}`}
+            key={block.id || `${block.type}-${index}`}
             data-block-type={block.type}
             id={text(block, "Anchor") || undefined}
           >

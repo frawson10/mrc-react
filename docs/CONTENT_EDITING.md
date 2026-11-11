@@ -39,3 +39,7 @@ The Giving Section preserves the existing one-time Stripe destination and all se
 Suite Reservations and Live Calendar have no editable content fields. Eidos can place, move, or remove their marker blocks using its existing managed-block semantics; their behavior is maintained in the React application. Payment configuration, availability, administrator access, and public booking pause cannot be changed by CMS text.
 
 The hospitality status banner and original startup animation are application features. Public booking remains paused until the owner deliberately changes the operational build setting. Updating editorial wording alone never opens booking.
+
+## Quick Edit pilot
+
+The MRC2 organization can use the schema-configured Add Announcement and Add Reflection flows when quickEditEnabled is true in its client document. See [QUICK_EDIT.md](QUICK_EDIT.md) for guided posting, draft/preview/publish behavior, and collection management. The ordinary Editor workflow above remains supported.

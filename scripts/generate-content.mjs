@@ -6,6 +6,14 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+// Quick Edit setup makes this an actively managed site. Never overwrite its schema
+// or stable content IDs by rerunning the original one-time mockup import.
+try {
+  const current = JSON.parse(await readFile(resolve(root, "public/block-schema.json"), "utf8"));
+  if (current.quickEdit) throw new Error("This site has Quick Edit configuration. The one-time import is disabled; edit public/pages.json and public/block-schema.json directly.");
+} catch (error) {
+  if (error.code !== "ENOENT") throw error;
+}
 const read = async (name) =>
   JSON.parse(await readFile(resolve(root, "content", name), "utf8"));
 const [collection, originals, sources] = await Promise.all(
