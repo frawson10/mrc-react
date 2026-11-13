@@ -41,6 +41,8 @@ The production server listens on `PORT` (8080 by default). Set `HOST=127.0.0.1` 
 
 ## Handoff
 
+Before moving the main domain, read the [November 11 launch audit](docs/LAUNCH_AUDIT_2026-11-11.md), including the local fixes to deploy and the www hostname correction.
+
 Read [Eidos connection](docs/EIDOS_HANDOFF.md), [content editing](docs/CONTENT_EDITING.md), [reservation compatibility](docs/RESERVATIONS.md), and [verification results](docs/VERIFICATION.md).
 
 No remote repository, deployment, Eidos code change, Firebase configuration change, booking-data migration, or live Stripe transaction is required to review this local repository. The owner completes the remote/Firebase connection and then validates the real Eidos edit-preview-publish cycle.

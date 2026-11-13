@@ -782,6 +782,7 @@ function ArticleIndex({ block, pages, search }: BlockProps) {
   const [category, setCategory] = useState("All");
   const [query, setQuery] = useState("");
   const searchId = useId();
+  const isNews = text(block, "Collection") === "news";
   const entries = referencedArticles(block, pages);
   const categories = [
     ...new Set(
@@ -819,19 +820,24 @@ function ArticleIndex({ block, pages, search }: BlockProps) {
                 aria-pressed={category === value}
                 onClick={() => setCategory(value)}
               >
-                {value === "All" ? "All resources" : value}
+                {value === "All"
+                  ? isNews
+                    ? "All stories"
+                    : "All resources"
+                  : value}
               </button>
             ))}
           </div>
           <label htmlFor={searchId} className="screen-reader">
-            Search the library
+            {isNews ? "Search news & events" : "Search the library"}
           </label>
           <input
             id={searchId}
             className="search"
             type="search"
             placeholder={
-              text(block, "Search Placeholder") || "Search the library…"
+              text(block, "Search Placeholder") ||
+              (isNews ? "Search news & events…" : "Search the library…")
             }
             value={query}
             onChange={(event) => setQuery(event.target.value)}
@@ -842,7 +848,7 @@ function ArticleIndex({ block, pages, search }: BlockProps) {
         )}
         <p className="results-label" aria-live="polite">
           {filtered.length}{" "}
-          {text(block, "Collection") === "news"
+          {isNews
             ? filtered.length === 1
               ? "story"
               : "stories"
@@ -857,7 +863,8 @@ function ArticleIndex({ block, pages, search }: BlockProps) {
         </div>
         {filtered.length === 0 && (
           <p className="empty-state">
-            No resources match your search. Try another word or category.
+            No {isNews ? "stories" : "resources"} match your search. Try another
+            word or category.
           </p>
         )}
       </div>

@@ -16,4 +16,6 @@ export {
   AdminPage,
   CancellationPage,
   ConfirmationPage,
+  SuiteReservations,
 } from "./app/components/Reservations";
+export { SiteChrome } from "./app/components/SiteChrome";

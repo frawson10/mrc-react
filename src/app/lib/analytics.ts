@@ -1,4 +1,6 @@
 import { siteConfig } from "./config";
+const ANALYTICS_CLIENT_ID = "MRC2";
+const SESSION_STORAGE_KEY = `symposio.analytics.session.${ANALYTICS_CLIENT_ID}`;
 let sessionId = "";
 let started = false;
 let queue: Record<string, unknown>[] = [];
@@ -11,7 +13,7 @@ function flush(keepalive = false) {
     {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ data: { clientId: "MRC", events } }),
+      body: JSON.stringify({ data: { clientId: ANALYTICS_CLIENT_ID, events } }),
       keepalive,
       referrerPolicy: "no-referrer",
     },
@@ -29,9 +31,8 @@ export function trackPublicPage(path: string, pageTitle: string) {
   if (!sessionId) {
     try {
       sessionId =
-        sessionStorage.getItem("symposio.analytics.session.MRC") ||
-        crypto.randomUUID();
-      sessionStorage.setItem("symposio.analytics.session.MRC", sessionId);
+        sessionStorage.getItem(SESSION_STORAGE_KEY) || crypto.randomUUID();
+      sessionStorage.setItem(SESSION_STORAGE_KEY, sessionId);
     } catch {
       sessionId = crypto.randomUUID();
     }
@@ -43,7 +44,7 @@ export function trackPublicPage(path: string, pageTitle: string) {
     targetValue = "",
   ) => {
     queue.push({
-      clientId: "MRC",
+      clientId: ANALYTICS_CLIENT_ID,
       eventType,
       label,
       path,

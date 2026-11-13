@@ -31,11 +31,16 @@ dom.window.HTMLDialogElement.prototype.close = function () {
   this.open = false;
 };
 const { createElement, act } = await import("react");
-const { createRoot } = await import("react-dom/client");
+const { createRoot, hydrateRoot } = await import("react-dom/client");
+const { renderToString } = await import("react-dom/server");
 const { MemoryRouter, useNavigate } = await import("react-router-dom");
-const { AdminPage, CancellationPage, ConfirmationPage } = await import(
-  "../.test-server/test-entry.mjs"
-);
+const {
+  AdminPage,
+  CancellationPage,
+  ConfirmationPage,
+  SuiteReservations,
+  SiteChrome,
+} = await import("../.test-server/test-entry.mjs");
 const container = document.getElementById("test-root");
 const response = (data) =>
   new Response(JSON.stringify({ data }), { status: 200 });
@@ -226,4 +231,114 @@ test("changing a loading confirmation to a cancelled route clears the spinner", 
   );
   assert.equal(container.textContent.includes("Reservation confirmed"), false);
   await unmount(root);
+});
+test("query-string checkout and emailed cancellation links hydrate without replacing prerendered markup", async () => {
+  const requests = [];
+  globalThis.fetch = async (url) => {
+    requests.push(url);
+    return response({
+      success: false,
+      error: "This fixture link has expired.",
+    });
+  };
+  const cases = [
+    [
+      SuiteReservations,
+      "/retreats",
+      "?checkout=cancelled",
+      "Checkout was cancelled before payment",
+    ],
+    [
+      ConfirmationPage,
+      "/reservation/confirm",
+      "?checkout=cancelled",
+      "Checkout cancelled",
+    ],
+    [
+      CancellationPage,
+      "/cancel-reservation",
+      "?token=fixture-token",
+      "This fixture link has expired.",
+    ],
+  ];
+  for (const [component, path, search, expected] of cases) {
+    const renderAt = (location) =>
+      createElement(
+        MemoryRouter,
+        { initialEntries: [location] },
+        createElement(component, { search: "" }),
+      );
+    container.innerHTML = renderToString(renderAt(path));
+    const errors = [];
+    let root;
+    await act(async () => {
+      root = hydrateRoot(container, renderAt(path + search), {
+        onRecoverableError: (error) => errors.push(error.message),
+      });
+    });
+    assert.deepEqual(errors, [], path);
+    assert.ok(container.textContent.includes(expected), path);
+    await unmount(root);
+  }
+  assert.equal(
+    requests.length,
+    1,
+    "Only the synthetic cancellation preview is requested",
+  );
+  assert.ok(requests[0].endsWith("getCancellableReservation"));
+});
+test("returning from an open mobile menu to desktop unlocks the page", async () => {
+  const listeners = new Set();
+  let desktop = false;
+  const originalMatchMedia = window.matchMedia;
+  const originalRequestFrame = window.requestAnimationFrame;
+  const originalCancelFrame = window.cancelAnimationFrame;
+  window.matchMedia = () => ({
+    get matches() {
+      return desktop;
+    },
+    addEventListener: (_event, listener) => listeners.add(listener),
+    removeEventListener: (_event, listener) => listeners.delete(listener),
+  });
+  window.requestAnimationFrame = (callback) => setTimeout(callback, 0);
+  window.cancelAnimationFrame = clearTimeout;
+  const root = createRoot(container);
+  try {
+    await act(async () =>
+      root.render(
+        createElement(
+          MemoryRouter,
+          null,
+          createElement(
+            SiteChrome,
+            {
+              pages: {},
+              path: "/",
+              search: "",
+              branch: null,
+              operational: false,
+            },
+            createElement("p", null, "Page content"),
+          ),
+        ),
+      ),
+    );
+    await click(container.querySelector(".menu-toggle"));
+    assert.equal(container.querySelector("main").hasAttribute("inert"), true);
+    assert.equal(document.body.classList.contains("menu-open"), true);
+    desktop = true;
+    await act(async () => listeners.forEach((listener) => listener()));
+    assert.equal(container.querySelector("main").hasAttribute("inert"), false);
+    assert.equal(document.body.classList.contains("menu-open"), false);
+    assert.equal(
+      container.querySelector(".menu-toggle").getAttribute("aria-expanded"),
+      "false",
+    );
+  } finally {
+    await unmount(root);
+    window.matchMedia = originalMatchMedia;
+    window.requestAnimationFrame = originalRequestFrame;
+    window.cancelAnimationFrame = originalCancelFrame;
+  }
+  assert.equal(listeners.size, 0, "Viewport listener is removed on unmount");
 });

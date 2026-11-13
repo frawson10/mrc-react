@@ -1,5 +1,7 @@
 # Local verification · October 28, 2026
 
+For the current deployed-site checks, audit fixes, reservation-pause status, and domain-cutover instructions, see the [November 11 launch audit](LAUNCH_AUDIT_2026-11-11.md). The results below are the original implementation snapshot.
+
 The local implementation is ready for the owner to connect the new repository to Firebase and Eidos. These results verify the supplied content, frontend, and existing API contracts; they do not claim a deployed Eidos connection or completed live payment.
 
 ## Automated checks

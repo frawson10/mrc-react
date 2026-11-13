@@ -33,6 +33,14 @@ const money = (cents = 12000) =>
     maximumFractionDigits: 0,
   }).format(cents / 100);
 const sessionKey = "mrc_admin_session";
+// Prerendered pages have no query string. Match that first render before
+// showing query-dependent notices or loading an emailed reservation link.
+function useHydratedSearch() {
+  const { search } = useLocation();
+  const [hydrated, setHydrated] = useState(false);
+  useEffect(() => setHydrated(true), []);
+  return { search: hydrated ? search : "", hydrated };
+}
 function errorMessage(error: unknown) {
   return error instanceof Error
     ? error.message
@@ -134,7 +142,7 @@ export function SuitesPreview({ block, search }: BlockProps) {
 }
 export function SuiteReservations({ search }: BlockProps) {
   const [selected, setSelected] = useState<SuiteName | null>(null);
-  const location = useLocation();
+  const location = useHydratedSearch();
   const cancelled =
     new URLSearchParams(location.search).get("checkout") === "cancelled";
   return (
@@ -713,7 +721,7 @@ function ReservationDetails({
   );
 }
 export function ConfirmationPage() {
-  const { search } = useLocation();
+  const { search, hydrated } = useHydratedSearch();
   const [reservation, setReservation] = useState<ReservationSummary | null>(
     null,
   );
@@ -727,6 +735,7 @@ export function ConfirmationPage() {
     setReservation(null);
     setError("");
     setLoading(false);
+    if (!hydrated) return;
     if (cancelled) return;
     if (!sessionId || !/^cs_[A-Za-z0-9_]+$/.test(sessionId)) {
       setError(
@@ -762,7 +771,7 @@ export function ConfirmationPage() {
         if (!controller.signal.aborted) setLoading(false);
       });
     return () => controller.abort();
-  }, [sessionId, cancelled, refresh]);
+  }, [hydrated, sessionId, cancelled, refresh]);
   return (
     <section className="section">
       <div className="wrap transaction-page">
@@ -826,7 +835,8 @@ export function ConfirmationPage() {
   );
 }
 export function CancellationPage() {
-  const token = new URLSearchParams(useLocation().search).get("token") || "";
+  const { search } = useHydratedSearch();
+  const token = new URLSearchParams(search).get("token") || "";
   const [reservation, setReservation] = useState<ReservationSummary | null>(
     null,
   );

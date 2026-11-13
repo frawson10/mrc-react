@@ -8,9 +8,10 @@ These values have different purposes and must remain distinct:
 | --- | --- |
 | `mrc-react` | New Git repository and preview request `repoName` |
 | `settings.client: mrc-web` | Existing generic MRC editor behavior in `pages.json` |
-| Existing MRC organization in `clients_v2` | Eidos access, media library, preview/hosting metadata; retain the existing organization ID |
+| `clients_v2/MRC2` | React site's Eidos organization, media library, preview/hosting metadata, and website analytics |
 | `clients/MRC/booking/...` | Existing private reservation records; unchanged |
-| Analytics client `MRC` | Existing website activity feed |
+| Analytics client `MRC2` | React website activity feed; both request and individual event IDs use this value |
+| `clients_v2/MRC` | Original Angular site's historical analytics; React traffic is not written here |
 
 Do not copy San Carlos's `scc2` identifier or menu categories. This site supports the current generic Eidos Add Page flow. It supplies complete `settings.seo`, so the new repository does not depend on a hard-coded SEO default entry in Eidos.
 
@@ -18,13 +19,19 @@ Do not copy San Carlos's `scc2` identifier or menu categories. This site support
 
 1. Create/connect the GitHub repository named `mrc-react` under the owner accessible to the existing Eidos GitHub integration. Push this local repository's `main` branch.
 2. Create the desired Firebase App Hosting production and testing backends, selecting this repository and the appropriate build environment/overlay. The application builds with `npm run build` and runs with `node server.js`.
-3. In the existing MRC organization document used by Eidos, set `repoName` to `mrc-react`; set `testingDomain` to the testing backend URL; set `liveSiteUrl` (or the existing live URL field) to `https://mrcslo.com`; and supply the production `appHostingBackendId`, `appHostingRegion`, and `appHostingProjectId`.
+3. In the `clients_v2/MRC2` organization document used by Eidos, set `repoName` to `mrc-react`; set `testingDomain` to the testing backend URL; set `liveSiteUrl` (or the existing live URL field) to `https://mrcslo.com`; and supply the production `appHostingBackendId`, `appHostingRegion`, and `appHostingProjectId`.
 4. Enable `supportsMediaRefV2` for that organization if desired. The frontend accepts both URL strings and v2 library references. Preserve existing administrator and media-library membership.
 5. Production must build with `VITE_SITE_BUILD_TARGET=production`. Testing must build with `VITE_SITE_BUILD_TARGET=testing`. Both use `VITE_EIDOS_REPO_NAME=mrc-react`, the existing preview endpoint, default branch `main`, and `VITE_PUBLIC_RESERVATIONS_PAUSED=true`.
 6. Verify an Eidos edit in a new branch: change a heading, reorder a block, add a list item, select a library image, and open the testing link. Navigate to another page and an anchor; the branch query must stay active.
 7. Publish through the existing Eidos workflow. Verify the new production build contains the change, article metadata, canonical links, and sitemap. Keep the previous MRC backend available until cutover acceptance is complete.
 
 This repository does not change Eidos, GitHub/Firebase configuration, secrets, backend functions, Firestore rules, or the live domain.
+
+## Analytics identity
+
+Production App Hosting enables website analytics with `VITE_ENABLE_ANALYTICS=true`. The React tracker sends the batch and every event to analytics client `MRC2`, with its own `symposio.analytics.session.MRC2` browser session key. Eidos reads the matching `clients_v2/MRC2` analytics collections. Testing builds, local previews, and reservation/admin system pages do not collect website analytics.
+
+The original MRC history stays under `clients_v2/MRC`; there is no analytics-data migration or deletion. Redirecting React events stops this site's new traffic from mixing into that history. The current shared ingest function has no client-document pause setting, so changing an arbitrary pause field on the old document would not stop older deployed clients from sending events. Retire or disable tracking on any old Angular deployment separately if it remains publicly reachable. Reservation records continue to use `clients/MRC/booking/...` and are unrelated to this analytics identity.
 
 ## Content protocol
 
